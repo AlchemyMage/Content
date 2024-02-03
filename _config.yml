@@ -26,10 +26,19 @@ url: "https://alchemy.posetmage.com" # the base hostname & protocol for your sit
 baseurl: "/Content" # the subpath of your site, e.g. /blog
 repository: alchemymage/Content
 
-
-site_favicon: favicon.ico
-includes_dir: _shared/_includes
-layouts_dir: _shared/_layouts
+social:
+  - platform: envelope
+    url: mailto:alchemy@posetmage.com
+  - platform: youtube
+    url: https://youtube.com/@alchemymage
+  - platform: facebook
+    url: https://facebook.com/alchemymage
+  - platform: twitter
+    url: https://twitter.com/alchemymage
+  - platform: medium
+    url: https://medium.com/@alchemymage
+  - platform: threads
+    url: https://threads.net/alchemy.mage
 
 # Build settings
 remote_theme: jekyll/minima
