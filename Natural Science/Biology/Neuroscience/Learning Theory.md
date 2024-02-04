@@ -106,8 +106,6 @@
 
 ## 高原現象(plateau phenomenon)
 《原子習慣》  
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*8ck2Ods10qoggc5H.png)
-
 ![](https://2.bp.blogspot.com/--3hTA__fvgg/UU8uiG_LZCI/AAAAAAAABT0/CN7Fs0jI6ds/s1600/Learningcurve.jpg)  
 (圖片來源：https://the-knowledgesmart-blog.blogspot.com/2013/03/learning-plateaus.html)  
 短期學習，局部看有初學者效應和邊際效益，剛開始學的時候會有進步很快的感覺，然後過一段時間，進步幅度會越來越少，這個就是高原現象。  
@@ -124,7 +122,7 @@
 
 ## 知識廣度深度
 自信模型：  
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*8ck2Ods10qoggc5H.png)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*8ck2Ods10qoggc5H.png" style="background-color: white;">  
 (圖片來源：[Why Learning to Code is So Damn Hard](https://medium.com/@andrewlatta/why-learning-to-code-is-so-damn-hard-303eae632820))
 
 為甚麼會有初學者效應，可以說因為剛開始學習，很容易搜到各種入門的教學，猴子都能上手，比如學日文剛學五十音，學了一點單字，會有這個看得懂、那個也看得懂的感覺，初學者容易自信滿滿。
