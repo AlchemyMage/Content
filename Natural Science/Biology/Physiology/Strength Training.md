@@ -6,7 +6,7 @@
 這邊會有一個誤解，很多人會說深蹲硬舉臥推也是專項，專精深蹲硬舉臥推的技術並不容易轉移到其他運動，比如網球。
 所以需要釐清，肌力體能訓練只是把深蹲硬舉當作訓練的工具之一，動作也不會只練比賽專用的動作，而是會在類似動作中做出不同的變化來達到通用性與泛化。(關於泛化(Generalization)的概念可以參考[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory.html#header-7))
 
-### other resource:
+* [【耐力項目運動員要練肌力訓練？】](https://www.monstertraining.com.tw/2017/02/07/%e3%80%90%e8%80%90%e5%8a%9b%e9%a0%85%e7%9b%ae%e9%81%8b%e5%8b%95%e5%93%a1%e8%a6%81%e7%b7%b4%e8%82%8c%e5%8a%9b%e8%a8%93%e7%b7%b4%ef%bc%9f%e3%80%91/)
 * ★★★★★ [無可取代的最大肌力！為何最大肌力是地板指標？【SBD怪獸講堂｜S2 ep.9】](https://youtu.be/fgfVk_GtPMA)
 
 ## 為什麼是肌力體能訓練
@@ -30,8 +30,8 @@
 
 比如一般會說深蹲入門的目標是蹲一倍體重，通常會以練到兩倍體重為目標，一倍體重通常會當作一個簡單的初始及格目標，大部分的人連及格都望塵莫及。但這也恰恰說明了初學者效應，多數人光是先練到一倍體重對於生活和健康都有很大的改善。
 
+* [我有運動/勞動不就好了嗎？一定要做肌力訓練嗎？](https://www.monstertraining.com.tw/2019/01/28/%e6%88%91%e6%9c%89%e9%81%8b%e5%8b%95-%e5%8b%9e%e5%8b%95%e4%b8%8d%e5%b0%b1%e5%a5%bd%e4%ba%86%e5%97%8e%ef%bc%9f%e4%b8%80%e5%ae%9a%e8%a6%81%e5%81%9a%e8%82%8c%e5%8a%9b%e8%a8%93%e7%b7%b4%e5%97%8e%ef%bc%9f/)
 * ★★★★★ [肌力訓練到底該做哪些動作？什麼是一般適應症候群？【SBD怪獸講堂S1: E7】](https://youtu.be/Y3i2eZ25E9o)
-
 
 ## 訓練風險
 很多人會以為重量訓練風險很大，往往拿一些發生事故的特例來說重量訓練很危險。但其實其他運動造成的傷害往往更多，就類似社會上對女生駕駛會有車禍較多的刻板印象偏見。
@@ -58,6 +58,7 @@
 
 這個壓力需要有足夠的強度，大概是在70%的最大肌力以上。因此運動和訓練是不同的，很多人誤把運動當訓練。  
 我們在學習理論[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory)和訓練規劃[[Training Plan]](/Content/Natural%20Science/Biology/Neuroscience/Training%20Plan)也都有提到，強度需要在一個不會太簡單也不會太難的程度才會有訓練效果，身體系統才會獲得刺激，並且在休息後成長。
+* [等一下，你所謂的肌力訓練，跟我知道好像不一樣](https://www.monstertraining.com.tw/2019/01/28/%e7%ad%89%e4%b8%80%e4%b8%8b%ef%bc%8c%e4%bd%a0%e6%89%80%e8%ac%82%e7%9a%84%e8%82%8c%e5%8a%9b%e8%a8%93%e7%b7%b4%ef%bc%8c%e8%b7%9f%e6%88%91%e7%9f%a5%e9%81%93%e5%a5%bd%e5%83%8f%e4%b8%8d%e4%b8%80%e6%a8%a3/)
 * ★★★★★ [高強度訓練？低強度疲勞？你真的有在運動嗎？【SBD怪獸講堂 S1: E5】 ](https://youtu.be/lLI5-pbbn3w)
 
 ## 七分吃三分練
