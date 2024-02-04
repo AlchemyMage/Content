@@ -24,13 +24,16 @@ Resilience是面對困境之後在倒下之後能站起來的心理素質。這�
 
 
 ### 學習經驗
-[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory)也會訓練神經可塑性
+我們在學習理論[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory)文中提到，學習是要學到經驗而非單純的背誦。
 
+要訓練Resilience，需要經常面對不可預測性的環境，[怪獸訓練電台](https://www.youtube.com/watch?v=T7CEqD87wmU)也多次提到競技就是模擬人生，從比賽中學到面對人生困難的心態。
 
-[怪獸訓練電台](https://www.youtube.com/watch?v=T7CEqD87wmU)也多次提到競技就是模擬人生，從比賽中學到面對人生困難的心態
 
 
 所謂的長期計畫並不是達成一個遠大的目標，而是形成一個+EV的習慣，只要+EV時間夠久，就會累積不凡的成就。
+
+
+
 
 ## References
 * 書單
