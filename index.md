@@ -11,4 +11,4 @@ layout: base
 * [Art](./Art)
 * [Others](./Others)
 
-### [all notes list](./all%20notes)
+### [全部文章列表](./all%20notes)
