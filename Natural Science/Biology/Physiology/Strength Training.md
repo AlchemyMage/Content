@@ -4,7 +4,7 @@
 為什麼要肌力體能訓練? 因為肌力體能訓練的結果具有可轉移性，肌力體能訓練並不是專項訓練。舉反例來說，游泳高度訓練之後，並不容易在另一項有明顯成效；而肌力體能目標是可轉移的基礎能力。
 
 這邊會有一個誤解，很多人會說深蹲硬舉臥推也是專項，專精深蹲硬舉臥推的技術並不容易轉移到其他運動，比如網球。
-所以需要釐清，肌力體能訓練只是把深蹲硬舉當作訓練的工具之一，動作也不會只練比賽專用的動作，而是會在類似動作中做出不同的變化來達到通用性與泛化。(關於泛化(Generalization)的概念可以參考[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory.html#header-6))
+所以需要釐清，肌力體能訓練只是把深蹲硬舉當作訓練的工具之一，動作也不會只練比賽專用的動作，而是會在類似動作中做出不同的變化來達到通用性與泛化。(關於泛化(Generalization)的概念可以參考[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory.html#header-7))
 
 ### other resource:
 * ★★★★★ [無可取代的最大肌力！為何最大肌力是地板指標？【SBD怪獸講堂｜S2 ep.9】](https://youtu.be/fgfVk_GtPMA)

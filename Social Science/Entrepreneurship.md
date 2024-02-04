@@ -27,7 +27,7 @@
 
 
 ## 風險偏好思維
-人在長年演化下，發展出風險趨避本能。創業思維則是需要風險偏好思維，要訓練風險偏好思維主要是透過訓練決策品質[[Decision Theory]](/Social%20Science/Economics/Decision%20Theory)。
+人在長年演化下，發展出風險趨避本能。創業思維則是需要風險偏好思維，要訓練風險偏好思維主要是透過訓練決策品質[[Decision Theory]](/Content/Social%20Science/Economics/Decision%20Theory)。
 
 因為創業是高風險高收益，因此需要在期望值思維下才能做出正確的決策。
 
@@ -53,8 +53,6 @@ Y Combinator的創業課程之中，很強調迭代速度。因為創業抓時�
 ---
 tags:
   - [[【官方】Iku老師的房間]]
-  - [[Better Leaf 好葉]]
-  - [[陳寗 NingSelect]]
   - [[窮奢極欲]]
   - [[思維咖啡]]
 

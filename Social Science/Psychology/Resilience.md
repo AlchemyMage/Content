@@ -7,10 +7,6 @@
 
 具備面對問題正確的心態，指的就是Resilience，或者是創業需要保持絕對的理性，這句也是指心態。
 
-
-
-
-
 ## 訓練
 Resilience是面對困境之後在倒下之後能站起來的心理素質。這是一個需要訓練的專業能力，就像彈鋼琴一樣，並不是跟你說五線譜上的音符代表黑鍵白鍵，看完別人演奏一次你就能演奏。
 
@@ -19,10 +15,9 @@ Resilience是面對困境之後在倒下之後能站起來的心理素質。這�
 ### 認知能力
 
 #### 神經可塑性
+要認知到大腦具有很強的神經可塑性，可以先從成長型心態（Growth Mindset）和固定型心態（Fixed Mindset）來說明。固定型心態的人會認為成功是需要天分，自己畫畫不好、音樂不好是因為沒天分。成長型心態是了解練習是會提升能力，所以畫手樂手一直在訓練。
 
-  * - 成長型心態（Growth Mindset）和固定型心態（Fixed Mindset）
-
-[[Meditation]](/Content/Social%20Science/Psychology/Cognitive/Meditation)也會訓練神經可塑性
+冥想[[Meditation]](/Content/Social%20Science/Psychology/Cognitive/Meditation)也會訓練神經可塑性
 
 
 ### 學習經驗
@@ -31,10 +26,7 @@ Resilience是面對困境之後在倒下之後能站起來的心理素質。這�
 要訓練Resilience，需要經常面對不可預測性的環境，[怪獸訓練電台](https://www.youtube.com/watch?v=T7CEqD87wmU)也多次提到競技就是模擬人生，從比賽中學到面對人生困難的心態。
 
 
-
 所謂的長期計畫並不是達成一個遠大的目標，而是形成一個+EV的習慣，只要+EV時間夠久，就會累積不凡的成就。
-
-
 
 
 ## References
@@ -57,30 +49,19 @@ Resilience是面對困境之後在倒下之後能站起來的心理素質。這�
   * ★★★★★ [這十個思維方式如何改變我的人生（2020）](https://www.youtube.com/watch?v=L0_Fh296Qx0)
 
 
-
-
-  # Psychology of Competition
+## Psychology of Competition
 
 * 《像冠軍一樣思考：運動心理學大師的20個思維訓練，成功從心態開始》
 * 《愈動愈成功》
 
 
-
 ---
 tags:
-  - [[Mental Toughness]]
   - [[Psychology of Competition]]  
   - [[Psychology]]
-  - [[Ryan Wu]]
   - [[Mindset]]
   - [[窮奢極欲]]
-  - [[Investing]]
-  - [[即凉Lion]]
-  - [[老石谈芯]]
-  - [[SBD Taiwan 邱個]]
+  - [[怪獸訓練電台]]
   - [[Better Leaf 好葉]]
-  - [[Philosophy]]
-  - [[在地上滾的工程師 Nic]]
-  - [[Psychology]]
   
 ---
