@@ -114,7 +114,11 @@
 
 雖然有的人會覺得這樣很慢，但如同我們前面提到的有效練習，一次練習有扎實的進步，會比大量無效練習來的有用。
 
-Slow Is Fast
+「Slow Is Fast」
+
+### other resource:
+* ★★★★★ [深度复盘｜如何利用数据分析思维进行复盘？](https://www.youtube.com/watch?v=JmNNrJdUoKc)
+* ★★★★★ [精力管理｜如何优化你的工作流？](https://www.youtube.com/watch?v=8R_9cAvzDcU)
 
 ### 眼界提升
 而為了當教練，就需要提升自己的眼界，提高自己的眼界才能知道自己往哪個方向訓練最有效。

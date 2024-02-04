@@ -30,29 +30,10 @@ Resilience是面對困境之後在倒下之後能站起來的心理素質。這�
 
 
 ## References
-* 書單
-  * ★★★★☆ 《灰階思考》
-  * ★★★★★ 《高勝算決策》
-  * ★★★★☆ 《心態致勝》
-* Better Leaf 好葉
-  * ★★★★★ [【好葉】思維決定命運 - 別讓思維害死了你一生｜《終生成長》](https://youtu.be/jbUJGkM4Ksk)
-* SBD Taiwan 邱個
-  * 不要高估一天所能達到的成就，也不要低估一年所能累積的效果
-* 窮奢極欲
-  * ★★★★★ [生活中的複利效應，每一個小小選擇決定你的人生成功與否！](https://youtu.be/HS-VCcy5s_I)
-  * ★★★★☆ [經濟學家40多年的研究：「名校畢業的學生，將來收入一定較普通學校高嗎？」](https://www.youtube.com/watch?v=m-uZYwOCJdY)
-* 即凉Lion 
-  * ★★★★★ [深度复盘｜如何利用数据分析思维进行复盘？](https://www.youtube.com/watch?v=JmNNrJdUoKc)
-  * ★★★★★ [精力管理｜如何优化你的工作流？](https://www.youtube.com/watch?v=8R_9cAvzDcU)
-* 老石谈芯
-  * ★★★★★ [2021年很难，但我至少学到了这十件事](https://www.youtube.com/watch?v=763kY8W9FAQ)
-  * ★★★★★ [這十個思維方式如何改變我的人生（2020）](https://www.youtube.com/watch?v=L0_Fh296Qx0)
-
-
-## Psychology of Competition
-
+* ★★★★☆ 《心態致勝》
 * 《像冠軍一樣思考：運動心理學大師的20個思維訓練，成功從心態開始》
 * 《愈動愈成功》
+
 
 
 ---
