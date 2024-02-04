@@ -3,9 +3,11 @@
 本文是著重在大腦如何運作學習這件事情，如果是想知道如何學習效果最好，請到[訓練計畫理論](./Training%20Plan)
 
 ## 神經可塑性(Neuroplasticity)
-為了讓所有人都可以執行，所以我們需要先了解大腦具備神經可塑性(Neuroplasticity)。也就是腦神經是會增長的，因此要先提到兩種心態成長型心態（Growth Mindset）和固定型心態（Fixed Mindset）。固定型心態的人會認為沒有天分是做不到的；而成長型心態是認知到人腦具有很強的改變結構可能性。舉例來說，台灣大部分的人看到畫畫的人，往往會用自己沒有畫畫天分，只有少數人有畫畫天分作為藉口，因此就完全不畫畫。而真正執行畫畫的人，是會體驗到進步是需要大量練習的，因此別人口中的天份，其實只是經驗的累積。
-要理解神經可塑性的例子，有人切除胼胝體(Corpus callosum)之後，單側腦仍然演變成具備完整個決策能力的腦。
+為了讓所有人都可以執行，所以我們需要先了解大腦具備神經可塑性(Neuroplasticity)。也就是腦神經是會增長的，因此要先提到兩種心態成長型心態（Growth Mindset）和固定型心態（Fixed Mindset）。  
 
+固定型心態的人會認為沒有天分是做不到的；而成長型心態是認知到人腦具有很強的改變結構可能性。舉例來說，台灣大部分的人看到畫畫的人，往往會用自己沒有畫畫天分，只有少數人有畫畫天分作為藉口，因此就完全不畫畫。而真正執行畫畫的人，是會體驗到進步是需要大量練習的，因此別人口中的天份，其實只是經驗的累積。
+
+要理解神經可塑性的例子，有人切除胼胝體(Corpus callosum)之後，單側腦仍然演變成具備完整個決策能力的腦。  
 改變大腦的方法很多，包含學習新的領域、吸收新知、接觸新的環境、冥想、......。
 
 ## 什麼是記憶和經驗?
@@ -65,11 +67,12 @@
 * [为什么费曼技巧被称为终极学习法 (Why feynman technique works)](https://www.youtube.com/watch?v=7iNJyEbYDdc)
 
 ## 過擬合(Overfitting) vs 泛化(Generalization)  
-![](https://www.mathworks.com/discovery/overfitting/_jcr_content/mainParsys/image.adapt.full.medium.svg/1686825007300.svg)  
+<img src="https://www.mathworks.com/discovery/overfitting/_jcr_content/mainParsys/image.adapt.full.medium.svg/1686825007300.svg" style="background-color: white;">
 (圖片來源：https://www.mathworks.com/discovery/overfitting.html)  
 
 從這張圖可以看到最左邊的部分，Overfitting的特色就是對於每一個現象都做了一一對應，Underfitting則是一種過度簡化因果關係。
 學習知識是找到一個可以解釋最多情況，同時又帶有可推論未來，比如軟實力、可轉移能力就是一種可以面對不同問題的Generalization能力。
+
 
 要達到泛化，首先要避免陷入局部的細節，比如學英文，語言是以塊狀、句子為單位存在，因此背單字是一種overfitting。
 或者學一個學科，做相近的題目只會形成Overfitting，需要做不同類型的題目，才能有Generalization的內化。

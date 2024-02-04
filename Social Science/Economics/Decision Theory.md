@@ -5,8 +5,8 @@
 
 
 ## 過度簡化 - 確定性心態
-可以用下圖來說明什麼是過度簡化：
-![](https://www.mathworks.com/discovery/overfitting/_jcr_content/mainParsys/image.adapt.full.medium.svg/1686825007300.svg)  
+可以用下圖來說明什麼是過度簡化：  
+<img src="https://www.mathworks.com/discovery/overfitting/_jcr_content/mainParsys/image.adapt.full.medium.svg/1686825007300.svg" style="background-color: white;">
 (圖片來源：https://www.mathworks.com/discovery/overfitting.html)  
 
 正確的分類方式是中間的right fit，左邊的話則是過擬合(Overfitting)。雖然有奧卡姆剃刀法則，通常我們會將過度的解釋稱為腦補，人腦還是相信存在一個比較通用的規則。但是因為確定性的心態，反而經常過度簡化到Underfitting的程度。
