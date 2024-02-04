@@ -1,8 +1,10 @@
----
-layout: notes
----
-
 # 學習理論
+
+## 神經可塑性(Neuroplasticity)
+為了讓所有人都可以執行，所以我們需要先了解大腦具備神經可塑性(Neuroplasticity)。也就是腦神經是會增長的，因此要先提到兩種心態成長型心態（Growth Mindset）和固定型心態（Fixed Mindset）。固定型心態的人會認為沒有天分是做不到的；而成長型心態是認知到人腦具有很強的改變結構可能性。舉例來說，台灣大部分的人看到畫畫的人，往往會用自己沒有畫畫天分，只有少數人有畫畫天分作為藉口，因此就完全不畫畫。而真正執行畫畫的人，是會體驗到進步是需要大量練習的，因此別人口中的天份，其實只是經驗的累積。
+要理解神經可塑性的例子，有人切除胼胝體(Corpus callosum)之後，單側腦仍然演變成具備完整個決策能力的腦。
+
+改變大腦的方法很多，包含學習新的領域、吸收新知、接觸新的環境、冥想、......。
 
 ## 什麼是記憶和經驗?
 要談學習理論，首先要分清什麼是學習?  
@@ -76,12 +78,13 @@ layout: notes
 #### other resource:
 * [“影分身之术”！训练50亿次的AI能有多智能](https://www.youtube.com/watch?v=AJ1TR28KNqY)
 * [語言學觀點👁為何學英文99%的練習都無效 // Chen Lily](https://youtu.be/jRjBUbxQ0O0)
+* 《複利效應：6步驟引爆收入、生活和各項成就倍數成長》
 
 
 #### 前額葉皮質（prefrontal cortex, PFC）
 前額葉位於大腦額葉的前部，這個區域在大腦蒐集各種之訓之後，會嘗試做encode壓縮，如果經常獲得相近的訊息，前額葉就會嘗試壓縮出一個泛化的經驗知識。
 
-## 學到了 - 髓鞘化
+## 學到了 - 髓鞘化(Myelination)
 《一流的人如何保持顛峰》書中提到一個公式：**壓力+休息=成長**
 
 學習理論需要提到大腦非常重要的一個機制：髓鞘化(Myelination)，髓鞘化是網狀的腦神經中，神經元和神經元之間建立髓鞘(myelin sheath)，長出髓鞘之後神經的反應速度會變快，也就是所謂的肌肉記憶。
@@ -99,6 +102,14 @@ layout: notes
 * 《大師的刻意練習：20世紀傳奇鋼琴家訪談錄，教你比天賦更關鍵的學習心法》
 
 ## 高原現象(plateau phenomenon)
+
+* 《原子習慣》
+
+
+  * ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*8ck2Ods10qoggc5H.png)
+* ★★★★☆ [Why Learning to Code is So Damn Hard](https://medium.com/@andrewlatta/why-learning-to-code-is-so-damn-hard-303eae632820)
+
+
 ![](https://2.bp.blogspot.com/--3hTA__fvgg/UU8uiG_LZCI/AAAAAAAABT0/CN7Fs0jI6ds/s1600/Learningcurve.jpg)  
 (圖片來源：https://the-knowledgesmart-blog.blogspot.com/2013/03/learning-plateaus.html)  
 短期學習，局部看有初學者效應和邊際效益，剛開始學的時候會有進步很快的感覺，然後過一段時間，進步幅度會越來越少，這個就是高原現象。  
@@ -132,7 +143,7 @@ layout: notes
 
 
 ## 心態
-學習過程的心態可以參考[[Resilience]](/Content/Social%20Science/Psychology/Resilience.md)
+學習過程的心態也是心智韌性[[Resilience]](/Content/Social%20Science/Psychology/Resilience)的一環
 
 ## 結語
 我們要做的事情是不管在為關尺度上或者宏觀尺度上，都是想要學到Generaliztion，因此訓練的過程，需要不斷地更換大小課題。
