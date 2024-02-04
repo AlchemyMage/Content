@@ -1,6 +1,5 @@
 # 心理韌性
 
-
 ## 什麼是Resilience
 心理韌性(Resilience)，也稱為心智韌性(Mental Toughness)是一種對抗逆境的能力。一般在聽到交易需要心態，這裡所謂的心態是Resilience，並不是指心術正不正的那種心態。
 所謂的心態崩了，就是倒下一次之後，站不起來的狀態。  
@@ -19,6 +18,8 @@ Resilience是面對困境之後在倒下之後能站起來的心理素質。這�
 
 冥想[[Meditation]](/Content/Social%20Science/Psychology/Cognitive/Meditation)也會訓練神經可塑性
 
+* ★★★★★ [【好葉】思維決定命運 - 別讓思維害死了你一生｜《終生成長》](https://youtu.be/jbUJGkM4Ksk)
+
 
 ### 學習經驗
 我們在學習理論[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory)文中提到，學習是要學到經驗而非單純的背誦。
@@ -29,11 +30,10 @@ Resilience是面對困境之後在倒下之後能站起來的心理素質。這�
 所謂的長期計畫並不是達成一個遠大的目標，而是形成一個+EV的習慣，只要+EV時間夠久，就會累積不凡的成就。
 
 
-## References
+### other resource:
 * ★★★★☆ 《心態致勝》
 * 《像冠軍一樣思考：運動心理學大師的20個思維訓練，成功從心態開始》
 * 《愈動愈成功》
-
 
 
 ---
