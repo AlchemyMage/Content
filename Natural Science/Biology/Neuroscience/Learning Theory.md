@@ -1,6 +1,6 @@
 # 學習理論
 
-本文是著重在大腦如何運作學習這件事情，如果是想知道如何學習效果最好，請到訓練計畫理論[[Training Plan]](./Training%20Plan.md)
+本文是著重在大腦如何運作學習這件事情，如果是想知道如何學習效果最好，請到[訓練計畫理論](./Training%20Plan)
 
 ## 神經可塑性(Neuroplasticity)
 為了讓所有人都可以執行，所以我們需要先了解大腦具備神經可塑性(Neuroplasticity)。也就是腦神經是會增長的，因此要先提到兩種心態成長型心態（Growth Mindset）和固定型心態（Fixed Mindset）。固定型心態的人會認為沒有天分是做不到的；而成長型心態是認知到人腦具有很強的改變結構可能性。舉例來說，台灣大部分的人看到畫畫的人，往往會用自己沒有畫畫天分，只有少數人有畫畫天分作為藉口，因此就完全不畫畫。而真正執行畫畫的人，是會體驗到進步是需要大量練習的，因此別人口中的天份，其實只是經驗的累積。
@@ -100,13 +100,10 @@
 
 #### other resource:
 * 《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》
-* 《刻意練習：原創者全面解析，比天賦更關鍵的學習法》
-* 《大師的刻意練習：20世紀傳奇鋼琴家訪談錄，教你比天賦更關鍵的學習心法》
 
 ## 高原現象(plateau phenomenon)
 
 * 《原子習慣》
-
 
   * ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*8ck2Ods10qoggc5H.png)
 * ★★★★☆ [Why Learning to Code is So Damn Hard](https://medium.com/@andrewlatta/why-learning-to-code-is-so-damn-hard-303eae632820)
@@ -164,3 +161,13 @@
     * [如何停止翻譯？用英文思考的真相 🧠 語言學觀點分析 // Chen Lily](https://youtu.be/WxYnyqgO77M)
     * [如何同時學多種語言🤔 How to learn multiple languages at the same time](https://youtu.be/7AY6N-ALUNw)
     * [新的一年，擺脫啞巴英文 (我也在用的實際3步驟)](https://youtu.be/jWHQZN3RybI)
+
+
+
+---
+tags:
+  - [[Neuroscience]]
+  - [[Chen Lily]]
+  - [[怪獸訓練電台]]
+  
+---

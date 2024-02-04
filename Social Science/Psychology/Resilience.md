@@ -17,7 +17,9 @@ Resilience是面對困境之後在倒下之後能站起來的心理素質。這�
 訓練這個能力的方法有很多，比如競技場上就是很好訓練Resilience的地方，需要大量的比賽經驗，一次一次輸，一次一次不甘心得再次爬起來。另一個訓練方式是學習專業能力，因為學習專業能力過程需要面對一次一次的做不到，慢慢的磨練到可以做到。
 
 ### 認知能力
-#### 神經可塑性（Neuroplasticity）
+
+#### 神經可塑性
+
   * - 成長型心態（Growth Mindset）和固定型心態（Fixed Mindset）
 
 [[Meditation]](/Content/Social%20Science/Psychology/Cognitive/Meditation)也會訓練神經可塑性
