@@ -7,14 +7,14 @@ layout: null
     {% unless page.url contains '404.html' %}
     <url>
       <loc>{{ site.url }}{{ page.url | prepend: site.baseurl | replace: '//', '/' }}</loc>
-      <lastmod>{{ page.last_modified_at | default: page.date | date: '%Y-%m-%d' }}</lastmod>
+      <lastmod>{{ page.last_modified_at | default: page.date | default: '2024-01-01' | date: '%Y-%m-%d' }}</lastmod>
     </url>
     {% endunless %}
   {% endfor %}
   {% for post in site.posts %}
     <url>
       <loc>{{ site.url }}{{ post.url | prepend: site.baseurl | replace: '//', '/' }}</loc>
-      <lastmod>{{ post.last_modified_at | default: post.date | date: '%Y-%m-%d' }}</lastmod>
+      <lastmod>{{ post.last_modified_at | default: post.date | default: '2024-01-01' | date: '%Y-%m-%d' }}</lastmod>
     </url>
   {% endfor %}
 </urlset>
