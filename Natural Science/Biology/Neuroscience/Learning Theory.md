@@ -105,18 +105,14 @@
 * 《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》
 
 ## 高原現象(plateau phenomenon)
-
-* 《原子習慣》
-
-  * ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*8ck2Ods10qoggc5H.png)
-* ★★★★☆ [Why Learning to Code is So Damn Hard](https://medium.com/@andrewlatta/why-learning-to-code-is-so-damn-hard-303eae632820)
-
+《原子習慣》  
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*8ck2Ods10qoggc5H.png)
 
 ![](https://2.bp.blogspot.com/--3hTA__fvgg/UU8uiG_LZCI/AAAAAAAABT0/CN7Fs0jI6ds/s1600/Learningcurve.jpg)  
 (圖片來源：https://the-knowledgesmart-blog.blogspot.com/2013/03/learning-plateaus.html)  
 短期學習，局部看有初學者效應和邊際效益，剛開始學的時候會有進步很快的感覺，然後過一段時間，進步幅度會越來越少，這個就是高原現象。  
 
-上圖可以說只是短期局部，那當整體來看的話，長期的學習過程是階梯狀的：
+上圖可以說只是短期局部；下圖是以整體來看的話，長期的學習過程是階梯狀的：
 ![](https://static.packt-cdn.com/products/9781787287037/graphics/graphics/B06988_11_01.jpg)  
 (圖片來源：https://the-knowledgesmart-blog.blogspot.com/2013/03/learning-plateaus.html)
 
@@ -125,6 +121,19 @@
 
 #### other resource:
 * [我花666天亲身体验每天绘画打卡,结果意外发现](https://www.youtube.com/watch?v=0AH5kII4efk)
+
+## 知識廣度深度
+自信模型：  
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*8ck2Ods10qoggc5H.png)
+(圖片來源：[Why Learning to Code is So Damn Hard](https://medium.com/@andrewlatta/why-learning-to-code-is-so-damn-hard-303eae632820))
+
+為甚麼會有初學者效應，可以說因為剛開始學習，很容易搜到各種入門的教學，猴子都能上手，比如學日文剛學五十音，學了一點單字，會有這個看得懂、那個也看得懂的感覺，初學者容易自信滿滿。
+
+但是很快地發現往下想要做各種事情會窒礙難行，因為真正要解決問題需要的知識範圍廣度深度都很難獲取和到達，馬上就自信崩潰，猶如走入知識沙漠，渴死在路上，即使看到湖泊以為有水，結果只是海市蜃樓的錯覺。比如學日文一陣子，想看小說連一整句都無法看懂，因為看懂一句需要的文法理解和單字都需要一定深度。
+
+這時候要做的事情是需要扎實的學習所有相關的基礎，直到飛躍沙漠。
+
+飛越沙漠之後會隨著應用的結果逐漸恢復自信。
 
 ## 螺旋學習法
 我們最好接觸不同的內容來達到Generalization，因此學習課表其實是需要一直輪替。
