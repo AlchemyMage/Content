@@ -1,22 +1,81 @@
-# 記憶
+# 記憶術
 
 ## 基本概念
-多重感官 
+腦神經元之間會有突觸(Synapse)，當突觸越多，越容易調用。如果一個記憶沒有明顯的連結，就不容易被調用。反之如果一個記憶具有不同的連結，就很容易從任何一條路徑調用。
 
-圖像輔助記憶
+聯覺推薦影片為：[能聽見顏色的人類！4%「聯覺人」？同時觸發2種以上的感知！【重製版】【心理學】｜維思維](https://www.youtube.com/watch?v=V2fom9o5TuA)
 
-聯覺人
+影片中舉例，有人可能是是顏色-人名聯覺，比如認識Lisa這個人腦中不自覺對應了紫色，下次看到這個人可能忘記名字但會想到紫色，就是典型的多重突觸狀態下，任何一個路徑都能調用
 
-## 
+### 學越多，記越多
+我們以前是填鴨式教育，所以會覺得要背的東西越多，越容易忘記大部分，因為能背誦的數量有限，多的都會忘掉。
 
-## 數字記憶
-0. "z", "s" (sounds like "s" in "see" or "z" in "zoo"; because zero starts with a "z" sound)
-1. "t", "d" (single downstroke represents the number 1, "t" and "d" have similar sounds)
-2. "n" (two downstrokes, "n" looks like 2 on its side)
-3. "m" (three downstrokes, "m" has three humps)
-4. "r" (the last letter of "four" is "r")
-5. "l" (the Roman numeral for 50 is "L"; also, your hand makes an "L" shape with all fingers but the thumb extended for 5)
-6. "j", "sh", "ch", "g" soft (like in "giraffe")
-7. "k", "g" hard (like in "go"), "q", "c" hard (like in "cat")
-8. "f", "v" (script "f" resembles figure-8; "v" has a similar sound)
-9. "p", "b" (mirror image of 9 resembles "p"; "b" has a similar sound)
+這是因為用背誦的時候，物件之間並沒有任何的路徑調用。如果每次在學習的時候，都將新學到的東西掛勾在原有的知識網絡架構下，就很容易產生神經連結。  
+心智圖就是很好的工具，因為畫心智圖的過程，會強迫你的大腦找到一個連結的方式，這樣未來回想的時候就存在一條調用的路徑，所學到的東西就不是孤立的物件了。
+
+## 記憶術
+
+### 為什麼不該使用記憶術
+筆者非常反對使用記憶術，記憶術雖然很像可以記很多東西，但除了考試能用之外，沒有實際用途。
+
+我們在學習理論中提到[經驗是壓縮](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory#header-5)。
+記憶術記下的東西並沒有對單字做壓縮的理解，對於真正學英文反而是負面效果。
+
+現代社會已經有google搜尋引擎，任何可以搜到的東西，沒有花力氣背下來的需求，甚至現在已經有AI輔助了，這種記憶的交給電腦就行了。
+
+### 初級記憶術
+記憶術的基礎，就是在想要記下的目標插上不同的記憶點，比如個單字，特意用不同的方式去連結這個字，包含想像這個字的顏色、味道、痛覺、情緒......
+
+就是用一些情境和奇怪的諧音來達到記憶點，恆春兮第三集英語教室個兩個例子就很經典
+* impossible: 殷爸怕死某 黑西唔口能啦
+* bird:男人的寶(台語)
+
+最好除了諧音以外也使用圖像味覺來做記憶，
+比如要記一個單字，Quixotic，可能用揆薩提克，可能想成灑滿葵花子的pizza，味道有點奇怪，然後是被傑克燈籠提著，這個字本身是天馬行空的意思，所以這個單字圖像傑克燈籠騎在天馬行上面提著灑滿葵花子的pizza。
+
+### 圖像輔助記憶
+傳統記憶術中，會先創造聯結樁子，再把物件用各種故事綁在樁子上。
+
+比如 
+* 1是筆 - 一支筆直直的 像1
+* 2是開關 - 開關是兩個狀態
+* 3是山 - 把3逆時針轉90度像是兩座山之類的 中文的3諧音是山
+* 4是車子 - 四個門 四個輪子
+* 5是手套 - 手指是五根
+
+然後嘗試想像要背的物件，比如貓，然後創造故事，平常是用逗貓棒逗貓，這裡就改成用拿者筆逗貓。
+越奇怪的事情越有創意的事情越容易記得，這樣貓就掛到1號樁上面。
+
+依此類推把五個物件都用創造故事的方式綁在樁上，之後在通勤上，或者隔一天，都還能回想這些綁在樁上的物件，用來複習。
+
+初級樁子拓展就是10個，6是左輪手槍(六發)，7是拐杖，8是眼鏡，...選十個自己創造的基礎樁子，
+
+每天要背的東西就綁在樁上，出門吃飯時複習。
+
+### 進階數字記憶術
+10個樁子似乎有點少，這時候就會進入進階樁系統，我們要創造100個樁子
+進階數字記憶就會把兩位數，10x10，各自對應不同的發音結構，找一個單字代表樁子
+
+十個數字分別對應子音為
+* 0 - "z", "s" (sounds like "s" in "see" or "z" in "zoo"; because zero starts with a "z" sound)
+* 1 - "t", "d" (single downstroke represents the number 1, "t" and "d" have similar sounds)
+* 2 - "n" (two downstrokes, "n" looks like 2 on its side)
+* 3 - "m" (three downstrokes, "m" has three humps)
+* 4 - "r" (the last letter of "four" is "r")
+* 5 - "l" (the Roman numeral for 50 is "L"; also, your hand makes an "L" shape with all fingers but the thumb extended for 5)
+* 6 - "j", "sh", "ch", "g" soft (like in "giraffe")
+* 7 - "k", "g" hard (like in "go"), "q", "c" hard (like in "cat")
+* 8 - "f", "v" (script "f" resembles figure-8; "v" has a similar sound)
+* 9 - "p", "b" (mirror image of 9 resembles "p"; "b" has a similar sound)
+
+
+這樣我們要創造樁子號碼99，代表子音 p/b - p/b，  比如菸斗pipe，這樣就創造了99號樁
+比如要54號樁，代表子音為 l - r，比如魚餌lure，這樣就創造了54號樁
+
+依此類推從00~99都找一個單字作為數字樁，如此複習和練習綁樁。
+之後就能每天綁一百個物件來複習
+
+#### 車牌記憶
+類似雙位數數字樁的邏輯，那些表演記憶術的大師們，在做的事情就是把車牌編碼成幾個單字組合，快速在腦中編一套故事情境來記下來。
+
+如同前面提到，現代網路科技進步的社會沒有必要在使用記憶術這種特殊的工具了。
