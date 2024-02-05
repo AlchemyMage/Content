@@ -27,7 +27,7 @@
 * ★★★★☆[年輕人開公司一定賠錢負債？是你不懂省錢手段！iku老師 影片精華](https://youtu.be/r4zvzb7-0Us)
 
 ## 風險偏好思維
-在[投資概念](/Content/Social%20Science/Economics/Investing#header-3)中提到，要追求期望值最大化需要風險偏好思維
+在投資概念[[Investing]](/Content/Social%20Science/Economics/Investing#header-3)中提到，要追求期望值最大化需要風險偏好思維
 
 ### other resource:
 * ★★★★☆ [日本傳奇基金經理人的低風險未來戰略：因為光有錢，其實救不了你的未來。](https://youtu.be/c7T41eCmmVk)
@@ -48,7 +48,6 @@ Y Combinator的創業課程之中，很強調迭代速度。因為創業抓時�
 
 ---
 tags:
-  - [[Investing]]
   - [[【官方】Iku老師的房間]]
   - [[窮奢極欲]]
   - [[思維咖啡]]

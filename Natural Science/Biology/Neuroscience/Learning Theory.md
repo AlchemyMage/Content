@@ -1,6 +1,6 @@
 # 學習理論
 
-本文是著重在大腦如何運作學習這件事情，如果是想知道如何學習效果最好，請到[訓練計畫理論](./Training%20Plan)
+本文是著重在大腦如何運作學習這件事情，如果是想知道如何學習效果最好，請到訓練計畫理論[[Training Plan]](./Training%20Plan)
 
 ## 神經可塑性(Neuroplasticity)
 為了讓所有人都可以執行，所以我們需要先了解大腦具備神經可塑性(Neuroplasticity)。也就是腦神經是會增長的，因此要先提到兩種心態成長型心態（Growth Mindset）和固定型心態（Fixed Mindset）。  
