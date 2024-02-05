@@ -1,6 +1,6 @@
 # 交易
 
-## 均值迴歸
+## 均值迴歸(Mean Reversion)
 均值迴歸理論認為資產價格會圍繞其平均值或平均值波動。根據平均值迴歸理論，當資產的價格偏離平均值較遠時，市場將會對其進行調整，將價格推回平均值水準。
 
 比較好理解的比喻就是主人與狗：
@@ -24,3 +24,10 @@
 交易是一門需要訓練的專業。因此也推薦看
 * 訓練規劃[[Training Plan]](/Content/Natural%20Science/Biology/Neuroscience/Training%20Plan)
 * 學習理論[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory)
+
+
+---
+tags:
+  - [[Mean Reversion]]
+
+---

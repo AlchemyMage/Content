@@ -9,7 +9,7 @@
 
 現在逆向工程通用的解釋可以說就簡單稱為用各種方式解析已經存在的東西，舉凡音樂、小說、運動員、商品、.....等任何想要深挖了解的事物，都算逆向工程。
 
-我們在學理理論[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory#header-5)中提到，知識是一種壓縮。要執行學習需要經歷大量的類似但不同的情況，嘗試從中歸納一套法則。《逆向工程》以廚師為例，想要理解一道料理，就去不同的餐廳吃類似的料理，從中理解差異。
+我們在學習理論[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory#header-5)中提到，知識是一種壓縮。要執行學習需要經歷大量的類似但不同的情況，嘗試從中歸納一套法則。《逆向工程》以廚師為例，想要理解一道料理，就去不同的餐廳吃類似的料理，從中理解差異。
 
 以劇本為例，《先讓英雄救貓咪》書中提出了一個Beat Sheet，能把經典電影都用這15個段落去解釋。
 

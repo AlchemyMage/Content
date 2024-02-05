@@ -34,7 +34,7 @@
 我們都會嘲笑平均這件事，常說男生女生平均一個睪丸。
 實際上大部分的人都是偏離平均值的，市面上的學習往往是為了某種類型的人而設計，因此要先找到每個人自己的使用手冊。
 
-學習理論[[Learning Theory]](./Learning%20Theory.html#header-3)，我們提到不同的人擅長不同的學習方式。
+在[[Learning Theory]](./Learning%20Theory.html#header-3)，我們提到不同的人擅長不同的學習方式。
 
 除此之外，每個人的激勵模型也不同。UFC傳奇冠軍次中量級之神GSP把選手分為三類：Fighters, Athletes & Artists  
 原文比較模糊所以我重新做了詮釋：
@@ -89,7 +89,7 @@
 
 練習時的成功率，就是表演時的成功率，有效的練習就是每次都要成功。比如鋼琴大師們都會說慢練，只有慢到每一次都成功，才是有效的練習。
 
-最後，不要忘了恢復也是很重要的，在學習理論[[Learning Theory]](./Learning%20Theory.html#header-10)也提到需要休息，神經元才會成長。
+最後，不要忘了恢復也是很重要的，在[[Learning Theory]](./Learning%20Theory.html#header-10)也提到需要休息，神經元才會成長。
 
 ### other resource:
 * 《大師的刻意練習：20世紀傳奇鋼琴家訪談錄，教你比天賦更關鍵的學習心法》
