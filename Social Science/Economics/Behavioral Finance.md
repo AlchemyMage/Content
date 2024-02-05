@@ -1,4 +1,4 @@
-# Behavioral Finance
+# 行為金融學
 
 * 陆蓉《行为金融学30讲》
 * [為何人們如此喜歡高股息？公司配息與賣出股票｜高股息沒輸我就裸奔｜行為財務學](https://www.youtube.com/watch?v=bepmtFiN1Rg)
