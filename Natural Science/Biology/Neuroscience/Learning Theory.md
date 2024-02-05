@@ -123,38 +123,7 @@
 * [我花666天亲身体验每天绘画打卡,结果意外发现](https://www.youtube.com/watch?v=0AH5kII4efk)
 
 ## 知識廣度深度
-自信模型：  
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*8ck2Ods10qoggc5H.png" style="background-color: white;">  
-(圖片來源：[Why Learning to Code is So Damn Hard](https://medium.com/@andrewlatta/why-learning-to-code-is-so-damn-hard-303eae632820))
-
-最左邊的上升期，就是初學者效應。為甚麼會有初學者效應，可以說因為剛開始學習，很容易搜到各種入門的教學，"猴子都能上手XXX"。比如學日文剛學五十音，學了一點單字，會有這個看得懂、那個也看得懂的感覺，初學者容易自信滿滿。
-
-中間的下降期，就是學一陣子之後很快地發現往下想要做各種事情會窒礙難行，因為真正要解決問題需要的知識範圍廣度深度都很難獲取和到達，馬上就自信崩潰，猶如走入知識沙漠，渴死在路上，即使看到湖泊以為有水，結果只是海市蜃樓的錯覺。比如學日文一陣子，想看小說連一整句都無法看懂，感到這個也看不懂、那個也看不懂，因為看懂一句需要的文法理解和單字都需要一定深度。
-
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*UGRAyLwGOh5k5-xN.png" style="background-color: white;">  
-
-這時候要做的事情是需要扎實的學習所有相關領域的硬基礎知識系統，直到飛躍沙漠。
-
-飛越沙漠之後會隨著應用的結果逐漸恢復自信。
-
-
-#### 知識密度
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*D-EL2qbGuCLOewcg.png" style="background-color: white;">  
-如同前面提到，入門資源非常容易搜到一堆資料，但是入門過渡到專業的資訊密度很低。  
-能跨過中間資訊密度低的階段，到了專業門檻之後，資訊密度又會大增，因為業界很多重要的觀念或知識，就在你同行的作品之中，只要能逆向工程，就能跟同行學習。
-
-問題難就難在沙漠時期要如何獲得飛躍沙漠，因為沙漠時期需要的知識領域很寬廣又要很深，同時又難以搜尋到這方面的訊息。  
-
-最佳的方案是逆向工程[[Reverse Engineering]](/Content/Applied%20Sciences/Reverse%20Engineering)該領域的各種作品，其次是由已經跨越沙漠的專業人士帶領，幾乎是最佳的方案。
-
-
-#### 整體模型
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*QREE0-cBHUltSBqr.png" style="background-color: white;">  
-因此整體學習模型合併長這樣:
-* 初學期，不需要太多的知識密度，但很容易搜到大量的入門資源，容易學到提升自信
-* 下降期，很快發現每件想做的事情都無法做，因為遇到了知識斷崖，開始搜不到有用訊息
-* 沙漠期，在這邊面對著各過錯誤訊息的海市蜃樓，需要學的知識很多，卻不得其門
-* 恢復期，已經度過了沙漠，想做的事情一件一件慢慢可達，可以從同行學到重要觀念或知識
+學習過程需要的知識量可以看自信模型[[Dunning-Kruger Effect]](/Content/Social%20Science/Psychology/Cognitive/Dunning-Kruger%20Effect)
 
 ## 螺旋學習法
 我們最好接觸不同的內容來達到Generalization，因此學習課表其實是需要一直輪替。
