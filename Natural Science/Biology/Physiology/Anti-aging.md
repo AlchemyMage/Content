@@ -44,7 +44,17 @@ David還有提到另一個方式是曝冷，人體演化到目前為止，是能
 * [EP71 何老師N=1的飲食實驗 PART II](https://www.youtube.com/watch?v=mZlNUvOsfZE)
 * [EP72 何老師N=1的飲食實驗 PART III](https://www.youtube.com/watch?v=_8H3h88uTfY)
 
-## 反駁的理論
+
+## 其他潛在問題
+
+### 睡眠
+《為什麼要睡覺？》書中提到大量的對於睡眠的理論和實驗結果，很強調睡眠的重要性。所以執行抗老化要注意的是必須在完整睡眠的下去執行才有意義。
+
+但這牽扯到一個問題，飲食不足的時候，會造成睡眠不足，因為人體
+
+
+
+### 反駁的理論
 以上的理論並非所有科學界都認同，也很推薦觀看[白天手術房晚上健身房](https://www.youtube.com/playlist?list=PL0rmRGdGRzOO6RMwDqxoOh-HdKBMhI8p4)，陳醫師會講解新的paper來呈現目前最新的研究結果和理論。
 
 比如陳醫師就有提到支持少量多餐的paper，還有比如澱粉熱量佔比50%是比較合理的範圍之類等期刊研究。  
