@@ -122,8 +122,8 @@
 #### other resource:
 * [我花666天亲身体验每天绘画打卡,结果意外发现](https://www.youtube.com/watch?v=0AH5kII4efk)
 
-## 知識廣度深度
-學習過程需要的知識量可以看自信模型[[Dunning-Kruger Effect]](/Content/Social%20Science/Psychology/Cognitive/Dunning-Kruger%20Effect)
+### 知識廣度深度
+學習過程需要的知識量可以看自信模型[[Self-Confidence]](/Content/Social%20Science/Psychology/Cognitive/Dunning-Kruger%20Effect)
 
 ## 螺旋學習法
 我們最好接觸不同的內容來達到Generalization，因此學習課表其實是需要一直輪替。

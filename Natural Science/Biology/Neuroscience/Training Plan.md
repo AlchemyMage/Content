@@ -120,7 +120,15 @@
 * ★★★★★ [深度复盘｜如何利用数据分析思维进行复盘？](https://www.youtube.com/watch?v=JmNNrJdUoKc)
 * ★★★★★ [精力管理｜如何优化你的工作流？](https://www.youtube.com/watch?v=8R_9cAvzDcU)
 
-### 眼界提升
+### 整體視野
+
+#### 能力模型
+為了定位現在的程度和需要對應的練習，最好是先有整體的概觀，比如從自信模型[[Self-Confidence]](/Content/Social%20Science/Psychology/Cognitive/Dunning-Kruger%20Effect)理解需要經過哪些階段。
+
+類似的概念還有技術成熟度曲線 (Gartner hype cycle)。
+
+#### 眼界提升
+
 而為了當教練，就需要提升自己的眼界，提高自己的眼界才能知道自己往哪個方向訓練最有效。
 
 提升眼界往往需要多接觸自己現有領域以外的內容，比如繪師平常有攝影的習慣、或者看電影分析構圖的習慣、或者有出國旅遊的習慣，都是很好提升自己眼界的方式。
