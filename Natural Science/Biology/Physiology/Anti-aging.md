@@ -1,4 +1,4 @@
-# 抗老化(Anti-aging)
+# 抗老化
 本文大部分的內容基礎來自於David Sinclair，他是目前抗老化研究先驅，最新的著作是《可不可以不變老？：喚醒長壽基因的科學革命》，本書的[專訪影片](https://youtu.be/shY1HwFjkbw)。
 
 ## 表徵遺傳學（Epigenetics）
