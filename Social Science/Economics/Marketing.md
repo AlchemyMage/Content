@@ -1,11 +1,14 @@
 # 市場行銷
 
+解決客戶需求是Marketing的核心思維。
+
 Marketing第一步就是對市場了解，需要先規劃好TA(Target Audience)，因此是一種客戶價值和關係行銷。
 
 商業的本質是創造價值，為了創造價值，就要找到市場的需求缺口，創造可以滿足這個缺口的產品。
 
-## 商業智慧BI
-因應網路時代而出現的一些技術包含SEO, growth hacking, data operating都屬於商業智慧BI(Business Intelligence)的一環
+需要了解品牌定位和市場大小，比如1000個鐵粉理論就是在分眾的小眾市場中做出高度忠誠度的客製化方案。
 
-## 個人品牌
-1000個鐵粉理論
+有了產品定位和目標市場之後，就需要規劃流量漏斗，逐步從廣告到消費的過程。
+
+要如何調整漏斗中的每一個環節，特別是因應網路時代而出現的一些技術包含SEO, growth hacking, data operating都屬於商業智慧BI(Business Intelligence)的一環。
+
