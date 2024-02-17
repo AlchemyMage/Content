@@ -12,3 +12,4 @@ Marketing第一步就是對市場了解，需要先規劃好TA(Target Audience)�
 
 要如何調整漏斗中的每一個環節，特別是因應網路時代而出現的一些技術包含SEO, growth hacking, data operating都屬於商業智慧BI(Business Intelligence)的一環。
 
+而漏斗中的每一層轉化率，會需要CRM去做深入剖析。
