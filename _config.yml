@@ -32,7 +32,10 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "notes"
+      layout: "page/note/basic"
+
+include:
+  - _assets
 
 social:
   - platform: envelope

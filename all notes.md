@@ -7,7 +7,7 @@ layout: base
 
 <ul>
     {% for page in site.pages %}
-        {% if page.layout == 'notes' and page.title %}
+        {% if page.layout == 'page/note/basic' and page.title %}
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
         {% endif %}
     {% endfor %}
