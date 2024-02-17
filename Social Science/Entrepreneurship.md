@@ -28,7 +28,8 @@ YC的創業課程第一堂就提到心智韌性[[Resilience]](/Content/Social%20
 成果導向有一個很重要的基礎是有快速實現想像的能力，點子並不是新鮮的事情，任何人都可以想出大量的點子，但只有被實現的才是有價值的點子。只有完成一次也不夠，需要的是無限次迭代的能力，因此可量產式的能力才是創業的基本能力。
 
 * other resource:
-  * ★★★★★ [兩個可以拯救生活的創業家思維](https://youtu.be/5yVMIIhRWWA)
+  * ★★★★★《成為1%的創業存活者：貝克街王繁捷如何以20萬創造5,000萬業績？》
+    * [兩個可以拯救生活的創業家思維](https://youtu.be/5yVMIIhRWWA)
   * ★★★★☆[想抱怨的員工都要看！我離職台灣公司真正原因！【Iku老師】](https://www.youtube.com/watch?v=iKBGfLlRnxg)
   * ★★★★☆[這些不了解，你副業賺不到錢是應該的！Iku老師](https://www.youtube.com/watch?v=ToX4aJnoiZM)
   * ★★★★★[想要上課投資自己之前，你應該先這麼做！【Iku老師】](https://youtu.be/gH92fzkvHZM)
@@ -45,8 +46,8 @@ YC的創業課程第一堂就提到心智韌性[[Resilience]](/Content/Social%20
 ### 產品優勢
 競品最主要的概念可以用《從0到1》這本書作為主要方針。書中以"十倍"作為一個標準，要實現成功的商品，就需要比別人產品好十倍的差距。
 
-### other resource:
-* [How to Get and Evaluate Startup Ideas｜Startup School](https://youtu.be/Th8JoIan4dg)
+* other resources:
+  * [How to Get and Evaluate Startup Ideas｜Startup School](https://youtu.be/Th8JoIan4dg)
 
 ### 速度
 Y Combinator的創業課程之中，很強調迭代速度。
@@ -58,13 +59,15 @@ Y Combinator的創業課程之中，很強調迭代速度。
 ## 風險偏好思維
 在投資概念[[Investing]](/Content/Social%20Science/Economics/Investing#header-3)中提到，要追求期望值最大化需要風險偏好思維
 
-### other resource:
-* ★★★★☆ [日本傳奇基金經理人的低風險未來戰略：因為光有錢，其實救不了你的未來。](https://youtu.be/c7T41eCmmVk)
+* other resource:
+  * ★★★★☆ [日本傳奇基金經理人的低風險未來戰略：因為光有錢，其實救不了你的未來。](https://youtu.be/c7T41eCmmVk)
+
+
 ## 商業思維
 從0到1之後，會需要1到100，對產品做Scalability，這個方向需要是商業思維，包含市場行銷、產品分析、財務管理、生產流程管理......等領域知識。
 
-
-
+* other resources:
+  * ★★★★★ 《獲利的魔鬼，就躲在細節裡：不拚業績，我們如何讓獲利翻倍？》
 
 ---
 tags:
