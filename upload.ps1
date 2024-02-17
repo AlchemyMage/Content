@@ -6,7 +6,7 @@ cd _layouts
 ./upload.ps1
 cd ../
 
-cd _assets
+cd assets
 ./upload.bat
 cd ../
 

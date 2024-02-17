@@ -3,8 +3,8 @@
 	url = https://github.com/LatticeMage/Jekyll_includes.git
 	branch = main
 
-[submodule "_assets"]
-	path = _assets
+[submodule "assets"]
+	path = assets
 	url = https://github.com/LatticeMage/jekyll_assets.git
 	branch = main
 
