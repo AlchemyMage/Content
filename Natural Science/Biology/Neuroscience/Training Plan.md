@@ -13,6 +13,10 @@
 * 《輕鬆駕馭意志力：史丹佛大學最受歡迎的心理素質課》
 
 ## 面對計畫的心態
+* 學習過程的心態
+  * 心智韌性[[Resilience]](/Content/Social%20Science/Psychology/Resilience)
+  * 成長型思維[[Decision Making]](/Content/Social%20Science/Psychology/Cognitive/Decision%20Making)
+
 怪獸訓練有一句名言：「不要高估一天所能達到的成就，也不要低估一年所能累積的效果。」
 
 這是一輩子的事情，我們的目標是讓這件事成為生活中正常的保養行為，就如同每天刷牙來保健牙齒。
@@ -123,7 +127,7 @@
 ### 整體視野
 
 #### 能力模型
-為了定位現在的程度和需要對應的練習，最好是先有整體的概觀，比如從自信模型[[Self-Confidence]](/Content/Social%20Science/Psychology/Cognitive/Dunning-Kruger%20Effect)理解需要經過哪些階段。
+為了定位現在的程度和需要對應的練習，最好是先有整體的概觀，比如從自信模型[[Self-Confidence]](/Content/Social%20Science/Psychology/Cognitive/Self-Confidence)理解需要經過哪些階段。
 
 類似的概念還有技術成熟度曲線 (Gartner hype cycle)。
 

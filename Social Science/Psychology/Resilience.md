@@ -13,14 +13,6 @@ Resilience是面對困境之後在倒下之後能站起來的心理素質。這�
 
 ### 認知能力
 
-### 神經可塑性
-要認知到大腦具有很強的神經可塑性，可以先從成長型心態（Growth Mindset）和固定型心態（Fixed Mindset）來說明。固定型心態的人會認為成功是需要天分，自己畫畫不好、音樂不好是因為沒天分。成長型心態是了解練習是會提升能力，所以畫手樂手一直在訓練。
-
-冥想[[Meditation]](/Content/Social%20Science/Psychology/Cognitive/Meditation)也會訓練神經可塑性
-
-### other resource:
-[【好葉】思維決定命運 - 別讓思維害死了你一生｜《終生成長》](https://youtu.be/jbUJGkM4Ksk)
-
 ### 學習經驗
 我們在學習理論[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory#header-5)也中提到，學習是要學到經驗而非單純的背誦。
 

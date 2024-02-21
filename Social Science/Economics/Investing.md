@@ -1,7 +1,8 @@
 # 投資
 
 ## 期望值思維
-我們在決策思維[[Decision Theory]](./Decision%20Theory#header-2)中提到過，要先理解什麼是期望值思維。  
+我們在決策思維[[Decision Making]](/Content/Social%20Science/Psychology/Cognitive/Decision%20Making#header-2)
+中提到過，要先理解什麼是期望值思維。  
 賭博跟投資的差別在於，投資是+EV行為，而賭博是-EV行為。
 
 對於投資的思考，也是要以機率性的思維去看待未來發生的事情，比如近年投資經常會考慮聯準會是否要升息降息，還有現階段屬於景氣好還還是差，同時要評估一個未來會衰退的機率。基於不同故事腳本發生的機率，做一個沙盤推演來做策略組合的投資行為。緊盯著最新科技趨勢，同時預測未來潮流，以期望值思維去面對。
@@ -54,7 +55,6 @@ Jeremy Siegel 提出Siege常數的概念，也就是量化寬鬆造成的貨幣�
 
 ---
 tags:
-  - [[Decision Theory]]
   - [[美投讲美股]]
 
 ---
