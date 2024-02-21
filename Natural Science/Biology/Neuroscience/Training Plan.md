@@ -9,13 +9,13 @@
 
 因為實際上人的意志力是有限的，可能可以短期苦練，但長期就會變成一種無謂的耗損；要做的反而是先理解自身狀態，然後從原有的習慣疊加上去。
 
-### other resource:
-* 《輕鬆駕馭意志力：史丹佛大學最受歡迎的心理素質課》
+* other resource:
+  * 《輕鬆駕馭意志力：史丹佛大學最受歡迎的心理素質課》
 
 ## 面對計畫的心態
 * 學習過程的心態
   * 心智韌性[[Resilience]](/Content/Social%20Science/Psychology/Resilience)
-  * 成長型思維[[Decision Making]](/Content/Social%20Science/Psychology/Cognitive/Decision%20Making)
+  * 成長型思維[[Decision Making]](/Content/Social%20Science/Psychology/Cognitive/Decision%20Making#header-1)
 
 怪獸訓練有一句名言：「不要高估一天所能達到的成就，也不要低估一年所能累積的效果。」
 
@@ -29,16 +29,16 @@
 畫畫為例的話，抖抖村經常提到5秒你就要手邊有紙筆可以畫畫，從腦中冒出畫畫這件事到拿起筆開始畫超過五秒都太慢。
 
 
-### other resource:
-* [一輩子的事，可以輕鬆面對](https://www.youtube.com/watch?v=6aPiiplJd5k)
-* [电吉他：手速不够？速弹提速的秘密！](https://www.youtube.com/watch?v=nE7ydXA63pA)
+* other resource:
+  * [一輩子的事，可以輕鬆面對](https://www.youtube.com/watch?v=6aPiiplJd5k)
+  * [电吉他：手速不够？速弹提速的秘密！](https://www.youtube.com/watch?v=nE7ydXA63pA)
 
 
 ## 激勵模型
 我們都會嘲笑平均這件事，常說男生女生平均一個睪丸。
 實際上大部分的人都是偏離平均值的，市面上的學習往往是為了某種類型的人而設計，因此要先找到每個人自己的使用手冊。
 
-在[[Learning Theory]](./Learning%20Theory.html#header-3)，我們提到不同的人擅長不同的學習方式。
+在[[Learning Theory]](./Learning%20Theory.html#header-2)，我們提到不同的人擅長不同的學習方式。
 
 除此之外，每個人的激勵模型也不同。UFC傳奇冠軍次中量級之神GSP把選手分為三類：Fighters, Athletes & Artists  
 原文比較模糊所以我重新做了詮釋：
@@ -78,11 +78,11 @@
 《原子習慣》其中一個重點是培養新的習慣最好的方式是在原有的習慣上堆疊一個很小的新習慣，逐漸增加；甚至要創造讓自己容易進入心流的狀態。
 
 ### 螺旋學習法
-[[Learning Theory]](./Learning%20Theory.html#header-15)提到透過持續微調課題來造成困難，以重量訓練為例，深蹲硬舉互為相近的動作，不會只練一種，而是高低背槓深蹲都練，硬舉也會相撲、傳統、單腳等方式都會練。樂器比如吉他鋼琴小提琴....會練類似但不同的樂曲，往往練習集就是這樣設計。
+[[Learning Theory]](./Learning%20Theory.html#header-10)提到透過持續微調課題來造成困難，以重量訓練為例，深蹲硬舉互為相近的動作，不會只練一種，而是高低背槓深蹲都練，硬舉也會相撲、傳統、單腳等方式都會練。樂器比如吉他鋼琴小提琴....會練類似但不同的樂曲，往往練習集就是這樣設計。
 
-### other resource:
-* 《不可能的任務：創造心流、站上巔峰，從25個好奇清單開始，破解成就公式》
-* 《刻意練習：原創者全面解析，比天賦更關鍵的學習法》
+* other resource:
+  * 《不可能的任務：創造心流、站上巔峰，從25個好奇清單開始，破解成就公式》
+  * 《刻意練習：原創者全面解析，比天賦更關鍵的學習法》
 
 ## 有效訓練
 大家應該都有經驗，我們學了很多學科，比如英文，大部分的人學了快十年的英文卻很難使用。因為填鴨式的上課內容跟實際要使用的情境完全不同。
@@ -93,14 +93,14 @@
 
 練習時的成功率，就是表演時的成功率，有效的練習就是每次都要成功。比如鋼琴大師們都會說慢練，只有慢到每一次都成功，才是有效的練習。
 
-最後，不要忘了恢復也是很重要的，在[[Learning Theory]](./Learning%20Theory.html#header-10)也提到需要休息，神經元才會成長。
+最後，不要忘了恢復也是很重要的，在[[Learning Theory]](./Learning%20Theory.html#header-7)也提到需要休息，神經元才會成長。
 
-### other resource:
-* 《大師的刻意練習：20世紀傳奇鋼琴家訪談錄，教你比天賦更關鍵的學習心法》
-* ★★☆☆☆ [吉他：拒绝无效爬格子练习！高效练琴的妙招了解一下！](https://youtu.be/CDQCWfYmVxg)
-* ★☆☆☆☆ [Creative Guitar Practice Ideas!](https://youtu.be/CxtgJynvDlU)
-* ★★☆☆☆ [我比過14個國際小提琴大賽 feat. 林品任｜LOL About Music Ep.56](https://youtu.be/Ml8vEmRE3eE)
-* ★★☆☆☆ [為什麼你練琴沒效率？使用這些方法，讓你短時間內就把曲子練好～｜Feat. @NiceChord+ (好和弦+)](https://youtu.be/4CaQVNRDPiA)
+* other resource:
+  * 《大師的刻意練習：20世紀傳奇鋼琴家訪談錄，教你比天賦更關鍵的學習心法》
+  * ★★☆☆☆ [吉他：拒绝无效爬格子练习！高效练琴的妙招了解一下！](https://youtu.be/CDQCWfYmVxg)
+  * ★☆☆☆☆ [Creative Guitar Practice Ideas!](https://youtu.be/CxtgJynvDlU)
+  * ★★☆☆☆ [我比過14個國際小提琴大賽 feat. 林品任｜LOL About Music Ep.56](https://youtu.be/Ml8vEmRE3eE)
+  * ★★☆☆☆ [為什麼你練琴沒效率？使用這些方法，讓你短時間內就把曲子練好～｜Feat. @NiceChord+ (好和弦+)](https://youtu.be/4CaQVNRDPiA)
 
 ## 訓練反饋
 自學的本質其實是自己當自己的教練，如果沒有當自己教練的能力，就很難規劃心流區。  
@@ -120,9 +120,9 @@
 
 「Slow Is Fast」
 
-### other resource:
-* ★★★★★ [深度复盘｜如何利用数据分析思维进行复盘？](https://www.youtube.com/watch?v=JmNNrJdUoKc)
-* ★★★★★ [精力管理｜如何优化你的工作流？](https://www.youtube.com/watch?v=8R_9cAvzDcU)
+* other resource:
+  * ★★★★★ [深度复盘｜如何利用数据分析思维进行复盘？](https://www.youtube.com/watch?v=JmNNrJdUoKc)
+  * ★★★★★ [精力管理｜如何优化你的工作流？](https://www.youtube.com/watch?v=8R_9cAvzDcU)
 
 ### 整體視野
 
@@ -139,9 +139,9 @@
 小說家學習各種事情，如歷史軍事金融神話玄學.....等，都是很好提升自己的方式。
 
 
-### other resource:
-* ★★☆☆☆ [你是什么等级的画手？自测目前绘画实力和段位水平](https://youtu.be/61Fv1MA7agw)
-* ★★☆☆☆ [再也不担心每天练啥!绘画前6年最快升级日程表](https://www.youtube.com/watch?v=BBrRhJYiK9Q)
+* other resource:
+  * ★★☆☆☆ [你是什么等级的画手？自测目前绘画实力和段位水平](https://youtu.be/61Fv1MA7agw)
+  * ★★☆☆☆ [再也不担心每天练啥!绘画前6年最快升级日程表](https://www.youtube.com/watch?v=BBrRhJYiK9Q)
 
 
 ---

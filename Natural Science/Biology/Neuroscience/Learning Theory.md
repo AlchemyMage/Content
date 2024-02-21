@@ -57,8 +57,8 @@
 
 所以學習要學的是透過面對不同的情況下，強迫一個人用自身產出解釋。
 
-#### other resource:
-* [为什么费曼技巧被称为终极学习法 (Why feynman technique works)](https://www.youtube.com/watch?v=7iNJyEbYDdc)
+* other resource:
+  * [为什么费曼技巧被称为终极学习法 (Why feynman technique works)](https://www.youtube.com/watch?v=7iNJyEbYDdc)
 
 ## 過擬合(Overfitting) vs 泛化(Generalization)  
 <img src="https://www.mathworks.com/discovery/overfitting/_jcr_content/mainParsys/image.adapt.full.medium.svg/1686825007300.svg" style="background-color: white;">
@@ -74,10 +74,10 @@
 以吉他為例，指套pick、手撥、pick，是三種不同的彈撥，有些人會覺得不需要三種都練，只練一種就好，這種情況就更容易overfitting；或者只練少數音階。要避免Overfitting，三種彈撥方式都練、不同的音階都練，反而會獲得更好的效果。  
 我當初學吉他的時候有一個想法，不同吉他的弦長不同、fret間距也有差異，每種大小吉他都練是很麻煩的一件事，以為效益不好。現在回過頭來看，當初的想法就是一種overfitting。
 
-#### other resource:
-* [“影分身之术”！训练50亿次的AI能有多智能](https://www.youtube.com/watch?v=AJ1TR28KNqY)
-* [語言學觀點👁為何學英文99%的練習都無效 // Chen Lily](https://youtu.be/jRjBUbxQ0O0)
-* 《複利效應：6步驟引爆收入、生活和各項成就倍數成長》
+* other resource:
+  * [“影分身之术”！训练50亿次的AI能有多智能](https://www.youtube.com/watch?v=AJ1TR28KNqY)
+  * [語言學觀點👁為何學英文99%的練習都無效 // Chen Lily](https://youtu.be/jRjBUbxQ0O0)
+  * 《複利效應：6步驟引爆收入、生活和各項成就倍數成長》
 
 
 #### 前額葉皮質（prefrontal cortex, PFC）
@@ -95,8 +95,8 @@
 
 一個肌肉記憶是建構在另一個肌肉記憶之上，因此往往專業領域的練習需要漫長大量的練習不同課題去堆疊。要形成髓鞘化的另一個重點是練習都要是有效練習，如果練習沒有明確針對解決某個問題，就不會進步。
 
-#### other resource:
-* 《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》
+* other resource:
+  * 《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》
 
 ## 高原現象(plateau phenomenon)
 《原子習慣》  
@@ -111,8 +111,8 @@
 高原效應階梯的成因是形成觀念尚未形成，學習過程尚未完成髓鞘化。而一旦完成學到了，就會快速往上跳到下一個階段卡關。  
 因此學習各種領域的過程，卡關是常態。人腦需要大量的練習去學會一個經驗，一旦經驗形成，就能應用在不同的問題上。
 
-#### other resource:
-* [我花666天亲身体验每天绘画打卡,结果意外发现](https://www.youtube.com/watch?v=0AH5kII4efk)
+* other resource:
+  * [我花666天亲身体验每天绘画打卡,结果意外发现](https://www.youtube.com/watch?v=0AH5kII4efk)
 
 ### 知識廣度深度
 學習過程需要的知識量可以看自信模型[[Self-Confidence]](/Content/Social%20Science/Psychology/Cognitive/Dunning-Kruger%20Effect)
@@ -142,7 +142,8 @@
 而每個小課題，也是透過面對不同的細節訓練來學到經驗。
 
 
-#### other resource:
+
+## other resource:
 * [別再用錯方法讀書了！世界各地頂尖學者的學習方法竟然是...!? / 書來面對 EP7《大腦喜歡這樣學》A Mind for Numbers by Barbara Oakley / 說書【大腦科學】](https://www.youtube.com/watch?v=iFSVMuBDMws)
 * [新的一年，擺脫啞巴英文 (我也在用的實際3步驟)](https://youtu.be/jWHQZN3RybI)
 * 用語言學來理解學語言

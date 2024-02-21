@@ -18,7 +18,7 @@
 ### 為什麼不該使用記憶術
 筆者非常反對使用記憶術，記憶術雖然很像可以記很多東西，但除了考試能用之外，沒有實際用途。
 
-我們在學習理論中提到[經驗是壓縮](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory#header-5)。
+我們在學習理論中提到[經驗是壓縮](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory#header-4)。
 記憶術記下的東西並沒有對單字做壓縮的理解，對於真正學英文反而是負面效果。
 
 現代社會已經有google搜尋引擎，任何可以搜到的東西，沒有花力氣背下來的需求，甚至現在已經有AI輔助了，這種記憶的交給電腦就行了。
