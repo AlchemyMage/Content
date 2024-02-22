@@ -1,5 +1,7 @@
 # 學習理論
 
+比起怎麼學習，首先必須要先知道學習的目的是獲得內隱知識[[Tacit Knowledge]](/Content/Social%20Science/Psychology/Cognitive/Tacit%20Knowledge)
+
 本文是著重在大腦如何運作學習這件事情，如果是想知道如何學習效果最好，請到訓練計畫理論[[Training Plan]](./Training%20Plan)
 
 ## 什麼是記憶和經驗?
@@ -115,7 +117,7 @@
   * [我花666天亲身体验每天绘画打卡,结果意外发现](https://www.youtube.com/watch?v=0AH5kII4efk)
 
 ### 知識廣度深度
-學習過程需要的知識量可以看自信模型[[Self-Confidence]](/Content/Social%20Science/Psychology/Cognitive/Dunning-Kruger%20Effect)
+學習過程需要的知識量可以看自信模型[[Self-Confidence]](/Content/Social%20Science/Psychology/Cognitive/Self-Confidence)
 
 ## 螺旋學習法
 我們最好接觸不同的內容來達到Generalization，因此學習課表其實是需要一直輪替。
@@ -145,14 +147,9 @@
 
 ## other resource:
 * [別再用錯方法讀書了！世界各地頂尖學者的學習方法竟然是...!? / 書來面對 EP7《大腦喜歡這樣學》A Mind for Numbers by Barbara Oakley / 說書【大腦科學】](https://www.youtube.com/watch?v=iFSVMuBDMws)
-* [新的一年，擺脫啞巴英文 (我也在用的實際3步驟)](https://youtu.be/jWHQZN3RybI)
 * 用語言學來理解學語言
-    * [練聽力該「加速」或「減速」嗎？久違的語言學觀點影片😚 // Chen Lily](https://youtu.be/9mkwwnUgCzQ)
-    * [學語言不是靠模仿？你學語言的觀念正確嗎？ // Chen Lily](https://youtu.be/vor6a_1hlJM)
-    * [如何停止翻譯？用英文思考的真相 🧠 語言學觀點分析 // Chen Lily](https://youtu.be/WxYnyqgO77M)
     * [如何同時學多種語言🤔 How to learn multiple languages at the same time](https://youtu.be/7AY6N-ALUNw)
     * [新的一年，擺脫啞巴英文 (我也在用的實際3步驟)](https://youtu.be/jWHQZN3RybI)
-
 
 
 ---
