@@ -5,7 +5,7 @@
 * [如何停止翻譯？用英文思考的真相 🧠 語言學觀點分析 // Chen Lily](https://youtu.be/WxYnyqgO77M)
 
 
-學習理論[[Learning Theory]]和訓練規劃[[Training Plan]]最終目的都是在訓練Tacit Knowledge。
+學習理論[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory)和訓練規劃[[Training Plan]](/Content/Natural%20Science/Biology/Neuroscience/Training%20Plan)最終目的都是在訓練Tacit Knowledge。
 
 不同領域類似的概念：
 
