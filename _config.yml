@@ -34,9 +34,6 @@ defaults:
     values:
       layout: "page/note/basic"
 
-include:
-  - _assets
-
 social:
   - platform: envelope
     url: mailto:alchemy@posetmage.com
