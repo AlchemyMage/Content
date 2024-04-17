@@ -21,7 +21,6 @@
 title: 鍊金Mage
 email: alchemy@posetmage.com
 url: https://alchemy.posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
-slogan: 大腦是一個賢者之石，充滿無限可能
 
 description: Content
 baseurl: "/Content" # the subpath of your site, e.g. /blog
@@ -46,6 +45,11 @@ social:
   - platform: threads
     url: https://threads.net/alchemy.mage
 
+exclude:
+  - _includes/.git/
+  - _layouts/.git/
+  - _layouts/page/.git/
+  - assets/.git/
 
 # Build settings
 remote_theme: jekyll/minima
