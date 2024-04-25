@@ -7,20 +7,20 @@ favicon是網站或應用程式的視覺代表，它應該在簡潔明瞭的同�
 避免在favicon中加入過多細節或繁複的圖案。簡單的圖示通常更容易被識別和記住。
 反例：![](https://lattice.posetmage.com/Notes/Applied%20Sciences/UI/FaviconDesign/30.png)
 
-2. 色彩清晰
+### 2. 色彩清晰
 確保你的標籤在不同的背景下都能夠清晰可見。它應該在黑底和白底上都能夠突出。
 反例：![](https://lattice.posetmage.com/Notes/Applied%20Sciences/UI/FaviconDesign/40.png)
 
-3. 避免文字
+### 3. 避免文字
 盡量不要在標籤中使用文字，因為在小尺寸下可能會難以辨識。文字通常會使圖示看起來過於擁擠，也容易跟其他品牌重疊。
 反例：![](https://lattice.posetmage.com/Notes/Applied%20Sciences/UI/FaviconDesign/60.png)
 
-4. 簡單的顏色
+### 4. 簡單的顏色
 儘量使用少量且相對簡單的顏色，這有助於確保標籤在不同尺寸下仍然清晰可見。
 反例：![](https://lattice.posetmage.com/Notes/Applied%20Sciences/UI/FaviconDesign/80.png)
 
-5. 平面化簡潔設計
+### 5. 平面化簡潔設計
 採用平面化設計風格，使圖示看起來更加現代化和簡潔。避免過多的陰影或立體效果。
-好例子：![](https://lattice.posetmage.com/Notes/Applied%20Sciences/UI/FaviconDesign/100.png)
 
-綜合以上要點，一個設計好的favicon應該是簡潔明瞭，具有高對比度，避免使用文字，顏色簡單，並採用平面化簡潔設計。這樣的標籤不僅能夠有效地代表你的品牌，還能夠在各種情況下清晰可見。
+## 好例子
+![](https://lattice.posetmage.com/Notes/Applied%20Sciences/UI/FaviconDesign/100.png)
