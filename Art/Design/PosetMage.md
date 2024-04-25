@@ -1,10 +1,11 @@
 # PosetMage品牌線
 
-根據[favicon設計原則](./favicon)還有[Partially Ordered Magic由來](./POM)，兼具兩者之後，重新設計了系列圖案。
+根據[favicon設計原則](./favicon)還有[Partially Ordered Magic由來](./POM)，兼具兩者之後，重新設計了系列圖案，並且將品牌做了細分區隔。
 
-新的形象圖為<img src="https://posetmage.com/Images/Icon/PosetMage_t.webp" Height="32" /> 
+新的上位圖  
+<img src="https://posetmage.com/Images/Icon/PosetMage_t.webp" Height="48" /> 
 
-並且將品牌做了細分區隔，
+## 細分子品牌
 
 ### <img src="https://posetmage.com/Images/Icon/LatticeMage_t.webp" Height="32" /> LatticeMage
 
