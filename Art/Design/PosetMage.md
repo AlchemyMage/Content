@@ -18,7 +18,7 @@ Lattice是為晶格的意思，同時也是一種partially order set。意思在
 
 ### <img src="https://posetmage.com/Images/Icon/ShinraMage_t.webp" Height="32" /> 森羅Mage
 
-ACGN專用的品牌線，名稱來自於森羅万象，像術界降臨般的中二，因為都是樹木形象，使用綠色形象。
+ACGN專用的品牌線，名稱來自於森羅万象，像樹界降臨般的中二，因為都是樹木形象，使用綠色形象。
 
 ### <img src="https://posetmage.com/Images/Icon/AlchemyMage_t.webp" Height="32" /> 鍊金Mage
 
