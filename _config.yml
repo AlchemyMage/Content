@@ -22,6 +22,7 @@ title: 鍊金Mage
 email: alchemy@posetmage.com
 url: https://alchemy.posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
 
+
 description: Content
 baseurl: "/Content" # the subpath of your site, e.g. /blog
 repository: alchemymage/Content
