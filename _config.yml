@@ -30,30 +30,40 @@ repository: alchemymage/Content
 defaults:
   -
     scope:
-      path: ""
+      path: "Article"
     values:
       layout: "page/note/basic"
+  -
+    scope:
+      path: "Lecture"
+    values:
+      layout: "page/note/slides"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "base"
 
-social:
-  - platform: envelope
-    url: mailto:alchemy@posetmage.com
-  - platform: youtube
-    url: https://youtube.com/@alchemymage
-  - platform: facebook
-    url: https://facebook.com/alchemymage
-  - platform: twitter
-    url: https://twitter.com/alchemymage
-  - platform: threads
-    url: https://threads.net/alchemy.mage
+
+exclude:
+  - "*.mm.md"
+
+kramdown:
+  parse_block_html: true
+  
+collections:
+  directories:
+    output: true
+
+
+# Build settings
+remote_theme: jekyll/minima
 
 exclude:
   - _includes/.git/
   - _layouts/.git/
   - _layouts/page/.git/
   - assets/.git/
-
-# Build settings
-remote_theme: jekyll/minima
 
 minima:
   skin: dark
@@ -67,6 +77,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-seo-tag
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
