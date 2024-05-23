@@ -4,6 +4,8 @@ layout: base
 
 # AI時代下的創業思維
 
+## [課本](https://drive.google.com/drive/folders/1vPg7MdDze3LE6HYRk9B9OhV5EABjK4vC?usp=drive_link)
+
 ## 在這邊會學到
 
 <iframe src="mermaid.html" width="700" height="430" ></iframe>
