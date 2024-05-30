@@ -6,8 +6,9 @@ layout: base
 
 
 <ul>
-    {% for page in site.pages %}
-        {% if page.layout == 'page/note/basic' and page.title %}
+    {% assign filtered_pages = site.pages | where_exp: "page", "page.url contains 'Article'" %}
+    {% for page in filtered_pages %}
+        {% if page.title %}
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
         {% endif %}
     {% endfor %}
