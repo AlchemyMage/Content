@@ -2,11 +2,18 @@
 
 面試往往跟履歷是要一起規劃的，也建議參考 [履歷](./Resume)
 
-<div class="insert_yt_video" yt-title="面試沒有錄取的原因? 成為技術面試官才知道的事!! 如何建立好的面試過程? | 在地上滾的工程師 Nic" yt-url="yFMmkoqDPlM">
+
+很建議把 [Ben Hsu](https://www.youtube.com/@BenHsu501) 所有影片看一輪
+<div class="insert_yt_video" yt-title="待業一年半，我如何找到年薪翻倍的工作" yt-url="kNQwR9YTWQk">
   Loading content...
 </div>
 
-## 常見
+
+## 一般
+
+<div class="insert_yt_video" yt-title="面試沒有錄取的原因? 成為技術面試官才知道的事!! 如何建立好的面試過程? | 在地上滾的工程師 Nic" yt-url="yFMmkoqDPlM">
+  Loading content...
+</div>
 
 <div class="insert_yt_video" yt-title="面试官详解版Data Scientist Product mock interview｜你怎么被面经坑的｜课代表数据大师课1" yt-url="CD3V4Z5hCgM">
   Loading content...
@@ -37,13 +44,6 @@
 </div>
 
 
-一般面試、BQ面試(Behavioral Questions Interview)
-
-STAR 原則
-<div class="insert_yt_video" yt-title="如何準備行為面試｜BQ Interview Prep" yt-url="0xKLVJuBRCU">
-  Loading content...
-</div>
-
 <div class="insert_yt_video" yt-title="【學職嘟嘟列車】面試官到底最在乎什麼？千萬不要犯這個錯誤！" yt-url="ZW_xq3az_hE">
   Loading content...
 </div>
@@ -70,18 +70,17 @@ STAR 原則
   Loading content...
 </div>
 
-## MBA 面試
-也可以參考看 MBA 面試
 
-<div class="insert_yt_video" yt-title="待業一年半，我如何找到年薪翻倍的工作" yt-url="kNQwR9YTWQk">
-  Loading content...
-</div>
-
-<div class="insert_yt_video" yt-title="我是如何准备谷歌产品经理面试的？" yt-url="Z0_ikwQUEbs">
-  Loading content...
-</div>
 
 <div class="insert_yt_video" yt-title="Case Interview的三板斧套路｜如何科学分析问题｜课代表聊数据第7期 " yt-url="ZBOMGr3JFXM">
+  Loading content...
+</div>
+
+## BQ面試
+Behavioral Questions Interview
+
+STAR 原則
+<div class="insert_yt_video" yt-title="如何準備行為面試｜BQ Interview Prep" yt-url="0xKLVJuBRCU">
   Loading content...
 </div>
 
@@ -89,6 +88,17 @@ STAR 原則
   Loading content...
 </div>
 
+
+## MBA PM
+也可以參考看 MBA 或 PM
+
+<div class="insert_yt_video" yt-title="10次面试9个offer，AI 时代找工作的新思路" yt-url="5UqL94DZebk">
+  Loading content...
+</div>
+
+<div class="insert_yt_video" yt-title="我是如何准备谷歌产品经理面试的？" yt-url="Z0_ikwQUEbs">
+  Loading content...
+</div>
 
 ## 系統設計
 資深工程師的進階面試，參考 [SDIs](https://systemdesigninterview.github.io/)
