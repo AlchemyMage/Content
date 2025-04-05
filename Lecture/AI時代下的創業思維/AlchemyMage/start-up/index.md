@@ -12,12 +12,12 @@ layout: page/note/markmap
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/BUE-icVYRFU" title="YouTube video player" frameborder="0" ></iframe> 
 
 ## 成長
-### [安全邊際](https://alchemy.posetmage.com/Content/Social%20Science/Entrepreneurship.html#header-1)
+### [安全邊際](https://alchemy.posetmage.com/Content/Article/Social%20Science/Entrepreneurship.html#header-1)
 * 創造一個可以無限試錯並且進步的空間
 ### Resilience
-* YC創業第一堂就提到[心智韌性](https://alchemy.posetmage.com/Content/Social%20Science/Psychology/Resilience.html)
+* YC創業第一堂就提到[心智韌性](https://alchemy.posetmage.com/Content/Article/Social%20Science/Psychology/Resilience.html)
 
-## [解決問題導向思維](https://alchemy.posetmage.com/Content/Social%20Science/Entrepreneurship.html#header-3)
+## [解決問題導向思維](https://alchemy.posetmage.com/Content/Article/Social%20Science/Entrepreneurship.html#header-3)
 * 隨時都要檢查目標是解決核心問題 
   * 第一性原理
 * Zero to One
@@ -33,7 +33,7 @@ layout: page/note/markmap
 * 期望值思維
   * 貝葉斯思維
 * 決策理論
-  * [風險偏好](https://alchemy.posetmage.com/Content/Social%20Science/Psychology/Cognitive/Decision%20Making#header-5)
+  * [風險偏好](https://alchemy.posetmage.com/Content/Article/Social%20Science/Psychology/Cognitive/Decision%20Making#header-5)
   * 行為經濟學
 
 ## 商業模式

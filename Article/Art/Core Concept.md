@@ -15,7 +15,7 @@
 
 小說也類似，在劇本中會說需要強調節奏差異、情緒差異、人物個性差異。新手也會發生情緒堆疊不足導致動態範圍不明顯、節奏快慢的差異不夠明顯、人物個性不夠鮮明，也是審美不足。
 
-其中一個培養動態範圍審美的方法是逆向工程[[Reverse Engineering]](/Content/Applied%20Sciences/Reverse%20Engineering)，對優秀的作品嘗試做到還原，就能知道實際要有做到多大才是足夠的對比。
+其中一個培養動態範圍審美的方法是逆向工程[[Reverse Engineering]](/Content/Article/Applied%20Sciences/Reverse%20Engineering)，對優秀的作品嘗試做到還原，就能知道實際要有做到多大才是足夠的對比。
 
 ## 灰階強弱-和聲鬆緊
 

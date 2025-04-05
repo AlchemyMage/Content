@@ -3,4 +3,4 @@ layout: base
 ---
 
 
-[AI時代下的創業思維](./AI%20Entrepreneurship/)
+<a href="AI%20Entrepreneurship/">AI時代下的創業思維</a>

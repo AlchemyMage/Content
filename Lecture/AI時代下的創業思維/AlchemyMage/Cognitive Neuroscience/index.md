@@ -16,10 +16,10 @@ layout: page/note/markmap
 ### 背誦記憶 vs 經驗知識
 * [学习观15：人类为什么没进化成过目不忘？](https://www.youtube.com/watch?v=_bL-eOVOQ6Q)
 
-### [外顯知識 vs 內隱知識](https://alchemy.posetmage.com/Content/Social%20Science/Psychology/Cognitive/Tacit%20Knowledge.html)
+### [外顯知識 vs 內隱知識](https://alchemy.posetmage.com/Content/Article/Social%20Science/Psychology/Cognitive/Tacit%20Knowledge.html)
 * 知行合一
 
-### [學習器官](https://alchemy.posetmage.com/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory.html#header-2)
+### [學習器官](https://alchemy.posetmage.com/Content/Article/Natural%20Science/Biology/Neuroscience/Learning%20Theory.html#header-2)
 * 聽覺
 * 視覺
 * 嗅覺
@@ -49,6 +49,6 @@ layout: page/note/markmap
 * 心流
   * <img src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/12/flowchannel2.jpg" width="300">
 
-## [自信模型](https://alchemy.posetmage.com/Content/Social%20Science/Psychology/Cognitive/Self-Confidence.html)
+## [自信模型](https://alchemy.posetmage.com/Content/Article/Social%20Science/Psychology/Cognitive/Self-Confidence.html)
 * <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*QREE0-cBHUltSBqr.png" width="400">
 

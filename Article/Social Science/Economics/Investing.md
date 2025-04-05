@@ -1,7 +1,7 @@
 # 投資
 
 ## 期望值思維
-我們在決策思維[[Decision Making]](/Content/Social%20Science/Psychology/Cognitive/Decision%20Making#header-5)
+我們在決策思維[[Decision Making]](/Content/Article/Social%20Science/Psychology/Cognitive/Decision%20Making#header-5)
 中提到過，要先理解什麼是期望值思維。  
 賭博跟投資的差別在於，投資是+EV行為，而賭博是-EV行為。
 

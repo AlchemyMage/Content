@@ -4,7 +4,7 @@
 為什麼要肌力體能訓練? 因為肌力體能訓練的結果具有可轉移性，肌力體能訓練並不是專項訓練。舉反例來說，游泳高度訓練之後，並不容易在另一項有明顯成效；而肌力體能目標是可轉移的基礎能力。
 
 這邊會有一個誤解，很多人會說深蹲硬舉臥推也是專項，專精深蹲硬舉臥推的技術並不容易轉移到其他運動，比如網球。
-所以需要釐清，肌力體能訓練只是把深蹲硬舉當作訓練的工具之一，動作也不會只練比賽專用的動作，而是會在類似動作中做出不同的變化來達到通用性與泛化。(關於泛化(Generalization)的概念可以參考[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory.html#header-5))
+所以需要釐清，肌力體能訓練只是把深蹲硬舉當作訓練的工具之一，動作也不會只練比賽專用的動作，而是會在類似動作中做出不同的變化來達到通用性與泛化。(關於泛化(Generalization)的概念可以參考[[Learning Theory]](/Content/Article/Natural%20Science/Biology/Neuroscience/Learning%20Theory.html#header-5))
 
 * resource:
   * [【耐力項目運動員要練肌力訓練？】](https://www.monstertraining.com.tw/2017/02/07/%e3%80%90%e8%80%90%e5%8a%9b%e9%a0%85%e7%9b%ae%e9%81%8b%e5%8b%95%e5%93%a1%e8%a6%81%e7%b7%b4%e8%82%8c%e5%8a%9b%e8%a8%93%e7%b7%b4%ef%bc%9f%e3%80%91/)
@@ -59,7 +59,7 @@
 怪獸訓練：『人體的骨骼、肌肉和神經系統，會對壓力起反應，適當的壓力刺激可以讓骨骼、肌肉和神經系統產生長期向上適應的現象，使人體越來越強壯，最終達到每個人最佳的身體狀態。』 
 
 這個壓力需要有足夠的強度，大概是在70%的最大肌力以上。因此運動和訓練是不同的，很多人誤把運動當訓練。  
-我們在學習理論[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory)和訓練規劃[[Training Plan]](/Content/Natural%20Science/Biology/Neuroscience/Training%20Plan)也都有提到，強度需要在一個不會太簡單也不會太難的程度才會有訓練效果，身體系統才會獲得刺激，並且在休息後成長。
+我們在學習理論[[Learning Theory]](/Content/Article/Natural%20Science/Biology/Neuroscience/Learning%20Theory)和訓練規劃[[Training Plan]](/Content/Article/Natural%20Science/Biology/Neuroscience/Training%20Plan)也都有提到，強度需要在一個不會太簡單也不會太難的程度才會有訓練效果，身體系統才會獲得刺激，並且在休息後成長。
 * resource:
   * [等一下，你所謂的肌力訓練，跟我知道好像不一樣](https://www.monstertraining.com.tw/2019/01/28/%e7%ad%89%e4%b8%80%e4%b8%8b%ef%bc%8c%e4%bd%a0%e6%89%80%e8%ac%82%e7%9a%84%e8%82%8c%e5%8a%9b%e8%a8%93%e7%b7%b4%ef%bc%8c%e8%b7%9f%e6%88%91%e7%9f%a5%e9%81%93%e5%a5%bd%e5%83%8f%e4%b8%8d%e4%b8%80%e6%a8%a3/)
   * ★★★★★ [高強度訓練？低強度疲勞？你真的有在運動嗎？【SBD怪獸講堂 S1: E5】 ](https://youtu.be/lLI5-pbbn3w)

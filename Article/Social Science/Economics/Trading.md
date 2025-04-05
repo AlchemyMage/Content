@@ -19,11 +19,11 @@
 經驗上來說，40%勝率已經是很高的能力，只要再贏的那邊加碼，輸的那邊減碼。這樣就做到下檔有限，但是上檔可以往上推進的投資方式
 
 ### 心態
-當然這個期望值是建立在有足夠的決策思維[[Decision Making]](/Content/Social%20Science/Psychology/Cognitive/Decision%20Making)用來保持決策品質，同時需要有投資知識[[Investing]](./Investing)來理解標的，交易過程中也需要有心智韌性[[Resilience]](/Content/Social%20Science/Psychology/Resilience)來撐住交易行為以維持勝率期望值。
+當然這個期望值是建立在有足夠的決策思維[[Decision Making]](/Content/Article/Social%20Science/Psychology/Cognitive/Decision%20Making)用來保持決策品質，同時需要有投資知識[[Investing]](./Investing)來理解標的，交易過程中也需要有心智韌性[[Resilience]](/Content/Article/Social%20Science/Psychology/Resilience)來撐住交易行為以維持勝率期望值。
 
 交易是一門需要訓練的專業。因此也推薦看
-* 訓練規劃[[Training Plan]](/Content/Natural%20Science/Biology/Neuroscience/Training%20Plan)
-* 學習理論[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory)
+* 訓練規劃[[Training Plan]](/Content/Article/Natural%20Science/Biology/Neuroscience/Training%20Plan)
+* 學習理論[[Learning Theory]](/Content/Article/Natural%20Science/Biology/Neuroscience/Learning%20Theory)
 
 
 ---

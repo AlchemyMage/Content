@@ -14,8 +14,8 @@
 
 ## 面對計畫的心態
 * 學習過程的心態
-  * 心智韌性[[Resilience]](/Content/Social%20Science/Psychology/Resilience)
-  * 成長型思維[[Decision Making]](/Content/Social%20Science/Psychology/Cognitive/Decision%20Making#header-1)
+  * 心智韌性[[Resilience]](/Content/Article/Social%20Science/Psychology/Resilience)
+  * 成長型思維[[Decision Making]](/Content/Article/Social%20Science/Psychology/Cognitive/Decision%20Making#header-1)
 
 怪獸訓練有一句名言：「不要高估一天所能達到的成就，也不要低估一年所能累積的效果。」
 
@@ -110,7 +110,7 @@
 自學的本質其實是自己當自己的教練，如果沒有當自己教練的能力，就很難規劃心流區。  
 人腦預設是社交，教人的時候大腦會嘗試組織想要表達的內容，進而整理一套思考脈絡來教給別人。自學就是把自己當另一個人，或者想像在教另一個人。
 
-既然是教練，其實也要考慮狀態周期調整[[Conditioning]](/Content/Natural%20Science/Biology/Physiology/Conditioning)，因此訓練規劃不是單純的排課表，而是要搭配狀態週期去調整。
+既然是教練，其實也要考慮狀態周期調整[[Conditioning]](/Content/Article/Natural%20Science/Biology/Physiology/Conditioning)，因此訓練規劃不是單純的排課表，而是要搭配狀態週期去調整。
 
 ### 藍圖規劃
 規劃訓練計畫需要理解從現在的程度到終點，中間要如何切分成不同的小階段，每個小階段需要使用那些練習
@@ -131,7 +131,7 @@
 ### 整體視野
 
 #### 能力模型
-為了定位現在的程度和需要對應的練習，最好是先有整體的概觀，比如從自信模型[[Self-Confidence]](/Content/Social%20Science/Psychology/Cognitive/Self-Confidence)理解需要經過哪些階段。
+為了定位現在的程度和需要對應的練習，最好是先有整體的概觀，比如從自信模型[[Self-Confidence]](/Content/Article/Social%20Science/Psychology/Cognitive/Self-Confidence)理解需要經過哪些階段。
 
 類似的概念還有技術成熟度曲線 (Gartner hype cycle)。
 

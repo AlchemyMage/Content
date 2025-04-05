@@ -13,10 +13,10 @@
   * [个人成功和安全边际｜我和贫穷的故事](https://www.youtube.com/watch?v=sTQQUKWb0G4)
 
 ## 思維模型
-* 成長思維[[Decision Making]](/Content/Social%20Science/Psychology/Cognitive/Decision%20Making#header-4)
-* 心智韌性[[Resilience]](/Content/Social%20Science/Psychology/Resilience)
+* 成長思維[[Decision Making]](/Content/Article/Social%20Science/Psychology/Cognitive/Decision%20Making#header-4)
+* 心智韌性[[Resilience]](/Content/Article/Social%20Science/Psychology/Resilience)
   * YC的創業課程第一堂就提到心智韌性是創業的特質。加上安全邊際的概念，就是要不斷地倒下又站起來，無限次的迭代直到終點。影片：[Should You Start A Startup?｜Startup School](https://www.youtube.com/watch?v=BUE-icVYRFU)
-* 風險偏好思維[[Investing]](/Content/Social%20Science/Economics/Investing#header-2)，要追求期望值最大化需要風險偏好思維
+* 風險偏好思維[[Investing]](/Content/Article/Social%20Science/Economics/Investing#header-2)，要追求期望值最大化需要風險偏好思維
 * other resource:
   * ★★★★☆ [日本傳奇基金經理人的低風險未來戰略：因為光有錢，其實救不了你的未來。](https://youtu.be/c7T41eCmmVk)
 

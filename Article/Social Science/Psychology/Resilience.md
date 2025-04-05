@@ -14,7 +14,7 @@ Resilience是面對困境之後在倒下之後能站起來的心理素質。這�
 ### 認知能力
 
 ### 學習經驗
-我們在學習理論[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory#header-4)也中提到，學習是要學到經驗而非單純的背誦。
+我們在學習理論[[Learning Theory]](/Content/Article/Natural%20Science/Biology/Neuroscience/Learning%20Theory#header-4)也中提到，學習是要學到經驗而非單純的背誦。
 
 要訓練Resilience，需要經常面對不可預測性的環境，[怪獸訓練電台](https://www.youtube.com/@monstertraining)也多次提到競技就是模擬人生，從比賽中學到面對人生困難的心態。
 

@@ -5,7 +5,7 @@
 * [如何停止翻譯？用英文思考的真相 🧠 語言學觀點分析 // Chen Lily](https://youtu.be/WxYnyqgO77M)
 
 
-學習理論[[Learning Theory]](/Content/Natural%20Science/Biology/Neuroscience/Learning%20Theory)和訓練規劃[[Training Plan]](/Content/Natural%20Science/Biology/Neuroscience/Training%20Plan)最終目的都是在訓練Tacit Knowledge。
+學習理論[[Learning Theory]](/Content/Article/Natural%20Science/Biology/Neuroscience/Learning%20Theory)和訓練規劃[[Training Plan]](/Content/Article/Natural%20Science/Biology/Neuroscience/Training%20Plan)最終目的都是在訓練Tacit Knowledge。
 
 不同領域類似的概念：
 
@@ -54,7 +54,7 @@
 
 人腦訓練出的直覺可以用在不同的領域，比如很多成功企業家往往學生時期都有體育競技的經驗，因為應用了從中訓練出的心智韌性。這種能力才是在這多變的後AI時代的可轉移能力。
 
-比如在AI時代的典範轉移[[Paradigm Shift at AI Gen]](/Content/Applied%20Sciences/Paradigm%20Shift%20at%20AI%20Gen)中提到的一些概念比如全局比局部重要，就是要在多重領域都訓練出大局觀的思考本能。
+比如在AI時代的典範轉移[[Paradigm Shift at AI Gen]](/Content/Article/Applied%20Sciences/Paradigm%20Shift%20at%20AI%20Gen)中提到的一些概念比如全局比局部重要，就是要在多重領域都訓練出大局觀的思考本能。
 
-藝術相通的核心概念[[Core Concept]](/Content/Art/Core%20Concept)提到的各種思考方式，也是要訓練成直覺。
+藝術相通的核心概念[[Core Concept]](/Content/Article/Art/Core%20Concept)提到的各種思考方式，也是要訓練成直覺。
 

@@ -1,6 +1,6 @@
 # 學習理論
 
-比起怎麼學習，首先必須要先知道學習的目的是獲得內隱知識[[Tacit Knowledge]](/Content/Social%20Science/Psychology/Cognitive/Tacit%20Knowledge)
+比起怎麼學習，首先必須要先知道學習的目的是獲得內隱知識[[Tacit Knowledge]](/Content/Article/Social%20Science/Psychology/Cognitive/Tacit%20Knowledge)
 
 本文是著重在大腦如何運作學習這件事情，如果是想知道如何學習效果最好，請到訓練計畫理論[[Training Plan]](./Training%20Plan)
 
@@ -117,7 +117,9 @@
   * [我花666天亲身体验每天绘画打卡,结果意外发现](https://www.youtube.com/watch?v=0AH5kII4efk)
 
 ### 知識廣度深度
-學習過程需要的知識量可以看自信模型[[Self-Confidence]](/Content/Social%20Science/Psychology/Cognitive/Self-Confidence)
+學習過程需要的知識量可以看自信模型[[Self-Confidence]](/Content/Article/Social%20Science/Psychology/Cognitive/Self-Confidence)
+
+
 
 ## 螺旋學習法
 我們最好接觸不同的內容來達到Generalization，因此學習課表其實是需要一直輪替。

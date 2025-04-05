@@ -3,7 +3,7 @@
 人的決策天生會偏誤，最主要的原因是百萬年的演化內建的本能。  
 比如為什麼人容易輕信沒有根據的說法，而且會堅信不移。這個根源是在我們在原始時代沒有時間去考據，如果有聽到沙沙聲，需要做的是立馬拔腿就跑，而非去驗證是風吹還是老虎。甚至可以用達爾文來說，有查證習慣的人都死了。
 
-很多經典的人類偏誤在經濟學領域有一個新興學科是行為經濟學 [[Behavioral Economics]](/Content/Social%20Science/Economics/Behavioral%20Economics) (或者相近的行為金融學)
+很多經典的人類偏誤在經濟學領域有一個新興學科是行為經濟學 [[Behavioral Economics]](/Content/Article/Social%20Science/Economics/Behavioral%20Economics) (或者相近的行為金融學)
 
 * reference:《高勝算決策：如何在面對決定時，降低失誤，每次出手成功率都比對手高？》
 
@@ -18,7 +18,7 @@
 成長型心態是了解練習是會提升能力，所以畫手樂手一直在訓練。畫畫的人，是會體驗到進步是需要大量練習的，因此別人口中的天份，其實只是經驗的累積。
 
 要理解神經可塑性的例子，有人切除胼胝體(Corpus callosum)之後，單側腦仍然演變成具備完整個決策能力的腦。  
-改變大腦的方法很多，包含學習新的領域、吸收新知、接觸新的環境、冥想[[Meditation]](/Content/Social%20Science/Psychology/Cognitive/Meditation)、......。
+改變大腦的方法很多，包含學習新的領域、吸收新知、接觸新的環境、冥想[[Meditation]](/Content/Article/Social%20Science/Psychology/Cognitive/Meditation)、......。
 
 只要能認知到人腦具有很強的改變結構可能性，就會逐漸往成長型心態發展，我們要做的是用長期的思維練習讓自己逐漸轉變成100%的成長型心態。
 
@@ -103,7 +103,7 @@ P(A∣B)= P(B∣A)×P(A) / P(B)
 
 也就是可能會有一陣子資金甚至連原本的本金都不到，某段時間是虧損狀態，這種時候我們會稱為是下風期。
 
-這也是為什麼心智韌性[[Resilience]](/Content/Social%20Science/Psychology/Resilience)跟EV思維也是相輔相成的，短期的下風期心態開始崩，導致做出了-EV決策，後續結果會更慘。因為往往不理性的決策又會做出期望值更差的行動，表面上感覺是諸事不順，以為只是運氣不好，實際上是因為心態崩了，開始做各種不正常的決策。
+這也是為什麼心智韌性[[Resilience]](/Content/Article/Social%20Science/Psychology/Resilience)跟EV思維也是相輔相成的，短期的下風期心態開始崩，導致做出了-EV決策，後續結果會更慘。因為往往不理性的決策又會做出期望值更差的行動，表面上感覺是諸事不順，以為只是運氣不好，實際上是因為心態崩了，開始做各種不正常的決策。
 
 ### 面對下風期
 如何面對下風期推薦這個影片：[#想到就拍2｜聊聊德州扑克的下风期，你真的是在下风期吗？我是怎么处理的](https://www.youtube.com/watch?v=oJB0tkq_AUA)
