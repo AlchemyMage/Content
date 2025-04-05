@@ -1,4 +1,7 @@
 # 內隱知識=知行合一
+
+俗稱專家的直覺，當一個知識進行無數次的操作之後形成經驗，也就是將系統2訓練成系統1( [[系統1與系統2]](Content/Article/Natural%20Science/Biology/Neuroscience/System%201%20vs%202) )
+
 在後AI時代，我們可以輕易地使用AI做到很多事情，那麼學習外顯知識(explicit knowledge)就不重要了，重要的是內隱知識(implicit knowledge)，或稱為Tacit Knowledge。
 
 舉例來說，英文上課學到的是"Declarative knowledge"，而訓練出使用英文的直覺是"Procedural knowledge"。  
@@ -57,4 +60,3 @@
 比如在AI時代的典範轉移[[Paradigm Shift at AI Gen]](/Content/Article/Applied%20Sciences/Paradigm%20Shift%20at%20AI%20Gen)中提到的一些概念比如全局比局部重要，就是要在多重領域都訓練出大局觀的思考本能。
 
 藝術相通的核心概念[[Core Concept]](/Content/Article/Art/Core%20Concept)提到的各種思考方式，也是要訓練成直覺。
-

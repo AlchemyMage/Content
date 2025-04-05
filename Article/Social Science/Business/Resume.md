@@ -16,7 +16,7 @@
   Loading content...
 </div>
 
-<div class="insert_yt_video" yt-title="讓我拿到FAANG面試的履歷" yt-url="https://www.youtube.com/watch?v=MsbzY6QbRVA">
+<div class="insert_yt_video" yt-title="讓我拿到FAANG面試的履歷" yt-url="MsbzY6QbRVA">
   Loading content...
 </div>
 
