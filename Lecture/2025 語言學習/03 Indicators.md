@@ -16,4 +16,4 @@ title: 語言學習 - 03 指標
 
 
 
-<img src="./font1.webp"><img src="./font2.webp"><img src="./font3.webp"><img src="./font4.webp">
+<img src="./font1.webp"><img src="./font2.webp"><img src="./font3.webp"><img src="./font4.webp"><img src="./font5.webp"><img src="./font6.webp"><img src="./font7.webp">
