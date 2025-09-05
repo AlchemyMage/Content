@@ -7,6 +7,7 @@ layout: page/note/markmap
 ## 01 核心概念
 
 * comprehensible input
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/NiTsduRreug" title=" Stephen Krashen on Language Acquisition " frameborder="0" ></iframe>  
   * i + 1
   * 高手學習 - 15%法則
 
@@ -41,12 +42,19 @@ layout: page/note/markmap
     * 單字數量
     * 成就 里程碑
 
+* 泛化能力
+  * <img src="https://www.mathworks.com/discovery/overfitting/_jcr_content/mainParsys/image.adapt.full.medium.svg/1686825007300.svg" width="300"  style="background-color: white;">
+
+
 ## 04 狀態玄學
 
 * <img src="./Temet Nosce.webp" width="300">
-* 紀錄
+  * 每個人特質不同
+  * 學語言需要打開聽力
 * 心態
+  * 讓時間成為自己的朋友而非敵人
   * 一輩子的事，可以輕鬆面對
   * 桶底脫
 * 狀態
   * 男生也有月經
+  * 紀錄

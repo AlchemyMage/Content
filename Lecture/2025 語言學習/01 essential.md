@@ -20,6 +20,9 @@ https://www.youtube.com/watch?v=z4ozspuMxiA
 
 https://www.youtube.com/watch?v=8LGp_ZGKPSY
 
+## i + 1
+* [【科學實證】看影片學英文的方法! 要開字幕嗎? 怎麼選影片? ](https://www.youtube.com/watch?v=BxMmsdgRrHs)
+
 </div>
 
 
