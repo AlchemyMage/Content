@@ -1,4 +1,6 @@
-
+---
+title: 語言學習 - 04 狀態玄學
+---
 
 
 吸收資訊的器官
@@ -21,3 +23,6 @@ https://alchemy.posetmage.com/Content/Article/Social%20Science/Psychology/Resili
 
 
 桶底脫
+
+
+[怪獸訓練電台](https://www.youtube.com/@monstertraining)

@@ -1,4 +1,7 @@
-# 01 核心概念
+---
+title: 語言學習 - 01 核心概念
+---
+
 
 <div class="slide">
 
@@ -39,7 +42,7 @@ https://www.youtube.com/watch?v=8LGp_ZGKPSY
 
 <div class="slide">
 
-# 系統1與系統2
+## 系統1與系統2
 
 
 延伸閱讀 https://alchemy.posetmage.com/Content/Article/Social%20Science/Psychology/Cognitive/Tacit%20Knowledge.html
