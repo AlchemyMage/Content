@@ -22,10 +22,10 @@ title: 心智圖
 
 * Procedural knowledge
   * 第一階知識 (Declarative Knowledge) vs 第二階知識 (Procedural Knowledge)
-  * 系統2 vs 系統1
-  * 外顯知識 (Explicit Knowledge) vs 內隱知識 (Implicit Knowledge)
-  * 髓鞘化 (Myelination)
-    * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/250px-Saltatory_Conduction.gif" width="150">
+    * 系統2 vs 系統1
+    * 外顯知識 (Explicit Knowledge) vs 內隱知識 (Implicit Knowledge)
+    * 髓鞘化 (Myelination)
+      * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/250px-Saltatory_Conduction.gif" width="150">
   * 泛化能力
     * <img src="https://www.mathworks.com/discovery/overfitting/_jcr_content/mainParsys/image.adapt.full.medium.svg/1686825007300.svg" width="300"  style="background-color: white;">
 
