@@ -1,6 +1,7 @@
 ---
 title: 語言學習 - 02 Procedural
 ---
+## Language Reactor
 
 
 <div class="slide">
@@ -10,10 +11,10 @@ title: 語言學習 - 02 Procedural
 * [如何停止翻譯？用英文思考的真相 🧠 語言學觀點分析 // Chen Lily](https://www.youtube.com/watch?v=WxYnyqgO77M)
   * Declarative knowledge vs Procedural knowledge
 
- 為何講英文常常要組織很久😥 ？// Chen Lily https://www.youtube.com/watch?v=XyvhHth6FYQ
+[為何講英文常常要組織很久😥 ？// Chen Lily](https://www.youtube.com/watch?v=XyvhHth6FYQ)
 
 
-* [學語言別再練口說了！沉浸式學語言可以達到什麼程度？](https://www.youtube.com/watch?v=Q9NRct8e6DE)
+
 
 </div>
 
