@@ -1,4 +1,4 @@
-[submodule "_page"]
-	path = _page
+[submodule "_layouts"]
+	path = _layouts
 	url = https://github.com/PosetMage/jekyll_layouts.git
 	branch = main
