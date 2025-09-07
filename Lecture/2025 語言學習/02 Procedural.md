@@ -2,18 +2,6 @@
 title: 語言學習 - 02 Procedural knowledge
 ---
 
-
-<div class="slide">
-
-## Language Reactor
-
-<img src="https://lh3.googleusercontent.com/aPSUr3UYCdrkrGEIJu_5RubORwHcRiQEaiRKAPx68BeJ7963d31hIzZamn8HninChHNh-CIFWuRFj2cocG-2ojxl7oE=s60">
-
-<iframe width="450" height="255" src="https://www.youtube.com/embed/KrQPQ1atdp0" title="用YouTube學語言必備的工具/實際操作/如何用科學學英文跟日文" frameborder="0" ></iframe>
-
-</div>
-
-
 <div class="slide">
 
 ## 語言石化(Fossilization)
@@ -21,7 +9,6 @@ title: 語言學習 - 02 Procedural knowledge
 https://en.wikipedia.org/wiki/Fossilization_(linguistics)
 
 </div>
-
 
 <div class="slide">
 
@@ -37,19 +24,16 @@ https://en.wikipedia.org/wiki/Fossilization_(linguistics)
 
 </div>
 
-
 <div class="slide">
 
 ## 知行合一
 
 * 外顯知識 (Explicit Knowledge) vs 內隱知識 (Implicit Knowledge)
   * [延伸閱讀](https://alchemy.posetmage.com/Content/Article/Social%20Science/Psychology/Cognitive/Tacit%20Knowledge.html)
-
 * 亞里斯多德
 * 王陽明
 
 </div>
-
 
 
 <div class="slide">
@@ -59,7 +43,6 @@ https://en.wikipedia.org/wiki/Fossilization_(linguistics)
 <iframe width="450" height="255" src="https://www.youtube.com/embed/O9fGrstjt8k" title="為什麼厲害的人，視譜可以這麼快？" frameborder="0" ></iframe>
 
 </div>
-
 
 <div class="slide">
 
@@ -73,7 +56,6 @@ https://zh.wikipedia.org/zh-tw/%E9%AB%93%E7%A3%B7%E8%84%82
 
 </div>
 
-
 <div class="slide">
 
 ## 過擬合(Overfitting) vs 泛化(Generalization)
@@ -86,7 +68,6 @@ https://zh.wikipedia.org/zh-tw/%E9%AB%93%E7%A3%B7%E8%84%82
 
 </div>
 
-
 <div class="slide">
 
 ## My Examples
@@ -95,11 +76,11 @@ https://zh.wikipedia.org/zh-tw/%E9%AB%93%E7%A3%B7%E8%84%82
 
 </div>
 
-
 <div class="slide">
 
 ## Homework
 
-尋找能往知行合一的方向走
+1. 尋找多種可能性為了泛化
+2. 尋找降階的方法 i+2 -> i+1
 
 </div>

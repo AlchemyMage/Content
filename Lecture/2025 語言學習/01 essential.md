@@ -34,7 +34,6 @@ title: 語言學習 - 01 Comprehensible Input
 
 </div>
 
-
 <div class="slide">
 
 ## 語言沒有規則
@@ -43,6 +42,8 @@ title: 語言學習 - 01 Comprehensible Input
 * 越常用的往往越不規則
 * 語言是情境模式
 * 海量輸入 >> 輸出 (領先指標)
+
+<iframe width="450" height="255" src="https://www.youtube.com/embed/9CZ797_T3cU" title=" 培養語感的五種方法⚡️語言學觀點 // Chen Lily" frameborder="0" ></iframe>
 
 <iframe width="450" height="255" src="https://www.youtube.com/embed/0U2q0z3cr8w" title="為什麼不要學太多文法？學文法的壞處" frameborder="0" ></iframe>
 
@@ -55,8 +56,15 @@ title: 語言學習 - 01 Comprehensible Input
 * 考試導向 (落後指標)
 * 右腦記憶法 dinosaur = 呆腦獸, 右腦英文
 * 記憶術
+* 訓練直覺才是"學會"
 
-<iframe width="450" height="255" src="https://www.youtube.com/embed/8LGp_ZGKPSY" title="文法基礎強，聽力閱讀很吃力，該如何突破瓶頸，繼續進步？" frameborder="0" ></iframe>
+* [為什麼我躺平學語言，不進步都很難](https://www.youtube.com/watch?v=g3TV6LDHdEU)
+* [語言學觀點👁為何學英文99%的練習都無效 // Chen Lily](https://www.youtube.com/watch?v=jRjBUbxQ0O0)
+  * encode -> storage -> decode
+  * 練習與最終的表演或創作是要掛鉤的
+    * [吉他：拒绝无效爬格子练习！高效练琴的妙招了解一下！](https://www.youtube.com/watch?v=CDQCWfYmVxg)
+    * [电吉他：爬格子还有这样的骚操作？](https://www.youtube.com/watch?v=IEpLq7kcGNs)
+    * [Creative Guitar Practice Ideas!](https://www.youtube.com/watch?v=CxtgJynvDlU)
 
 </div>
 
@@ -64,14 +72,11 @@ title: 語言學習 - 01 Comprehensible Input
 
 ## i + 1
 
-* [語言學觀點👁為何學英文99%的練習都無效 // Chen Lily](https://www.youtube.com/watch?v=jRjBUbxQ0O0)
-  * encode -> storage -> decode
 * [學英文」到底要用中文還是英文？ // Chen Lily](https://www.youtube.com/watch?v=Y2CLfJnLBIE)
 
 * 15%法則(高手學習)
 
 </div>
-
 
 <div class="slide">
 
@@ -82,28 +87,29 @@ title: 語言學習 - 01 Comprehensible Input
 
 </div>
 
-
 <div class="slide">
 
 ## My Examples
-* Visual Novel
-* ドママCD
-* ChatGPT (furigana)
-* VTuber
-* Comic
-* Novel
-* Browser TTS
 
 <img src="./Ninjin.webp" width="500">
 
 </div>
 
+<div class="slide">
+
+## Language Reactor
+
+<img src="https://lh3.googleusercontent.com/aPSUr3UYCdrkrGEIJu_5RubORwHcRiQEaiRKAPx68BeJ7963d31hIzZamn8HninChHNh-CIFWuRFj2cocG-2ojxl7oE=s60">
+
+<iframe width="450" height="255" src="https://www.youtube.com/embed/KrQPQ1atdp0" title="用YouTube學語言必備的工具/實際操作/如何用科學學英文跟日文" frameborder="0" ></iframe>
+
+</div>
 
 <div class="slide">
 
 ## Homework
 
 1. Comprehensible Input XXX
-2. 尋找降階的方法 i+2 -> i+1
+2. (Optional) Language Reactor
 
 </div>

@@ -6,7 +6,6 @@ title: 語言學習 - 03 心態
 
 ## 桶底脫
 
-
 </div>
 
 <div class="slide">
@@ -30,7 +29,6 @@ title: 語言學習 - 03 心態
 
 </div>
 
-
 <div class="slide">
 
 ## 無痛
@@ -51,7 +49,6 @@ title: 語言學習 - 03 心態
 
 </div>
 
-
 <div class="slide">
 
 ## 領先指標 落後指標
@@ -64,12 +61,13 @@ title: 語言學習 - 03 心態
 
 </div>
 
-
 <div class="slide">
 
 ## 學習曲線
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*8ck2Ods10qoggc5H.png" style="background-color: white;">
+
+<iframe width="450" height="255" src="https://www.youtube.com/embed/8LGp_ZGKPSY" title="文法基礎強，聽力閱讀很吃力，該如何突破瓶頸，繼續進步？" frameborder="0" ></iframe>
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*QREE0-cBHUltSBqr.png" style="background-color: white;">
 
@@ -78,24 +76,18 @@ title: 語言學習 - 03 心態
 
 </div>
 
-
 <div class="slide">
 
-## 語言距離
+## 語言特性
 
-* [Linguistic distance](https://en.wikipedia.org/wiki/Linguistic_distance)
+* 語言距離[Linguistic distance](https://en.wikipedia.org/wiki/Linguistic_distance)
   * 日語 ↔ 韓語 → 文法結構相近
   * 荷蘭語 ↔ 德語 → 結構、詞彙接近
   * 西班牙語 ↔ 義大利語 → 相似（閱讀上常能互懂）  
   * 挪威語 ↔ 瑞典語 ↔ 丹麥語 → 高度互通
 
-</div>
-
-<div class="slide">
-
-## 第二外語
-
-* [你應該同時學兩個語言嗎？所有語言通用的學習方法｜講日文的台灣女生 Tiffany蒂芬泥](https://www.youtube.com/watch?v=5GFLZpdktlw)
+* 第二外語
+  * [你應該同時學兩個語言嗎？所有語言通用的學習方法｜講日文的台灣女生 Tiffany蒂芬泥](https://www.youtube.com/watch?v=5GFLZpdktlw)
 
 </div>
 
@@ -103,6 +95,27 @@ title: 語言學習 - 03 心態
 
 ## Homework
 
-實驗找到自己無痛學習的方式
+* 做各種自我的實驗 了解自己的運作
+* 放棄落後指標 關注領先指標
+* 把你的領先指標融入生活
+
+</div>
+
+
+<div class="slide">
+
+## My Examples
+* Visual Novel
+* ドママCD
+* Anime
+  * jp subtitle
+  * other subtitle
+* ChatGPT 
+  * furigana
+  * context
+* VTuber
+* Comic
+* Novel
+  * Browser TTS
 
 </div>
