@@ -24,6 +24,7 @@ title: 心智圖
   * 第一階知識 (Declarative Knowledge) vs 第二階知識 (Procedural Knowledge)
     * 系統2 vs 系統1
     * 外顯知識 (Explicit Knowledge) vs 內隱知識 (Implicit Knowledge)
+    * 知行合一
     * 髓鞘化 (Myelination)
       * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/250px-Saltatory_Conduction.gif" width="150">
   * 泛化能力
@@ -46,6 +47,7 @@ title: 心智圖
       * RSI, 量先價行, ...
       * 學習時間
     * 落後指標
+      * 健康檢查
       * MACD, 布林通道, ...
       * 學習成果
       * 單字數量

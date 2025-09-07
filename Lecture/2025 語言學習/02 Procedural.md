@@ -1,5 +1,5 @@
 ---
-title: 語言學習 - 02 Procedural
+title: 語言學習 - 02 Procedural knowledge
 ---
 
 
@@ -10,6 +10,15 @@ title: 語言學習 - 02 Procedural
 <img src="https://lh3.googleusercontent.com/aPSUr3UYCdrkrGEIJu_5RubORwHcRiQEaiRKAPx68BeJ7963d31hIzZamn8HninChHNh-CIFWuRFj2cocG-2ojxl7oE=s60">
 
 <iframe width="450" height="255" src="https://www.youtube.com/embed/KrQPQ1atdp0" title="用YouTube學語言必備的工具/實際操作/如何用科學學英文跟日文" frameborder="0" ></iframe>
+
+</div>
+
+
+<div class="slide">
+
+## 語言石化(Fossilization)
+
+https://en.wikipedia.org/wiki/Fossilization_(linguistics)
 
 </div>
 
@@ -36,6 +45,9 @@ title: 語言學習 - 02 Procedural
 * 外顯知識 (Explicit Knowledge) vs 內隱知識 (Implicit Knowledge)
   * [延伸閱讀](https://alchemy.posetmage.com/Content/Article/Social%20Science/Psychology/Cognitive/Tacit%20Knowledge.html)
 
+* 亞里斯多德
+* 王陽明
+
 </div>
 
 
@@ -48,6 +60,7 @@ title: 語言學習 - 02 Procedural
 
 </div>
 
+
 <div class="slide">
 
 ## 髓鞘化(Myelination)
@@ -56,23 +69,14 @@ title: 語言學習 - 02 Procedural
 
 https://zh.wikipedia.org/zh-tw/%E9%AB%93%E7%A3%B7%E8%84%82
 
-</div>
-
-
-
-<div class="slide">
-
-## Fossilization
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/250px-Saltatory_Conduction.gif">
 
 </div>
-
 
 
 <div class="slide">
 
 ## 過擬合(Overfitting) vs 泛化(Generalization)
-
 
 <img src="https://www.mathworks.com/discovery/overfitting/_jcr_content/mainParsys/image.adapt.full.medium.svg/1686825007300.svg" style="background-color: white;">
 
@@ -83,13 +87,19 @@ https://zh.wikipedia.org/zh-tw/%E9%AB%93%E7%A3%B7%E8%84%82
 </div>
 
 
+<div class="slide">
 
+## My Examples
+
+<img src="./font1.webp"><img src="./font2.webp"><img src="./font3.webp"><img src="./font4.webp"><img src="./font5.webp"><img src="./font6.webp"><img src="./font7.webp">
+
+</div>
 
 
 <div class="slide">
 
-## 其他例子
+## Homework
 
-<img src="./font1.webp"><img src="./font2.webp"><img src="./font3.webp"><img src="./font4.webp"><img src="./font5.webp"><img src="./font6.webp"><img src="./font7.webp">
+尋找能往知行合一的方向走
 
 </div>

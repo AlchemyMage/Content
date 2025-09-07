@@ -6,13 +6,6 @@ title: 語言學習 - 01 Comprehensible Input
 
 ## 語言學習
 
-</div>
-
-
-<div class="slide">
-
-## 核心概念
-
 1. Comprehensible Input
 
 2. Comprehensible input
@@ -34,9 +27,8 @@ title: 語言學習 - 01 Comprehensible Input
 <iframe width="450" height="255" src="https://www.youtube.com/embed/3z4k5WEDWQM" title="學習語言很重要的理論/Comprehensible Input" frameborder="0" ></iframe>
 
 * [#語言學觀點 by Chen Lily](https://www.youtube.com/playlist?list=PL7O84OhN72d6jBPUTKDw8MrbeNpGWMBo9)
-* [如何學習語言 by 講三種語言的日本人 Makoto](https://www.youtube.com/playlist?list=PLeuIf4OgJRdozjMbStINRYde0Az1t_iQc)
 * [跟James一起變強](https://www.youtube.com/@james-clips/videos)
-
+* [如何學習語言 by 講三種語言的日本人 Makoto](https://www.youtube.com/playlist?list=PLeuIf4OgJRdozjMbStINRYde0Az1t_iQc)
 
 延伸觀看： [How to learn any language in six months｜Chris Lonsdale｜TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)
 
@@ -85,6 +77,7 @@ title: 語言學習 - 01 Comprehensible Input
 
 ## 效用
 
+* 你身邊的人
 * [學語言別再練口說了！沉浸式學語言可以達到什麼程度？](https://www.youtube.com/watch?v=Q9NRct8e6DE)
 
 </div>
@@ -92,31 +85,23 @@ title: 語言學習 - 01 Comprehensible Input
 
 <div class="slide">
 
-## 語言距離
-
-* [Linguistic distance](https://en.wikipedia.org/wiki/Linguistic_distance)
-  * 日語 ↔ 韓語 → 文法結構相近
-  * 荷蘭語 ↔ 德語 → 結構、詞彙接近
-  * 西班牙語 ↔ 義大利語 → 相似（閱讀上常能互懂）  
-  * 挪威語 ↔ 瑞典語 ↔ 丹麥語 → 高度互通
-
-</div>
-
-<div class="slide">
-
-## 第二外語
-
-* [你應該同時學兩個語言嗎？所有語言通用的學習方法｜講日文的台灣女生 Tiffany蒂芬泥](https://www.youtube.com/watch?v=5GFLZpdktlw)
+## My Examples
+* Visual Novel
+* ドママCD
+* ChatGPT (furigana)
+* VTuber
+* Comic
+* Novel
+* Browser TTS
 
 </div>
-
-
 
 
 <div class="slide">
 
 ## Homework
 
-Comprehensible Input XXX
+1. Comprehensible Input XXX
+2. 尋找降階的方法 i+2 -> i+1
 
 </div>
