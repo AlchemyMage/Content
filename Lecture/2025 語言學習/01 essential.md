@@ -94,6 +94,8 @@ title: 語言學習 - 01 Comprehensible Input
 * Novel
 * Browser TTS
 
+<img src="./Ninjin.webp" width="500">
+
 </div>
 
 

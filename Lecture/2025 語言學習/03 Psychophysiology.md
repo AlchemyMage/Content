@@ -11,6 +11,28 @@ title: 語言學習 - 03 心態
 
 <div class="slide">
 
+## 理解自己
+
+<img src="./Temet Nosce.webp">
+
+* 吸收資訊的器官
+* 每個人記憶力不同
+* [別被騙了！語言天才其實不存在](https://www.youtube.com/watch?v=lP7-RtU6j0Q)
+* [EP87｜李承宗：「音樂是人類的本能！」腦神經科學家揭密，我們過去的音樂教育都錯了 - 張修修的不正常人類研究所 Abnormal Human Research Center](https://www.youtube.com/watch?v=fyKju1yIxnk)
+
+</div>
+
+<div class="slide">
+
+## 狀態玄學
+* 男生也有月經
+* 紀錄
+
+</div>
+
+
+<div class="slide">
+
 ## 無痛
 
 * 原子習慣
@@ -29,15 +51,6 @@ title: 語言學習 - 03 心態
 
 </div>
 
-<div class="slide">
-
-## 狀態玄學
-* 男生也有月經
-* 紀錄
-
-</div>
-
-
 
 <div class="slide">
 
@@ -54,20 +67,6 @@ title: 語言學習 - 03 心態
 
 <div class="slide">
 
-## 理解自己
-
-<img src="./Temet Nosce.webp">
-
-* 吸收資訊的器官
-* 每個人記憶力不同
-* [別被騙了！語言天才其實不存在](https://www.youtube.com/watch?v=lP7-RtU6j0Q)
-* [EP87｜李承宗：「音樂是人類的本能！」腦神經科學家揭密，我們過去的音樂教育都錯了 - 張修修的不正常人類研究所 Abnormal Human Research Center](https://www.youtube.com/watch?v=fyKju1yIxnk)
-
-</div>
-
-
-<div class="slide">
-
 ## 學習曲線
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*8ck2Ods10qoggc5H.png" style="background-color: white;">
@@ -78,7 +77,6 @@ title: 語言學習 - 03 心態
 [為什麼成為一名工程師這麼難 —— 從程式新手到準工程師的必經之路](https://www.inside.com.tw/article/4480-why-learning-to-code-is-so-damn-hard)
 
 </div>
-
 
 
 <div class="slide">
@@ -101,12 +99,10 @@ title: 語言學習 - 03 心態
 
 </div>
 
-
-
 <div class="slide">
 
 ## Homework
 
-無痛前行
+實驗找到自己無痛學習的方式
 
 </div>

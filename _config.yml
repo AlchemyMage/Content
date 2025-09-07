@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 鍊金Mage
-email: alchemy@posetmage.com
 url: https://alchemy.posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
 
 
