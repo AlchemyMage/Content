@@ -43,11 +43,22 @@ title: 語言學習 - 03 心態
 <div class="slide">
 
 ## 一輩子的事，可以輕鬆面對
-* [电吉他：手速不够？速弹提速的秘密！](https://www.youtube.com/watch?v=nE7ydXA63pA)
+* [吉他：想彈好琴？你必須要知道這三點！！](https://www.youtube.com/watch?v=881x2gjdHMs)
 * [開始健身前你該知道的事｜Get ready before you start lifting｜兆著我練 EP01](https://www.youtube.com/watch?v=6aPiiplJd5k)
 * [【抖抖村】再也不担心每天练啥!绘画前6年最快升级日程表](https://www.youtube.com/watch?v=BBrRhJYiK9Q)
 
 </div>
+
+
+<div class="slide">
+
+## 親身實驗各種方法
+
+* [电吉他：手速不够？速弹提速的秘密！](https://www.youtube.com/watch?v=nE7ydXA63pA)
+* [怪獸訓練電台](https://www.youtube.com/@monstertraining)
+
+</div>
+
 
 <div class="slide">
 
@@ -91,16 +102,6 @@ title: 語言學習 - 03 心態
 
 </div>
 
-<div class="slide">
-
-## Homework
-
-* 做各種自我的實驗 了解自己的運作
-* 放棄落後指標 關注領先指標
-* 把你的領先指標融入生活
-
-</div>
-
 
 <div class="slide">
 
@@ -119,3 +120,14 @@ title: 語言學習 - 03 心態
   * Browser TTS
 
 </div>
+
+<div class="slide">
+
+## Homework
+
+* 做各種自我的實驗 了解自己的運作
+* 放棄落後指標 關注領先指標
+* 把你的領先指標融入生活
+
+</div>
+

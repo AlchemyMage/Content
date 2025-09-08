@@ -4,14 +4,6 @@ title: 語言學習 - 02 Procedural knowledge
 
 <div class="slide">
 
-## 語言石化(Fossilization)
-
-https://en.wikipedia.org/wiki/Fossilization_(linguistics)
-
-</div>
-
-<div class="slide">
-
 ## Procedural knowledge
 
 * Declarative knowledge vs Procedural knowledge
@@ -40,7 +32,7 @@ https://en.wikipedia.org/wiki/Fossilization_(linguistics)
 
 ## 系統2 vs 系統1
 
-<iframe width="450" height="255" src="https://www.youtube.com/embed/O9fGrstjt8k" title="為什麼厲害的人，視譜可以這麼快？" frameborder="0" ></iframe>
+<iframe width="450" height="255" src="https://www.youtube.com/embed/8RHGYApR4yY" title="【漫士】为什么要求在比赛中留意提子是反人类的" frameborder="0" ></iframe>
 
 </div>
 
@@ -55,6 +47,15 @@ https://zh.wikipedia.org/zh-tw/%E9%AB%93%E7%A3%B7%E8%84%82
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/250px-Saltatory_Conduction.gif">
 
 </div>
+
+<div class="slide">
+
+## 語言石化(Fossilization)
+
+https://en.wikipedia.org/wiki/Fossilization_(linguistics)
+
+</div>
+
 
 <div class="slide">
 

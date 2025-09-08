@@ -26,11 +26,10 @@ title: 語言學習 - 01 Comprehensible Input
 
 <iframe width="450" height="255" src="https://www.youtube.com/embed/3z4k5WEDWQM" title="學習語言很重要的理論/Comprehensible Input" frameborder="0" ></iframe>
 
-* [#語言學觀點 by Chen Lily](https://www.youtube.com/playlist?list=PL7O84OhN72d6jBPUTKDw8MrbeNpGWMBo9)
+* [語言學觀點 by Chen Lily](https://www.youtube.com/playlist?list=PL7O84OhN72d6jBPUTKDw8MrbeNpGWMBo9)
 * [跟James一起變強](https://www.youtube.com/@james-clips/videos)
 * [如何學習語言 by 講三種語言的日本人 Makoto](https://www.youtube.com/playlist?list=PLeuIf4OgJRdozjMbStINRYde0Az1t_iQc)
-
-延伸觀看： [How to learn any language in six months｜Chris Lonsdale｜TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)
+* 延伸觀看： [How to learn any language in six months｜Chris Lonsdale｜TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)
 
 </div>
 
@@ -42,6 +41,8 @@ title: 語言學習 - 01 Comprehensible Input
 * 越常用的往往越不規則
 * 語言是情境模式
 * 海量輸入 >> 輸出 (領先指標)
+
+<iframe width="450" height="255" src="https://www.youtube.com/embed/O9fGrstjt8k" title="為什麼厲害的人，視譜可以這麼快？" frameborder="0" ></iframe>
 
 <iframe width="450" height="255" src="https://www.youtube.com/embed/9CZ797_T3cU" title=" 培養語感的五種方法⚡️語言學觀點 // Chen Lily" frameborder="0" ></iframe>
 
