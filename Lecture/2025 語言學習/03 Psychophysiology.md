@@ -57,6 +57,16 @@ title: 語言學習 - 03 心態
 * [电吉他：手速不够？速弹提速的秘密！](https://www.youtube.com/watch?v=nE7ydXA63pA)
 * [怪獸訓練電台](https://www.youtube.com/@monstertraining)
 
+
+ex: 語言特性
+* 語言距離[Linguistic distance](https://en.wikipedia.org/wiki/Linguistic_distance)
+  * 日語 ↔ 韓語 → 文法結構相近
+  * 荷蘭語 ↔ 德語 → 結構、詞彙接近
+  * 西班牙語 ↔ 義大利語 → 相似（閱讀上常能互懂）  
+  * 挪威語 ↔ 瑞典語 ↔ 丹麥語 → 高度互通
+* 第二外語
+  * [你應該同時學兩個語言嗎？所有語言通用的學習方法｜講日文的台灣女生 Tiffany蒂芬泥](https://www.youtube.com/watch?v=5GFLZpdktlw)
+
 </div>
 
 
@@ -74,6 +84,16 @@ title: 語言學習 - 03 心態
 
 <div class="slide">
 
+## 效用
+
+* 你身邊的人
+* [學語言別再練口說了！沉浸式學語言可以達到什麼程度？](https://www.youtube.com/watch?v=Q9NRct8e6DE)
+* [為什麼我躺平學語言，不進步都很難](https://www.youtube.com/watch?v=g3TV6LDHdEU)
+
+</div>
+
+<div class="slide">
+
 ## 學習曲線
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*8ck2Ods10qoggc5H.png" style="background-color: white;">
@@ -84,21 +104,6 @@ title: 語言學習 - 03 心態
 
 圖片來源: [Why Learning to Code is So Damn Hard](https://medium.com/@andrewlatta/why-learning-to-code-is-so-damn-hard-303eae632820), 
 [為什麼成為一名工程師這麼難 —— 從程式新手到準工程師的必經之路](https://www.inside.com.tw/article/4480-why-learning-to-code-is-so-damn-hard)
-
-</div>
-
-<div class="slide">
-
-## 語言特性
-
-* 語言距離[Linguistic distance](https://en.wikipedia.org/wiki/Linguistic_distance)
-  * 日語 ↔ 韓語 → 文法結構相近
-  * 荷蘭語 ↔ 德語 → 結構、詞彙接近
-  * 西班牙語 ↔ 義大利語 → 相似（閱讀上常能互懂）  
-  * 挪威語 ↔ 瑞典語 ↔ 丹麥語 → 高度互通
-
-* 第二外語
-  * [你應該同時學兩個語言嗎？所有語言通用的學習方法｜講日文的台灣女生 Tiffany蒂芬泥](https://www.youtube.com/watch?v=5GFLZpdktlw)
 
 </div>
 

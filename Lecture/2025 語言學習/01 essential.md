@@ -59,7 +59,6 @@ title: 語言學習 - 01 Comprehensible Input
 * 記憶術
 * 訓練直覺才是"學會"
 
-* [為什麼我躺平學語言，不進步都很難](https://www.youtube.com/watch?v=g3TV6LDHdEU)
 * [語言學觀點👁為何學英文99%的練習都無效 // Chen Lily](https://www.youtube.com/watch?v=jRjBUbxQ0O0)
   * encode -> storage -> decode
   * 練習與最終的表演或創作是要掛鉤的
@@ -79,14 +78,6 @@ title: 語言學習 - 01 Comprehensible Input
 
 </div>
 
-<div class="slide">
-
-## 效用
-
-* 你身邊的人
-* [學語言別再練口說了！沉浸式學語言可以達到什麼程度？](https://www.youtube.com/watch?v=Q9NRct8e6DE)
-
-</div>
 
 <div class="slide">
 
