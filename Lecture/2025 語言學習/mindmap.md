@@ -8,7 +8,6 @@ title: 心智圖
 * <p style="font-size: 1.5em;">comprehensible input</p>
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/NiTsduRreug" title=" Stephen Krashen on Language Acquisition " frameborder="0" ></iframe>  
   * i + 1
-  * 15%法則(高手學習)
   * 語言沒有規則
     * 海量輸入 >> 輸出  (領先指標)
     * 語言是情境模式
