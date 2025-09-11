@@ -1,6 +1,6 @@
 ---
 layout: page/note/markmap
-title: 心智圖
+title: 語言學習 - mindmap
 ---
 
 # 語言學習
