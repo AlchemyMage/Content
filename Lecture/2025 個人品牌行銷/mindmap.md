@@ -15,13 +15,19 @@ title: 個人品牌行銷 - mindmap
       * <img src="./The Common Path to Uncommon Success.webp" height="300">
 
 * Exploration
-  * Temet Nosce <img src="../2025 語言學習/Temet Nosce.webp" width="300">
+  * Temet Nosce <img src="../2025 語言學習/Temet Nosce.webp" width="300">  
   * Jim Rohn --“Formal education will make you a living; self-education will make you a fortune.”
+    * 做實驗
+    * 探索自我
+    * 嘗試不同的可能性
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/zWk69IPsMQs" title="如何超过99%的人: 时间管理的奥秘" frameborder="0" ></iframe> 
   * TA (Target Audience)
+    * 普通人的財富自由之道
+      * <img src="./TA table.webp" height="300">
 
 * Marketing
   * 怎樣是好的行銷文?
+    * <img src="./網路行銷藍圖.webp" height="300">
   * SEO
     * 主要引用資料
       * Jemmy Ko - 讓人一搜尋就找到你
