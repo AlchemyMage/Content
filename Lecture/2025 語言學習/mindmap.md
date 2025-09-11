@@ -27,12 +27,14 @@ title: 心智圖
     * 髓鞘化 (Myelination)
       * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/250px-Saltatory_Conduction.gif" width="150">
   * 泛化能力
-    * <img src="https://www.mathworks.com/discovery/overfitting/_jcr_content/mainParsys/image.adapt.full.medium.svg/1686825007300.svg" width="300"  style="background-color: white;">
+    * <img src="https://www.mathworks.com/discovery/overfitting/_jcr_content/mainParsys/image.adapt.full.medium.svg/1686825007300.svg" height="300"  style="background-color: white;">
 
 * 心態
   * 桶底脫
     * Temet Nosce <img src="./Temet Nosce.webp" width="300">
       * 每個人特質不同
+        * 表徵遺傳學
+        * 努力是基因的一部分
       * 學語言需要打開聽力
     * 狀態
       * 男生也有月經
@@ -41,6 +43,7 @@ title: 心智圖
     * 無痛
     * 讓時間成為自己的朋友而非敵人
     * 一輩子的事，可以輕鬆面對
+      * <img src="./有人提到一輩子.webp" height="150">
   * 領先指標 vs 落後指標
     * 領先指標
       * RSI, 量先價行, ...
