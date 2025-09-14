@@ -13,6 +13,7 @@ title: 個人品牌行銷 - mindmap
   * 主要書單
     * 普通人的財富自由之道
       * <img src="./The Common Path to Uncommon Success.webp" height="300">
+  * <img src="./journey_triangle.svg" height="300"  style="background-color: white;">
 
 * Exploration
   * Temet Nosce <img src="../2025 語言學習/Temet Nosce.webp" width="300">  
@@ -24,6 +25,8 @@ title: 個人品牌行銷 - mindmap
   * TA (Target Audience)
     * 普通人的財富自由之道
       * <img src="./TA table.webp" height="300">
+  * Homework
+    * 內容形式多樣性： 文章、短影音、長影片、Podcast、社群貼文等。
 
 * Marketing
   * 怎樣是好的行銷文?
@@ -47,6 +50,37 @@ title: 個人品牌行銷 - mindmap
         * 負評
           * steam, google,
             * 不能葉配味道
+  * Homework
+    * 觀察市場 市場在哪?
+    * 參考其他人怎麼往市場調整
+    * 將自己的文章往市場調整
+
+
+* 逆向工程
+  * 定義與目的
+    * 從成功案例中拆解策略
+    * 找出核心成功因素
+    * 減少試錯成本
+  * 目標設定
+    * 明確品牌定位
+    * 明確受眾 TA
+    * 明確行銷目標：流量、轉換、影響力
+  * 分析流程
+    * 案例選擇
+      * 競爭對手
+      * 同領域成功創作者
+      * 不同行業的優秀案例
+    * 拆解策略
+      * 內容形式：文章、影片、Podcast
+      * 發佈節奏與頻率
+      * 互動策略：留言、社群、抽獎、投票
+      * SEO / 標題 / 描述 / 標籤
+      * 視覺風格與品牌一致性
+  * 模式萃取
+    * 成功模式
+    * 主題選擇（解決問題型、娛樂型、知識型）
+    * 內容長度與深度
+    * CTA（行動呼籲）策略
 
 
 * 各種例子
