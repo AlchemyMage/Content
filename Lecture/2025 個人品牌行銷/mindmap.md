@@ -15,6 +15,7 @@ title: 個人品牌行銷 - mindmap
       * <img src="./The Common Path to Uncommon Success.webp" height="300">
   * <img src="./journey_triangle.svg" height="300"  style="background-color: white;">
 
+
 * Exploration
   * Temet Nosce <img src="../2025 語言學習/Temet Nosce.webp" width="300">  
   * Jim Rohn --“Formal education will make you a living; self-education will make you a fortune.”
@@ -22,9 +23,7 @@ title: 個人品牌行銷 - mindmap
     * 探索自我
     * 嘗試不同的可能性
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/zWk69IPsMQs" title="如何超过99%的人: 时间管理的奥秘" frameborder="0" ></iframe> 
-  * TA (Target Audience)
-    * 普通人的財富自由之道
-      * <img src="./TA table.webp" height="300">
+  * 羞愧法則
   * Homework
     * 內容形式多樣性： 文章、短影音、長影片、Podcast、社群貼文等。
 
@@ -50,10 +49,15 @@ title: 個人品牌行銷 - mindmap
         * 負評
           * steam, google,
             * 不能葉配味道
+  * TA (Target Audience)
+    * 特徵消費者 (Representative Consumer)
+    * 點估計 (Point Estimate)
+    * 普通人的財富自由之道
+      * <img src="./TA table.webp" height="300">
   * Homework
     * 觀察市場 市場在哪?
     * 參考其他人怎麼往市場調整
-    * 將自己的文章往市場調整
+    * 如何將自己往市場調整?
 
 
 * 逆向工程
@@ -81,13 +85,13 @@ title: 個人品牌行銷 - mindmap
     * 主題選擇（解決問題型、娛樂型、知識型）
     * 內容長度與深度
     * CTA（行動呼籲）策略
-
-
-* 各種例子
   * 範例：華德電繪日記 https://www.instagram.com/howardpaint100/
     * <img src="./howard-fb-2023.webp" height="300">
     * <img src="./howard-fb-2024.webp" height="300">
+  * Homework
 
+ 
+* 策略深度
   * YT不同時期算法
     * 2006-2010年：
       * 初期發展，YouTube內容多樣但不專業，用戶尋求新奇和娛樂性。
