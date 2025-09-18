@@ -9,23 +9,14 @@ title: 個人品牌行銷 - mindmap
   * 一門專業技術
   * 核心能力：Resilience
     * 人生哲學
-    * 放棄設定目標
+  * 賺到錢，順便學會XXX
+    * 放棄能力主導思維
   * 主要書單
     * 普通人的財富自由之道
       * <img src="./The Common Path to Uncommon Success.webp" height="300">
   * <img src="./journey_triangle.svg" height="300"  style="background-color: white;">
-
-
-* Exploration
-  * Temet Nosce <img src="../2025 語言學習/Temet Nosce.webp" width="300">  
-  * Jim Rohn --“Formal education will make you a living; self-education will make you a fortune.”
-    * 做實驗
-    * 探索自我
-    * 嘗試不同的可能性
-  * <iframe width="450" height="255" src="https://www.youtube.com/embed/zWk69IPsMQs" title="如何超过99%的人: 时间管理的奥秘" frameborder="0" ></iframe> 
   * 羞愧法則
-  * Homework
-    * 內容形式多樣性： 文章、短影音、長影片、Podcast、社群貼文等。
+    * <img src="./MVP.webp" height="300">
 
 * Marketing
   * 怎樣是好的行銷文?
@@ -49,6 +40,7 @@ title: 個人品牌行銷 - mindmap
         * 負評
           * steam, google,
             * 不能葉配味道
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/zWk69IPsMQs" title="如何超过99%的人: 时间管理的奥秘" frameborder="0" ></iframe> 
   * TA (Target Audience)
     * 特徵消費者 (Representative Consumer)
     * 點估計 (Point Estimate)
@@ -56,9 +48,23 @@ title: 個人品牌行銷 - mindmap
       * <img src="./TA table.webp" height="300">
   * Homework
     * 觀察市場 市場在哪?
+      * 你的TA表
     * 參考其他人怎麼往市場調整
     * 如何將自己往市場調整?
+    * 嘗試調整之前的內容 再發一次
 
+* Exploration
+  * Temet Nosce <img src="../2025 語言學習/Temet Nosce.webp" width="300">  
+    * 探索自我
+  * <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BZuSM_i4eyroT9St2gqdIg.jpeg" width="300"> 
+    * Jim Rohn --“Formal education will make you a living; self-education will make you a fortune.”
+    * 做實驗
+    * 嘗試不同的可能性
+  * 輸出導向
+    * <iframe width="450" height="255" src="https://www.youtube.com/embed/5kNCcpM61eo" title="小心效率陷阱：為什麼你不需要第二大腦或者個人知識庫？" frameborder="0" ></iframe> 
+  * Homework
+    * 內容形式多樣性： 文章、短影音、長影片、Podcast、社群貼文
+    * 目標：至少三個平台 每個平台至少5個內容 (記得愧法則)
 
 * 逆向工程
   * 定義與目的
@@ -88,19 +94,30 @@ title: 個人品牌行銷 - mindmap
   * 範例：華德電繪日記 https://www.instagram.com/howardpaint100/
     * <img src="./howard-fb-2023.webp" height="300">
     * <img src="./howard-fb-2024.webp" height="300">
+  * 範例：家寧 vs Andy老師
+    * https://www.youtube.com/watch?v=sYnFQrP7RLE&t=1172
+    * <iframe width="450" height="255" src="https://www.youtube.com/embed/sYnFQrP7RLE?start=1172" title="家寧 vs Andy老師" frameborder="0" ></iframe> 
   * Homework
-
+    * build 沙盒(sandbox)
+    * Black Box Testing
+    * Documentation and Modeling
+      * <img src="./雲端事業學院.webp" height="300">
+    * 嘗試調整之前的內容 再發一次
  
 * 策略深度
-  * YT不同時期算法
-    * 2006-2010年：
-      * 初期發展，YouTube內容多樣但不專業，用戶尋求新奇和娛樂性。
-    * 2011-2014年：
-      * 內容創造者崛起，YouTube推出合作夥伴計劃和直播功能，平台推廣長影片。
-    * 2015-2019年：
-      * 多樣化內容時期，平台推廣中短影片，大頻道多角觸及。
-    * 2020年至今：
-      * 後疫情時代，專業領域的小頻道成為主流。
-      * 分眾化時代
-    * 2030 ~ ?：
-      * MR時代
+  * 能夠快速切換或結合不同形式
+    * 針對不同平台和受眾調整 
+    * YT不同時期算法
+      * 2006-2010年：
+        * 初期發展，YouTube內容多樣但不專業，用戶尋求新奇和娛樂性。
+      * 2011-2014年：
+        * 內容創造者崛起，YouTube推出合作夥伴計劃和直播功能，平台推廣長影片。
+      * 2015-2019年：
+        * 多樣化內容時期，平台推廣中短影片，大頻道多角觸及。
+      * 2020年至今：
+        * 後疫情時代，專業領域的小頻道成為主流。
+        * 分眾化時代
+      * 2030 ~ ?：
+        * MR時代
+  * Homework
+    * 現在手上的牌 分析能用的狀況 不能用的時候換哪招? 要去逆向工程甚麼資源來補足?
