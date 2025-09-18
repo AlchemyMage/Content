@@ -8,6 +8,8 @@ title: 個人品牌行銷 - mindmap
 ## 前置準備
 
 ### 核心思想
+* 一定要看
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/jnneeT3Mma8" title=" [2020 TGDF] 蛤？遊戲還沒有開始做每個月就有收益是不是搞錯了什麼！？(Kuro) " frameborder="0" ></iframe>  
 * 核心思想
   * 一門專業技術
     * <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BZuSM_i4eyroT9St2gqdIg.jpeg" width="300"> 
@@ -63,6 +65,7 @@ title: 個人品牌行銷 - mindmap
         *  Agitate (激化)： 激化問題的嚴重性，引起共鳴。
         *  Solution (解決方案)： 提供解決方案，並強調客戶的產品/服務的優勢。
     * <img src="./網路行銷藍圖.webp" height="300">
+  * 預購
   * SEO
     * 主要引用資料
       * Jemmy Ko - 讓人一搜尋就找到你
@@ -159,8 +162,11 @@ title: 個人品牌行銷 - mindmap
         * Hub： 使用平易近人的語言，提供實用的資訊。
         * Hygiene： 使用簡單易懂的語言，快速解答問題。
     * 飛輪效應
+      * <iframe width="450" height="255" src="https://www.youtube.com/embed/oVtxAm5iOgM?start=720" title="【Krenz】心得：繪畫時的常見問題和心態答疑" frameborder="0" ></iframe> 
     * 商業模式    
 
 ### Homework
 * 規劃一組商業模式(飛輪 漏斗)
 * 現在手上的牌 分析能用的狀況 不能用的時候換哪招? 要去逆向工程甚麼資源來補足?
+* 再看一次 
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/jnneeT3Mma8" title=" [2020 TGDF] 蛤？遊戲還沒有開始做每個月就有收益是不是搞錯了什麼！？(Kuro) " frameborder="0" ></iframe>  
