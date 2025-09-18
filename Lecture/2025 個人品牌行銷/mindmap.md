@@ -5,7 +5,10 @@ title: 個人品牌行銷 - mindmap
 
 # 個人品牌行銷
 
-* 前情提要
+## 前置準備
+
+### 核心思想
+* 核心思想
   * 一門專業技術
     * <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BZuSM_i4eyroT9St2gqdIg.jpeg" width="300"> 
   * 核心能力：Resilience
@@ -21,9 +24,14 @@ title: 個人品牌行銷 - mindmap
   * <img src="./抖抖村RPG.webp" height="300">
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/AIufILDRw5U" title="【画成啥样能有收入？0基础咋开始？RPG一样的提升画技全攻略【抖抖村】How to Start Drawing for Beginners" frameborder="0" ></iframe> 
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/Fr_5snieXYw" title="【抖抖村】真!到底什么水平才能靠画画吃饭? How Good Should You Be In Order To Make a Living On Drawing/Making Art" frameborder="0" ></iframe> 
-  * 羞愧法則
-    * <img src="./MVP.webp" height="300">
 
+
+### Homework
+* 羞愧法則
+  * <img src="./MVP.webp" height="300">
+
+## 廣泛接觸
+### 探索
 * Exploration
   * Temet Nosce <img src="../2025 語言學習/Temet Nosce.webp" width="300">  
     * 探索自我
@@ -33,14 +41,19 @@ title: 個人品牌行銷 - mindmap
   * 輸出導向
     * 吸引力法則
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/5kNCcpM61eo" title="小心效率陷阱：為什麼你不需要第二大腦或者個人知識庫？" frameborder="0" ></iframe> 
-  * Homework
-    * 尋找更多喜歡的內容? 為什麼? 有什麼特徵?
+  * 尋找更多喜歡的內容? 為什麼? 有什麼特徵?
     * 如果靈感枯竭，如何尋找新的內容題材？
-    * 內容形式多樣性： 文章、短影音、長影片、Podcast、社群貼文
-      * [舉例A](https://www.facebook.com/AlchemyMage), [舉例B](https://www.youtube.com/@HomunMage/videos), [舉例C](https://podcasts.apple.com/tw/podcast/latticemage/id1693061816)
-    * 目標：至少三個平台 每個平台至少5個內容 (記得羞愧法則)
-      * 爛產出舉例 https://www.tiktok.com/@latticemage
 
+
+### Homework
+  * 內容形式多樣性： 文章、短影音、長影片、Podcast、社群貼文
+    * [舉例A](https://www.facebook.com/AlchemyMage), [舉例B](https://www.youtube.com/@HomunMage/videos), [舉例C](https://podcasts.apple.com/tw/podcast/latticemage/id1693061816)
+  * 目標：至少三個平台 每個平台至少5個內容 (記得羞愧法則)
+    * 爛產出舉例 https://www.tiktok.com/@latticemage
+
+## 市場分析
+
+### 行銷
 * Marketing
   * 行銷
     * 怎樣是好的行銷文?
@@ -86,12 +99,14 @@ title: 個人品牌行銷 - mindmap
       * 分眾化時代
   * 範例：觀察市場
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/jz7oz15Dddw?start=458" title="三国题材游戏美术的深度思考——游戏制作人冬冬专访" frameborder="0" ></iframe> 
-  * Homework
-    * 觀察市場 市場在哪?
-      * 你的TA表
+
+### Homework
+* 觀察市場 市場在哪?
+* 你的TA表
 
 
-* 逆向工程
+## 逆向工程
+### Reverse Engineering
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/zWk69IPsMQs" title="如何超过99%的人: 时间管理的奥秘" frameborder="0" ></iframe> 
   * 定義與目的
     * 從成功案例中拆解策略
@@ -114,12 +129,15 @@ title: 個人品牌行銷 - mindmap
   * 範例：華德電繪日記 https://www.instagram.com/howardpaint100/
     * <img src="./howard-fb-2023.webp" height="300">
     * <img src="./howard-fb-2024.webp" height="300">
-  * Homework
-    * 製作沙盒(sandbox)
-    * Documentation and Modeling
-    * 嘗試調整之前的內容 或者發佈新內容 但要應用你分析別人內容的觀念
+
+### Homework
+* 製作沙盒(sandbox)
+* Documentation and Modeling
+* 嘗試調整之前的內容 或者發佈新內容 但要應用你分析別人內容的觀念
  
-* 策略深度
+## 策略深度
+### 手牌夠多
+* 武器庫
   * 你的招不能用的時候怎麼辦？
     * 預備方案 (Contingency Plan)：
     * 平台限制： 如果某個平台演算法改變，導致觸及率下降，我該如何將內容轉移到其他平台？
@@ -142,5 +160,7 @@ title: 個人品牌行銷 - mindmap
         * Hygiene： 使用簡單易懂的語言，快速解答問題。
     * 飛輪效應
     * 商業模式    
-  * Homework
-    * 現在手上的牌 分析能用的狀況 不能用的時候換哪招? 要去逆向工程甚麼資源來補足?
+
+### Homework
+* 規劃一組商業模式(飛輪 漏斗)
+* 現在手上的牌 分析能用的狀況 不能用的時候換哪招? 要去逆向工程甚麼資源來補足?
