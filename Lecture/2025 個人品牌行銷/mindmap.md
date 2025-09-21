@@ -6,56 +6,56 @@ title: 個人品牌行銷 - mindmap
 # 個人品牌行銷
 
 ## 前置準備
-
 ### 核心思想
 * 一定要看
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/jnneeT3Mma8" title=" [2020 TGDF] 蛤？遊戲還沒有開始做每個月就有收益是不是搞錯了什麼！？(Kuro) " frameborder="0" ></iframe>  
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/rWWzeNhokFU" title="如何构建自己的“数字内容资产”？ " frameborder="0" ></iframe>
 * 核心思想
-  * 一門專業技術
-    * <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BZuSM_i4eyroT9St2gqdIg.jpeg" width="300"> 
-  * 核心能力：Resilience
-    * 人生哲學
   * 賺到錢，順便學會XXX
     * 放棄能力主導思維
-  * 主要書單
     * 普通人的財富自由之道
-      * <img src="./The Common Path to Uncommon Success.webp" height="300">
-  * <img src="./journey_triangle.svg" height="300"  style="background-color: white;">
+      * <img src="./The Common Path to Uncommon Success.webp" height="200">
+  * 你摸索出來的能力才是賺錢根基
+    * <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BZuSM_i4eyroT9St2gqdIg.jpeg" width="300"> 
+    * <img src="Naval.webp" width="300"> 
+  * 核心能力：Resilience
+    * 人生哲學
+        * 讓時間成為自己的朋友而非敵人
+        * 一輩子的事，可以輕鬆面對
+          * <img src="../2025 語言學習/有人提到一輩子.webp" height="150">
+    * 領先指標 vs 落後指標
+      * 菩薩畏因，眾生畏果
+      * <img src="https://www.yesharris.com/wp-content/uploads/2024/03/%E8%AA%8D%E8%AD%98%E7%B6%B2%E7%AB%99%E5%84%AA%E5%8C%96%E7%9A%84%E3%80%90%E9%A0%98%E5%85%88%E6%8C%87%E6%A8%99%E3%80%91%E8%88%87%E3%80%90%E8%90%BD%E5%BE%8C%E6%8C%87%E6%A8%99%E3%80%91-0.png"  height="200">
+      * 領先指標
+        * RSI, 量先價行, ...
+        * 學習時間
+      * 落後指標
+        * 健康檢查
+        * MACD, 布林通道, ...
+        * 學習成果
+        * 單字數量
+        * 成就 里程碑
+  * <img src="./journey_triangle.svg" height="400"  style="background-color: white;">
+    * 絕對的順序
     * 任何一層卡關，都要往下看"所有層"
     * ex: 酷思特
   * <img src="./抖抖村RPG.webp" height="300">
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/AIufILDRw5U" title="【画成啥样能有收入？0基础咋开始？RPG一样的提升画技全攻略【抖抖村】How to Start Drawing for Beginners" frameborder="0" ></iframe> 
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/Fr_5snieXYw" title="【抖抖村】真!到底什么水平才能靠画画吃饭? How Good Should You Be In Order To Make a Living On Drawing/Making Art" frameborder="0" ></iframe> 
-
-
-### Homework
-* 羞愧法則
-  * <img src="./MVP.webp" height="300">
-
-## 廣泛接觸
-### 探索
-* Exploration
-  * Temet Nosce <img src="../2025 語言學習/Temet Nosce.webp" width="300">  
-    * 探索自我
-  * 做實驗
-    * Jim Rohn --“Formal education will make you a living; self-education will make you a fortune.”
-    * 嘗試不同的可能性
-  * 輸出導向
-    * 吸引力法則
-    * <iframe width="450" height="255" src="https://www.youtube.com/embed/5kNCcpM61eo" title="小心效率陷阱：為什麼你不需要第二大腦或者個人知識庫？" frameborder="0" ></iframe> 
-  * 尋找更多喜歡的內容? 為什麼? 有什麼特徵?
-    * 如果靈感枯竭，如何尋找新的內容題材？
-
+  * 羞愧法則
+    * <img src="./MVP.webp" height="300">
+    * <img src="./课代表立正c.webp" height="300">
+  
 
 ### Homework
-  * 內容形式多樣性： 文章、短影音、長影片、Podcast、社群貼文
-    * [舉例A](https://www.facebook.com/AlchemyMage), [舉例B](https://www.youtube.com/@HomunMage/videos), [舉例C](https://podcasts.apple.com/tw/podcast/latticemage/id1693061816)
-  * 目標：至少三個平台 每個平台至少5個內容 (記得羞愧法則)
-    * 爛產出舉例 https://www.tiktok.com/@latticemage
+* 把一定要看的影片看完
+  * [2020 TGDF] 蛤？遊戲還沒有開始做每個月就有收益是不是搞錯了什麼！？(Kuro)
+  * 如何构建自己的“数字内容资产”？
 
 ## 市場分析
 
 ### 行銷
+* <iframe width="450" height="255" src="https://www.youtube.com/embed/zWk69IPsMQs" title="如何超过99%的人: 时间管理的奥秘" frameborder="0" ></iframe> 
 * Marketing
   * 行銷
     * 怎樣是好的行銷文?
@@ -66,6 +66,7 @@ title: 個人品牌行銷 - mindmap
         *  Solution (解決方案)： 提供解決方案，並強調客戶的產品/服務的優勢。
     * <img src="./網路行銷藍圖.webp" height="300">
   * 預購
+    * 用收費看市場意願
   * SEO
     * 主要引用資料
       * Jemmy Ko - 讓人一搜尋就找到你
@@ -84,12 +85,14 @@ title: 個人品牌行銷 - mindmap
         * 負評
           * steam, google,
             * 不能葉配味道
+  * STP細分市場分析（Segmentation、Targeting、Positioning）
   * TA (Target Audience)
     * 特徵消費者 (Representative Consumer)
     * 點估計 (Point Estimate)
     * 普通人的財富自由之道
       * <img src="./TA table.webp" height="300">
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/0pFrpYK5SzY" title="自己画的好没人看，别人画的烂却被吹捧？如何推广自己的作品【抖抖村】How to Promote Your Artwork and Comics" frameborder="0" ></iframe> 
+    * 一千個鐵粉理論 (1,000 True Fans by Kevin Kelly )
   * 舉例：YT不同時期算法
     * 2006-2010年：
       * 初期發展，YouTube內容多樣但不專業，用戶尋求新奇和娛樂性。
@@ -108,9 +111,31 @@ title: 個人品牌行銷 - mindmap
 * 你的TA表
 
 
+## 廣泛接觸
+### 探索
+* Exploration
+  * Temet Nosce <img src="../2025 語言學習/Temet Nosce.webp" width="300">  
+    * 探索自我
+  * 做實驗
+    * Jim Rohn --“Formal education will make you a living; self-education will make you a fortune.”
+    * 嘗試不同的可能性
+  * 輸出導向
+    * 吸引力法則
+    * <iframe width="450" height="255" src="https://www.youtube.com/embed/5kNCcpM61eo" title="小心效率陷阱：為什麼你不需要第二大腦或者個人知識庫？" frameborder="0" ></iframe> 
+    * 齋藤直葵 讚賞 Ｉｘｙ（いくしー）日更策略
+  * 尋找更多喜歡的內容? 為什麼? 有什麼特徵?
+    * 如果靈感枯竭，如何尋找新的內容題材？
+
+### Homework
+  * 內容形式多樣性： 文章、短影音、長影片、Podcast、社群貼文
+    * [舉例A](https://www.facebook.com/AlchemyMage), [舉例B](https://www.youtube.com/@HomunMage/videos), [舉例C](https://podcasts.apple.com/tw/podcast/latticemage/id1693061816)
+  * 目標：至少三個平台 每個平台至少5個內容 (記得羞愧法則)
+    * 爛產出舉例 https://www.tiktok.com/@latticemage
+  * 定義你的"盒子"
+
+
 ## 逆向工程
 ### Reverse Engineering
-  * <iframe width="450" height="255" src="https://www.youtube.com/embed/zWk69IPsMQs" title="如何超过99%的人: 时间管理的奥秘" frameborder="0" ></iframe> 
   * 定義與目的
     * 從成功案例中拆解策略
     * 找出核心成功因素
@@ -136,7 +161,7 @@ title: 個人品牌行銷 - mindmap
 ### Homework
 * 製作沙盒(sandbox)
 * Documentation and Modeling
-* 嘗試調整之前的內容 或者發佈新內容 但要應用你分析別人內容的觀念
+* 嘗試調整以前的內容 或者發佈新內容 但要應用你分析別人內容的觀念
  
 ## 策略深度
 ### 手牌夠多
@@ -156,6 +181,7 @@ title: 個人品牌行銷 - mindmap
       * 同一素材，不同平台演繹
       * 長影片 → 短影音 → 圖文 → Podcast
   * 內容組合拳戰略
+    * 商業模式
     * 漏斗行銷
       * 3H 
         * Hero： 使用專業、深入的語言，提供獨到的見解。
@@ -163,10 +189,12 @@ title: 個人品牌行銷 - mindmap
         * Hygiene： 使用簡單易懂的語言，快速解答問題。
     * 飛輪效應
       * <iframe width="450" height="255" src="https://www.youtube.com/embed/oVtxAm5iOgM?start=720" title="【Krenz】心得：繪畫時的常見問題和心態答疑" frameborder="0" ></iframe> 
-    * 商業模式    
+      * <iframe width="450" height="255" src="https://www.youtube.com/embed/zF-Yk1h23yw?start=318" title="【無人深空：九年封神】當星空還在讀取、星際公民還在畫餅，它早已用40次免費更新，重新定義了太空神作📰" frameborder="0" ></iframe>
+
 
 ### Homework
 * 規劃一組商業模式(飛輪 漏斗)
 * 現在手上的牌 分析能用的狀況 不能用的時候換哪招? 要去逆向工程甚麼資源來補足?
 * 再看一次 
-  * <iframe width="450" height="255" src="https://www.youtube.com/embed/jnneeT3Mma8" title=" [2020 TGDF] 蛤？遊戲還沒有開始做每個月就有收益是不是搞錯了什麼！？(Kuro) " frameborder="0" ></iframe>  
+  * [2020 TGDF] 蛤？遊戲還沒有開始做每個月就有收益是不是搞錯了什麼！？(Kuro)
+  * 如何构建自己的“数字内容资产”？
