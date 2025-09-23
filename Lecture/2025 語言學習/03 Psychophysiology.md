@@ -87,8 +87,10 @@ ex: 語言特性
 ## 效用
 
 * 你身邊的人
-* [學語言別再練口說了！沉浸式學語言可以達到什麼程度？](https://www.youtube.com/watch?v=Q9NRct8e6DE)
-* [為什麼我躺平學語言，不進步都很難](https://www.youtube.com/watch?v=g3TV6LDHdEU)
+  * [學語言別再練口說了！沉浸式學語言可以達到什麼程度？](https://www.youtube.com/watch?v=Q9NRct8e6DE)
+  * [為什麼我躺平學語言，不進步都很難](https://www.youtube.com/watch?v=g3TV6LDHdEU)
+
+* 高強度訓練效果往往來自於垃圾訓練量的積累
 
 </div>
 
@@ -111,8 +113,6 @@ ex: 語言特性
 <div class="slide">
 
 ## My Examples
-* Visual Novel
-* ドママCD
 * Anime
   * jp subtitle
   * other subtitle
@@ -121,8 +121,6 @@ ex: 語言特性
   * context
 * VTuber
 * Comic
-* Novel
-  * Browser TTS
 
 </div>
 

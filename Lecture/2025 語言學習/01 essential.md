@@ -99,6 +99,13 @@ title: 語言學習 - 01 Comprehensible Input
 
 <div class="slide">
 
+
+## My Examples
+* Visual Novel
+* ドママCD
+* Novel
+  * Browser TTS
+
 ## Homework
 
 1. Comprehensible Input XXX

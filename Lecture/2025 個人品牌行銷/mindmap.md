@@ -9,7 +9,7 @@ title: 個人品牌行銷 - mindmap
 ### 核心思想
 * 一定要看
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/jnneeT3Mma8" title=" [2020 TGDF] 蛤？遊戲還沒有開始做每個月就有收益是不是搞錯了什麼！？(Kuro) " frameborder="0" ></iframe>  
-  * <iframe width="450" height="255" src="https://www.youtube.com/embed/rWWzeNhokFU" title="如何构建自己的“数字内容资产”？ " frameborder="0" ></iframe>
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/rWWzeNhokFU" title="未来自媒体，要用“资产布局”的思路做？ " frameborder="0" ></iframe>
 * 核心思想
   * 賺到錢，順便學會XXX
     * 放棄能力主導思維
@@ -50,7 +50,7 @@ title: 個人品牌行銷 - mindmap
 ### Homework
 * 把一定要看的影片看完
   * [2020 TGDF] 蛤？遊戲還沒有開始做每個月就有收益是不是搞錯了什麼！？(Kuro)
-  * 如何构建自己的“数字内容资产”？
+  * 未来自媒体，要用“资产布局”的思路做？
 
 ## 市場分析
 
@@ -114,7 +114,7 @@ title: 個人品牌行銷 - mindmap
 ## 廣泛接觸
 ### 探索
 * Exploration
-  * Temet Nosce <img src="../2025 語言學習/Temet Nosce.webp" width="300">  
+  * Temet Nosce <img src="../2025 語言學習/Temet Nosce.webp" width="300">
     * 探索自我
   * 做實驗
     * Jim Rohn --“Formal education will make you a living; self-education will make you a fortune.”
@@ -122,9 +122,14 @@ title: 個人品牌行銷 - mindmap
   * 輸出導向
     * 吸引力法則
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/5kNCcpM61eo" title="小心效率陷阱：為什麼你不需要第二大腦或者個人知識庫？" frameborder="0" ></iframe> 
-    * 齋藤直葵 讚賞 Ｉｘｙ（いくしー）日更策略
   * 尋找更多喜歡的內容? 為什麼? 有什麼特徵?
     * 如果靈感枯竭，如何尋找新的內容題材？
+  * 觀察別人的社群如何經營
+    * 觀察別人如何規劃漏斗 AARRR
+      * <img src="https://substackcdn.com/image/fetch/$s_!m_43!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b7d3684-3a37-4dee-bd71-e3b4b9d41dd4_1920x1280.png" width="300">
+    * 觀察別人如何經營社群
+    * 觀察怎麼製作內容
+
 
 ### Homework
   * 內容形式多樣性： 文章、短影音、長影片、Podcast、社群貼文
@@ -152,6 +157,13 @@ title: 個人品牌行銷 - mindmap
     * 主題選擇（解決問題型、娛樂型、知識型）
     * 內容長度與深度
     * CTA（行動呼籲）策略
+  * 範例：齋藤直葵 讚賞 Ｉｘｙ（いくしー）日更策略
+  * 範例：Gamker 分析各種遊戲
+    * <iframe width="450" height="255" src="https://www.youtube.com/embed/LVTgLEi2hjs" title="分析《悟空》的製作和音樂" frameborder="0" ></iframe> 
+  * 範例：神秘人范恩
+    * <img src="./神秘人范恩.webp" height="300">
+  * 範例：
+    * <iframe width="450" height="255" src="https://www.youtube.com/embed/GnOmGdMh7ww" title="樓梯是如何成為遊戲界難題的？拆解鳴潮和絕區零的解決方案" frameborder="0" ></iframe> 
   * 範例：家寧 vs Andy老師
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/sYnFQrP7RLE?start=1172" title="家寧 vs Andy老師" frameborder="0" ></iframe> 
   * 範例：華德電繪日記 https://www.instagram.com/howardpaint100/
@@ -197,4 +209,4 @@ title: 個人品牌行銷 - mindmap
 * 現在手上的牌 分析能用的狀況 不能用的時候換哪招? 要去逆向工程甚麼資源來補足?
 * 再看一次 
   * [2020 TGDF] 蛤？遊戲還沒有開始做每個月就有收益是不是搞錯了什麼！？(Kuro)
-  * 如何构建自己的“数字内容资产”？
+  * 未来自媒体，要用“资产布局”的思路做？
