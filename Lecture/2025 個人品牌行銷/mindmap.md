@@ -109,19 +109,18 @@ title: 個人品牌行銷 - mindmap
 ### Homework
 * 觀察市場 市場在哪?
 * 你的TA表
+* 最近熱門的主題? 關鍵字?
 
 
-## 廣泛接觸
-### 探索
-* Exploration
-  * Temet Nosce <img src="../2025 語言學習/Temet Nosce.webp" width="300">
-    * 探索自我
-  * 做實驗
-    * Jim Rohn --“Formal education will make you a living; self-education will make you a fortune.”
-    * 嘗試不同的可能性
+## 探勘挖掘
+### 帶目的的探索
+* 廣泛搜尋
   * 輸出導向
     * 吸引力法則
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/5kNCcpM61eo" title="小心效率陷阱：為什麼你不需要第二大腦或者個人知識庫？" frameborder="0" ></iframe> 
+  * 做實驗
+    * Jim Rohn --“Formal education will make you a living; self-education will make you a fortune.”
+    * 嘗試不同的可能性
   * 尋找更多喜歡的內容? 為什麼? 有什麼特徵?
     * 如果靈感枯竭，如何尋找新的內容題材？
   * 觀察別人的社群如何經營
@@ -129,6 +128,10 @@ title: 個人品牌行銷 - mindmap
       * <img src="https://substackcdn.com/image/fetch/$s_!m_43!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b7d3684-3a37-4dee-bd71-e3b4b9d41dd4_1920x1280.png" width="300">
     * 觀察別人如何經營社群
     * 觀察怎麼製作內容
+  * 範例：華德電繪日記 https://www.instagram.com/howardpaint100/
+    * <img src="./howard-fb-2023.webp" height="300">
+    * <img src="./howard-fb-2024.webp" height="300">
+* 學習新概念
 
 
 ### Homework
@@ -137,7 +140,6 @@ title: 個人品牌行銷 - mindmap
   * 目標：至少三個平台 每個平台至少5個內容 (記得羞愧法則)
     * 爛產出舉例 https://www.tiktok.com/@latticemage
   * 定義你的"盒子"
-
 
 ## 逆向工程
 ### Reverse Engineering
@@ -162,13 +164,16 @@ title: 個人品牌行銷 - mindmap
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/LVTgLEi2hjs" title="分析《悟空》的製作和音樂" frameborder="0" ></iframe> 
   * 範例：神秘人范恩
     * <img src="./神秘人范恩.webp" height="300">
-  * 範例：
+  * 範例：RnL石葉
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/GnOmGdMh7ww" title="樓梯是如何成為遊戲界難題的？拆解鳴潮和絕區零的解決方案" frameborder="0" ></iframe> 
+  * 範例：劇本
+    *《先讓英雄救貓咪》
   * 範例：家寧 vs Andy老師
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/sYnFQrP7RLE?start=1172" title="家寧 vs Andy老師" frameborder="0" ></iframe> 
-  * 範例：華德電繪日記 https://www.instagram.com/howardpaint100/
-    * <img src="./howard-fb-2023.webp" height="300">
-    * <img src="./howard-fb-2024.webp" height="300">
+  * 範例：好和弦
+    * <iframe width="450" height="255" src="https://www.youtube.com/embed/wHBhX4ldCZ8" title="來 Cover 台北捷運紅線的進站音樂！" frameborder="0" ></iframe>
+* 學習新概念
+
 
 ### Homework
 * 製作沙盒(sandbox)
@@ -202,7 +207,6 @@ title: 個人品牌行銷 - mindmap
     * 飛輪效應
       * <iframe width="450" height="255" src="https://www.youtube.com/embed/oVtxAm5iOgM?start=720" title="【Krenz】心得：繪畫時的常見問題和心態答疑" frameborder="0" ></iframe> 
       * <iframe width="450" height="255" src="https://www.youtube.com/embed/zF-Yk1h23yw?start=318" title="【無人深空：九年封神】當星空還在讀取、星際公民還在畫餅，它早已用40次免費更新，重新定義了太空神作📰" frameborder="0" ></iframe>
-
 
 ### Homework
 * 規劃一組商業模式(飛輪 漏斗)
