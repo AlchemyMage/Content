@@ -14,7 +14,7 @@ title: 個人品牌行銷 - mindmap
   * 賺到錢，順便學會XXX
     * 放棄能力主導思維
     * 普通人的財富自由之道
-      * <img src="./The Common Path to Uncommon Success.webp" height="200">
+      * <img src="The Common Path to Uncommon Success.webp" height="200">
   * 你摸索出來的能力才是賺錢根基
     * <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BZuSM_i4eyroT9St2gqdIg.jpeg" width="300"> 
     * <img src="Naval.webp" width="300"> 
@@ -35,17 +35,17 @@ title: 個人品牌行銷 - mindmap
         * 學習成果
         * 單字數量
         * 成就 里程碑
-  * <img src="./alphago-master.webp" height="200">
-  * <img src="./money_triangle.svg" height="400"  style="background-color: white;">
+  * <img src="alphago-master.webp" height="200">
+  * <img src="money_triangle.svg" height="400"  style="background-color: white;">
     * 絕對的順序
     * 任何一層卡關，都要往下看"所有層"
     * ex: 酷思特
-  * <img src="./抖抖村RPG.webp" height="300">
+  * <img src="抖抖村RPG.webp" height="300">
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/AIufILDRw5U" title="【画成啥样能有收入？0基础咋开始？RPG一样的提升画技全攻略【抖抖村】How to Start Drawing for Beginners" frameborder="0" ></iframe> 
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/Fr_5snieXYw" title="【抖抖村】真!到底什么水平才能靠画画吃饭? How Good Should You Be In Order To Make a Living On Drawing/Making Art" frameborder="0" ></iframe> 
   * 羞愧法則
-    * <img src="./MVP.webp" height="300">
-    * <img src="./课代表立正c.webp" height="300">
+    * <img src="MVP.webp" height="300">
+    * <img src="课代表立正c.webp" height="300">
   
 
 ### Homework
@@ -66,7 +66,7 @@ title: 個人品牌行銷 - mindmap
         *  Problem (問題)： 明確指出目標受眾遇到的問題。
         *  Agitate (激化)： 激化問題的嚴重性，引起共鳴。
         *  Solution (解決方案)： 提供解決方案，並強調客戶的產品/服務的優勢。
-    * <img src="./網路行銷藍圖.webp" height="300">
+    * <img src="網路行銷藍圖.webp" height="300">
   * UVP（Unique Value Proposition）獨特價值主張
   * 預購
     * 用收費看市場意願
@@ -93,7 +93,7 @@ title: 個人品牌行銷 - mindmap
     * 特徵消費者 (Representative Consumer)
     * 點估計 (Point Estimate)
     * 普通人的財富自由之道
-      * <img src="./TA table.webp" height="300">
+      * <img src="TA table.webp" height="300">
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/0pFrpYK5SzY" title="自己画的好没人看，别人画的烂却被吹捧？如何推广自己的作品【抖抖村】How to Promote Your Artwork and Comics" frameborder="0" ></iframe> 
     * 一千個鐵粉理論 (1,000 True Fans by Kevin Kelly )
   * 舉例：YT不同時期算法
@@ -132,8 +132,8 @@ title: 個人品牌行銷 - mindmap
     * 觀察別人如何經營社群
     * 觀察怎麼製作內容
   * 範例：華德電繪日記 https://www.instagram.com/howardpaint100/
-    * <img src="./howard-fb-2023.webp" height="300">
-    * <img src="./howard-fb-2024.webp" height="300">
+    * <img src="howard-fb-2023.webp" height="300">
+    * <img src="howard-fb-2024.webp" height="300">
 * 學習新概念
 
 ### Homework
@@ -159,19 +159,19 @@ title: 個人品牌行銷 - mindmap
     * 拆解策略
   * 模式萃取
     * 成功模式
-      * <img src="./雲端事業學院.webp" height="300">
+      * <img src="雲端事業學院.webp" height="300">
     * 主題選擇（解決問題型、娛樂型、知識型）
     * 內容長度與深度
     * CTA（行動呼籲）策略
   * 範例：UmaJyeness
-    * <img src="./style1.webp" height="300"><img src="./style2.webp" height="300">
+    * <img src="style1.webp" height="300"><img src="style2.webp" height="300">
   * 範例：齋藤直葵 讚賞 Ｉｘｙ（いくしー）日更策略
   * 範例：芳斯塔芙 【鬼谷说】
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/zkpmjvc_AM8" title="035｜唐骋/鬼谷藏龙：博士毕业后，我活成了父母长辈不太喜欢的样子｜格致SELF" frameborder="0" ></iframe> 
   * 範例：Gamker 分析各種遊戲
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/LVTgLEi2hjs" title="分析《悟空》的製作和音樂" frameborder="0" ></iframe> 
   * 範例：神秘人范恩
-    * <img src="./神秘人范恩.webp" height="300">
+    * <img src="神秘人范恩.webp" height="300">
   * 範例：RnL石葉
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/GnOmGdMh7ww" title="樓梯是如何成為遊戲界難題的？拆解鳴潮和絕區零的解決方案" frameborder="0" ></iframe> 
   * 範例：劇本
@@ -210,12 +210,15 @@ title: 個人品牌行銷 - mindmap
       * <iframe width="450" height="255" src="https://www.youtube.com/embed/GqikWRLjcoA" title="[蕾咪] 11種被動收入大公開！月入超過6位數怎麼辦到？想提早退休你該這樣做...！" frameborder="0" ></iframe>
   * 內容組合拳戰略
     * 商業模式
+    * <iframe width="450" height="255" src="https://www.youtube.com/embed/8BbG1Jr94o8" title=" 一口气了解全球游戏产业 | 为什么最近各大科技巨头纷纷入局?" frameborder="0" ></iframe>
     * 漏斗行銷
       * 3H 
         * Hero： 使用專業、深入的語言，提供獨到的見解。
         * Hub： 使用平易近人的語言，提供實用的資訊。
         * Hygiene： 使用簡單易懂的語言，快速解答問題。
     * 飛輪效應
+      * <img src="flywheel.webp" height="300">
+        *  飛輪效應——A+企管大師柯林斯，7步驟打造成功飛輪，帶你從優秀邁向卓越 
       * <iframe width="450" height="255" src="https://www.youtube.com/embed/oVtxAm5iOgM?start=720" title="【Krenz】心得：繪畫時的常見問題和心態答疑" frameborder="0" ></iframe> 
       * <iframe width="450" height="255" src="https://www.youtube.com/embed/zF-Yk1h23yw?start=318" title="【無人深空：九年封神】當星空還在讀取、星際公民還在畫餅，它早已用40次免費更新，重新定義了太空神作📰" frameborder="0" ></iframe>
     * 聯盟行銷
