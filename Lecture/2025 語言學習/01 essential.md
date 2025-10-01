@@ -8,9 +8,9 @@ title: 語言學習 - 01 Comprehensible Input
 
 1. Comprehensible Input
 
-2. Comprehensible input
+2. Comprehensible Input
 
-3. comprehensible Input
+3. Comprehensible Input
 
 <iframe width="450" height="255" src="https://www.youtube.com/embed/NiTsduRreug" title=" Stephen Krashen on Language Acquisition " frameborder="0" ></iframe>
 
@@ -105,10 +105,14 @@ title: 語言學習 - 01 Comprehensible Input
 * ドママCD
 * Novel
   * Browser TTS
+* ChatGPT 
+  * furigana method
+  * context method
 
 ## Homework
 
-1. Comprehensible Input XXX
-2. (Optional) Language Reactor
+* 找一個自己讓 i+2(超過15%) 難度降級到 i+1 (15%) 的方法
+* (不強制)youtube上搜尋影片Comprehensible input XX語言
+* (不強制)使用language reactor
 
 </div>

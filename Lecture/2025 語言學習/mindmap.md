@@ -19,7 +19,7 @@ title: 語言學習 - mindmap
     * 右腦記憶法 dinosaur = 呆腦獸 
   * Language Reactor
 
-* Procedural knowledge
+* Generalization
   * 第一階知識 (Declarative Knowledge) vs 第二階知識 (Procedural Knowledge)
     * 系統2 vs 系統1
     * 外顯知識 (Explicit Knowledge) vs 內隱知識 (Implicit Knowledge)

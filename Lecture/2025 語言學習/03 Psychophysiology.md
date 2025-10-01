@@ -116,9 +116,6 @@ ex: 語言特性
 * Anime
   * jp subtitle
   * other subtitle
-* ChatGPT 
-  * furigana
-  * context
 * VTuber
 * Comic
 

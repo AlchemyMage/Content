@@ -81,7 +81,6 @@ https://en.wikipedia.org/wiki/Fossilization_(linguistics)
 
 ## Homework
 
-1. 尋找多種可能性為了泛化
-2. 尋找降階的方法 i+2 -> i+1
+尋找多種可能性來達到泛化
 
 </div>

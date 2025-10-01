@@ -35,7 +35,8 @@ title: 個人品牌行銷 - mindmap
         * 學習成果
         * 單字數量
         * 成就 里程碑
-  * <img src="./journey_triangle.svg" height="400"  style="background-color: white;">
+  * <img src="./alphago-master.webp" height="200">
+  * <img src="./money_triangle.svg" height="400"  style="background-color: white;">
     * 絕對的順序
     * 任何一層卡關，都要往下看"所有層"
     * ex: 酷思特
@@ -57,6 +58,7 @@ title: 個人品牌行銷 - mindmap
 ### 行銷
 * <iframe width="450" height="255" src="https://www.youtube.com/embed/zWk69IPsMQs" title="如何超过99%的人: 时间管理的奥秘" frameborder="0" ></iframe> 
 * Marketing
+  * 競品分析
   * 行銷
     * 怎樣是好的行銷文?
     * "乾我屁事"原則
@@ -65,6 +67,7 @@ title: 個人品牌行銷 - mindmap
         *  Agitate (激化)： 激化問題的嚴重性，引起共鳴。
         *  Solution (解決方案)： 提供解決方案，並強調客戶的產品/服務的優勢。
     * <img src="./網路行銷藍圖.webp" height="300">
+  * UVP（Unique Value Proposition）獨特價值主張
   * 預購
     * 用收費看市場意願
   * SEO
@@ -85,7 +88,7 @@ title: 個人品牌行銷 - mindmap
         * 負評
           * steam, google,
             * 不能葉配味道
-  * STP細分市場分析（Segmentation、Targeting、Positioning）
+  * STP（Segmentation、Targeting、Positioning）
   * TA (Target Audience)
     * 特徵消費者 (Representative Consumer)
     * 點估計 (Point Estimate)
@@ -110,7 +113,7 @@ title: 個人品牌行銷 - mindmap
 * 觀察市場 市場在哪?
 * 你的TA表
 * 最近熱門的主題? 關鍵字?
-
+* 做一個競品分析
 
 ## 探勘挖掘
 ### 帶目的的探索
@@ -133,7 +136,6 @@ title: 個人品牌行銷 - mindmap
     * <img src="./howard-fb-2024.webp" height="300">
 * 學習新概念
 
-
 ### Homework
   * 內容形式多樣性： 文章、短影音、長影片、Podcast、社群貼文
     * [舉例A](https://www.facebook.com/AlchemyMage), [舉例B](https://www.youtube.com/@HomunMage/videos), [舉例C](https://podcasts.apple.com/tw/podcast/latticemage/id1693061816)
@@ -143,10 +145,12 @@ title: 個人品牌行銷 - mindmap
 
 ## 逆向工程
 ### Reverse Engineering
+  * <img src="https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/012/08/E050120873.jpg" height="200">
   * 定義與目的
     * 從成功案例中拆解策略
     * 找出核心成功因素
-  * 目標設定
+  * 目標
+    * <iframe width="450" height="255" src="https://www.youtube.com/embed/oULQfz3vCLg" title="尼可拉斯凱吉回顧經典橋段， 看自己的電影迷因超爆笑！詳細講解他的表演「致敬對象」｜明星的經典角色｜GQ Taiwan" frameborder="0" ></iframe> 
   * 分析流程
     * 案例選擇
       * 競爭對手
@@ -159,7 +163,11 @@ title: 個人品牌行銷 - mindmap
     * 主題選擇（解決問題型、娛樂型、知識型）
     * 內容長度與深度
     * CTA（行動呼籲）策略
+  * 範例：UmaJyeness
+    * <img src="./style1.webp" height="300"><img src="./style2.webp" height="300">
   * 範例：齋藤直葵 讚賞 Ｉｘｙ（いくしー）日更策略
+  * 範例：芳斯塔芙 【鬼谷说】
+    * <iframe width="450" height="255" src="https://www.youtube.com/embed/zkpmjvc_AM8" title="035｜唐骋/鬼谷藏龙：博士毕业后，我活成了父母长辈不太喜欢的样子｜格致SELF" frameborder="0" ></iframe> 
   * 範例：Gamker 分析各種遊戲
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/LVTgLEi2hjs" title="分析《悟空》的製作和音樂" frameborder="0" ></iframe> 
   * 範例：神秘人范恩
@@ -170,6 +178,7 @@ title: 個人品牌行銷 - mindmap
     *《先讓英雄救貓咪》
   * 範例：家寧 vs Andy老師
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/sYnFQrP7RLE?start=1172" title="家寧 vs Andy老師" frameborder="0" ></iframe> 
+  * 範例：博恩【#段子神偷】
   * 範例：好和弦
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/wHBhX4ldCZ8" title="來 Cover 台北捷運紅線的進站音樂！" frameborder="0" ></iframe>
 * 學習新概念
@@ -180,14 +189,13 @@ title: 個人品牌行銷 - mindmap
 * Documentation and Modeling
 * 嘗試調整以前的內容 或者發佈新內容 但要應用你分析別人內容的觀念
  
-## 策略深度
+## 商業策略
 ### 手牌夠多
+* 風險管理
+  * 平台限制： 如果某個平台演算法改變，導致觸及率下降，我該如何將內容轉移到其他平台？
+  * 時間壓力： 如果時間不夠，哪些內容形式可以快速產出？（例如：文字貼文、簡單的短影音、社群問答）
+  * 工具限制： 如果無法使用某些專業工具，是否有替代方案？
 * 武器庫
-  * 你的招不能用的時候怎麼辦？
-    * 預備方案 (Contingency Plan)：
-    * 平台限制： 如果某個平台演算法改變，導致觸及率下降，我該如何將內容轉移到其他平台？
-    * 時間壓力： 如果時間不夠，哪些內容形式可以快速產出？（例如：文字貼文、簡單的短影音、社群問答）
-    * 工具限制： 如果無法使用某些專業工具，是否有替代方案？
   * 實驗的方法
     * A/B Test (Black Box Testing)
     * sandbox
@@ -197,6 +205,9 @@ title: 個人品牌行銷 - mindmap
     * 一魚多吃原則
       * 同一素材，不同平台演繹
       * 長影片 → 短影音 → 圖文 → Podcast
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/i5MfoKuo0wg" title="YouTube只是副業？我的20種收入來源大公開｜艾琳的日常" frameborder="0" ></iframe>
+    * <iframe width="450" height="255" src="https://www.youtube.com/embed/byzU6Wkiof8" title="[蕾咪] 5種增加收入的方法？下班後幫自己每月多賺3萬元！" frameborder="0" ></iframe>
+      * <iframe width="450" height="255" src="https://www.youtube.com/embed/GqikWRLjcoA" title="[蕾咪] 11種被動收入大公開！月入超過6位數怎麼辦到？想提早退休你該這樣做...！" frameborder="0" ></iframe>
   * 內容組合拳戰略
     * 商業模式
     * 漏斗行銷
@@ -207,6 +218,14 @@ title: 個人品牌行銷 - mindmap
     * 飛輪效應
       * <iframe width="450" height="255" src="https://www.youtube.com/embed/oVtxAm5iOgM?start=720" title="【Krenz】心得：繪畫時的常見問題和心態答疑" frameborder="0" ></iframe> 
       * <iframe width="450" height="255" src="https://www.youtube.com/embed/zF-Yk1h23yw?start=318" title="【無人深空：九年封神】當星空還在讀取、星際公民還在畫餅，它早已用40次免費更新，重新定義了太空神作📰" frameborder="0" ></iframe>
+    * 聯盟行銷
+    * 尋找導師
+      * 普通人的財富自由之道
+  * 管理
+    * OKR
+      * 每一組「目標」（objectives）與2～4 個「關鍵結果」（key results）搭配
+    * AAR
+    * PDCA
 
 ### Homework
 * 規劃一組商業模式(飛輪 漏斗)
