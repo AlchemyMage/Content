@@ -57,13 +57,8 @@ title: 劇本設計 - mindmap
       * 日常生活：衣食住行、節慶儀式、社交禮儀
 
 * 先讓英雄救貓咪 
-<<<<<<< HEAD
   * Save the Cat Beat Sheet
   * <img src="beatsheet.webp" width="300">
-=======
-    * Save the Cat Beat Sheet
->>>>>>> 730ee34f2f7573dbaba96ca66cfc75cad7ca3105
-
 
 ### Homework
 
@@ -107,17 +102,15 @@ title: 劇本設計 - mindmap
   * **作業**：寫4人對話不標註說話者也能區分
 
 * 把他們放在幾個背景下彼此互動
-    * <img src="とある.webp" width="300">
-    * <img src="フリーレン.webp" width="300">
-    * <img src="無職.webp" width="300">
+  * <img src="https://img2.animatetimes.com/2022/03/62397d35dfb28_2c3824718c6b5689e44d6693b28a7033.jpg" width="300">
+  * <img src="とある.webp" width="300">
+  * <img src="フリーレン.webp" width="300">
+  * <img src="無職.webp" width="300">
 
 
 ### Homework
 * 設計數個主角 路人
-<<<<<<< HEAD
   * <img src="Elysia.webp" width="300">
-=======
->>>>>>> 730ee34f2f7573dbaba96ca66cfc75cad7ca3105
 * 把他們放在幾個背景下彼此互動
 
 
