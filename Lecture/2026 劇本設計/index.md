@@ -2,7 +2,4 @@
 layout: page/note/directory
 ---
 
-# 語言學習
-
-
-
+# 劇本設計

@@ -17,7 +17,7 @@ title: 語言學習 - mindmap
     * 小鎮做題家
     * 考試導向 (落後指標)
     * 右腦記憶法 dinosaur = 呆腦獸 
-  * Language Reactor
+
 
 * Generalization
   * 第一階知識 (Declarative Knowledge) vs 第二階知識 (Procedural Knowledge)

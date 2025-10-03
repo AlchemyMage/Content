@@ -71,6 +71,18 @@ https://en.wikipedia.org/wiki/Fossilization_(linguistics)
 
 <div class="slide">
 
+## Examples
+
+* 不同腔調 (ex: 台灣大部分是美式)
+* 吉他尺寸 指版不同
+* 不同樂器音色
+* 
+
+</div>
+
+
+<div class="slide">
+
 ## My Examples
 
 <img src="./font1.webp"><img src="./font2.webp"><img src="./font3.webp"><img src="./font4.webp"><img src="./font5.webp"><img src="./font6.webp"><img src="./font7.webp">
