@@ -10,6 +10,7 @@ title: 劇本設計 - mindmap
 ### Homework 
 * 嘗試幾個遊戲引擎 找到一個你順手的
 
+
 ## 劇本設計
 
 ### 架構
@@ -56,8 +57,12 @@ title: 劇本設計 - mindmap
       * 日常生活：衣食住行、節慶儀式、社交禮儀
 
 * 先讓英雄救貓咪 
+<<<<<<< HEAD
   * Save the Cat Beat Sheet
   * <img src="beatsheet.webp" width="300">
+=======
+    * Save the Cat Beat Sheet
+>>>>>>> 730ee34f2f7573dbaba96ca66cfc75cad7ca3105
 
 
 ### Homework
@@ -109,7 +114,10 @@ title: 劇本設計 - mindmap
 
 ### Homework
 * 設計數個主角 路人
+<<<<<<< HEAD
   * <img src="Elysia.webp" width="300">
+=======
+>>>>>>> 730ee34f2f7573dbaba96ca66cfc75cad7ca3105
 * 把他們放在幾個背景下彼此互動
 
 
