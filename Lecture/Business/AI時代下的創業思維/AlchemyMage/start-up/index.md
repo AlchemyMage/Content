@@ -41,6 +41,3 @@ layout: page/note/markmap
 * 數據分析
 * 流量漏斗
 * 飛輪效應
-* 許耀仁 - 雲端事業學院
-  * <img src="雲端事業學院.webp" height="700">  
-    * image source: [如何建立雲端事業](https://youtu.be/hppb6JP3eQk)

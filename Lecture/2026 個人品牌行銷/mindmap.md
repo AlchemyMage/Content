@@ -11,6 +11,7 @@ title: 個人品牌行銷 - mindmap
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/jnneeT3Mma8" title=" [2020 TGDF] 蛤？遊戲還沒有開始做每個月就有收益是不是搞錯了什麼！？(Kuro) " frameborder="0" ></iframe>  
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/rWWzeNhokFU" title="未来自媒体，要用“资产布局”的思路做？ " frameborder="0" ></iframe>
 * 核心思想
+  * 要以零成本開始
   * 賺到錢，順便學會XXX
     * 放棄能力主導思維
     * 普通人的財富自由之道
@@ -160,7 +161,7 @@ title: 個人品牌行銷 - mindmap
     * 拆解策略
   * 模式萃取
     * 成功模式
-      * <img src="雲端事業學院.webp" height="300">
+      * <img src="../images/雲端事業學院.webp" height="300">
     * 主題選擇（解決問題型、娛樂型、知識型）
     * 內容長度與深度
     * CTA（行動呼籲）策略
@@ -218,7 +219,7 @@ title: 個人品牌行銷 - mindmap
         * Hub： 使用平易近人的語言，提供實用的資訊。
         * Hygiene： 使用簡單易懂的語言，快速解答問題。
     * 飛輪效應
-      * <img src="flywheel.webp" height="300">
+      * <img src="../images/flywheel.webp" height="300">
         *  飛輪效應——A+企管大師柯林斯，7步驟打造成功飛輪，帶你從優秀邁向卓越 
       * <iframe width="450" height="255" src="https://www.youtube.com/embed/oVtxAm5iOgM?start=720" title="【Krenz】心得：繪畫時的常見問題和心態答疑" frameborder="0" ></iframe> 
       * <iframe width="450" height="255" src="https://www.youtube.com/embed/zF-Yk1h23yw?start=318" title="【無人深空：九年封神】當星空還在讀取、星際公民還在畫餅，它早已用40次免費更新，重新定義了太空神作📰" frameborder="0" ></iframe>
