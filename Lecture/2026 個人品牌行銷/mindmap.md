@@ -207,6 +207,7 @@ title: 個人品牌行銷 - mindmap
     * 一魚多吃原則
       * 同一素材，不同平台演繹
       * 長影片 → 短影音 → 圖文 → Podcast
+      * <iframe width="450" height="255" src="https://www.youtube.com/embed/kPXqefd3AAc" title="2025 最有潛力的7種副業？沒有本金也可以達到遠距工作財富自由！【艾學習】｜艾琳的日常" frameborder="0" ></iframe>
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/i5MfoKuo0wg" title="YouTube只是副業？我的20種收入來源大公開｜艾琳的日常" frameborder="0" ></iframe>
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/byzU6Wkiof8" title="[蕾咪] 5種增加收入的方法？下班後幫自己每月多賺3萬元！" frameborder="0" ></iframe>
       * <iframe width="450" height="255" src="https://www.youtube.com/embed/GqikWRLjcoA" title="[蕾咪] 11種被動收入大公開！月入超過6位數怎麼辦到？想提早退休你該這樣做...！" frameborder="0" ></iframe>
