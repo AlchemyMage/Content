@@ -108,6 +108,10 @@ title: 語言學習 - 01 Comprehensible Input
 * ChatGPT 
   * furigana method
   * context method
+  
+</div>
+
+<div class="slide">
 
 ## Homework
 

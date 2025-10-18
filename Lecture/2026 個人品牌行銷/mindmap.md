@@ -1,6 +1,6 @@
 ---
 layout: page/note/markmap
-title: 個人品牌行銷 - mindmap
+title: 個人品牌行銷 - 心智圖
 ---
 
 # 個人品牌行銷
@@ -63,11 +63,19 @@ title: 個人品牌行銷 - mindmap
   * 競品分析
   * 行銷
     * 怎樣是好的行銷文?
-    * "乾我屁事"原則
+      * "乾我屁事"原則
+    * 文章架構
+      * Hook
+      * AIDA架構
+        * Attention（注意）
+        * Interest（興趣）
+        * Desire（慾望）
+        * Action（行動）
       * PAS 架構指示：
         *  Problem (問題)： 明確指出目標受眾遇到的問題。
         *  Agitate (激化)： 激化問題的嚴重性，引起共鳴。
         *  Solution (解決方案)： 提供解決方案，並強調客戶的產品/服務的優勢。
+      * CTA（行動呼籲）策略
     * <img src="網路行銷藍圖.webp" height="300">
   * UVP（Unique Value Proposition）獨特價值主張
   * 預購
@@ -92,8 +100,6 @@ title: 個人品牌行銷 - mindmap
             * 不能葉配味道
   * STP（Segmentation、Targeting、Positioning）
   * TA (Target Audience)
-    * 特徵消費者 (Representative Consumer)
-    * 點估計 (Point Estimate)
     * 普通人的財富自由之道
       * <img src="TA table.webp" height="300">
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/0pFrpYK5SzY" title="自己画的好没人看，别人画的烂却被吹捧？如何推广自己的作品【抖抖村】How to Promote Your Artwork and Comics" frameborder="0" ></iframe> 
@@ -163,8 +169,6 @@ title: 個人品牌行銷 - mindmap
     * 成功模式
       * <img src="../images/雲端事業學院.webp" height="300">
     * 主題選擇（解決問題型、娛樂型、知識型）
-    * 內容長度與深度
-    * CTA（行動呼籲）策略
   * 範例：UmaJyeness
     * <img src="style1.webp" height="300"><img src="style2.webp" height="300">
   * 範例：齋藤直葵 讚賞 Ｉｘｙ（いくしー）日更策略
