@@ -18,6 +18,20 @@ title: 語言學習 - 02 Procedural knowledge
 
 <div class="slide">
 
+## Don't Translate
+
+* 不要做翻譯
+  * 🍎 -> 蘋果 -> Apple (X)
+  * 🍎(Apple) (O)
+
+* verständlicher Sprachinput
+  * <img src="./verständlicher Sprachinput.webp">
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/NiTsduRreug" title=" Stephen Krashen on Language Acquisition " frameborder="0" ></iframe>
+
+</div>
+
+<div class="slide">
+
 ## 知行合一
 
 * 外顯知識 (Explicit Knowledge) vs 內隱知識 (Implicit Knowledge)
