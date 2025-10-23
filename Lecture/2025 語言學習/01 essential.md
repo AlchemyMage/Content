@@ -2,6 +2,20 @@
 title: 語言學習 - 01 Comprehensible Input
 ---
 
+
+<div class="slide">
+
+## 從小到大學英文
+
+為什麼我們學了這麼久英文，卻還是覺得『不會』？問題到底出在哪？
+
+從國小背到高中，單字文法一把罩，遇到外國人卻『嗯…啊…』？你
+
+英文課本翻到爛，成績單很漂亮，但你真的能用英文溝通嗎？是時候終結無效學習了
+
+</div>
+
+
 <div class="slide">
 
 ## 語言學習
@@ -13,6 +27,26 @@ title: 語言學習 - 01 Comprehensible Input
 3. Comprehensible Input
 
 <iframe width="450" height="255" src="https://www.youtube.com/embed/NiTsduRreug" title=" Stephen Krashen on Language Acquisition " frameborder="0" ></iframe>
+
+
+</div>
+
+<div class="slide">
+
+## 自我介紹
+
+森羅Mage
+
+* tg id: posetmage
+  * 透視13期
+  * 構成11期
+  * 色彩14期
+  * 歡迎認親
+
+* 興趣:
+  * 遊戲設計
+  * ACGN
+
 
 </div>
 
@@ -77,6 +111,16 @@ title: 語言學習 - 01 Comprehensible Input
 * 15%法則(高手學習)
 
 </div>
+
+
+<div class="slide">
+
+## Search Comprehensible Input
+
+<iframe width="450" height="255" src="https://www.youtube.com/embed/XIYsmkoHoPI" title=" Felix At The Park Total Beginner German Storytelling " frameborder="0" ></iframe>
+
+</div>
+
 
 
 <div class="slide">

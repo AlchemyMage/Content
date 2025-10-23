@@ -26,7 +26,7 @@ title: 語言學習 - 02 Procedural knowledge
 
 * verständlicher Sprachinput
   * <img src="./verständlicher Sprachinput.webp">
-  * <iframe width="450" height="255" src="https://www.youtube.com/embed/NiTsduRreug" title=" Stephen Krashen on Language Acquisition " frameborder="0" ></iframe>
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/rw-DW_YlfoI" title=" If You Are A Beginner Watch This NOW! Easy Spanish! " frameborder="0" ></iframe>
 
 </div>
 
@@ -96,6 +96,18 @@ https://en.wikipedia.org/wiki/Fossilization_(linguistics)
 
 
 <div class="slide">
+
+## My Example
+
+<img src="./着せ恋-comic.webp">
+<img src="./着せ恋-anime.webp">
+
+
+</div>
+
+
+<div class="slide">
+
 
 ## My Examples
 
