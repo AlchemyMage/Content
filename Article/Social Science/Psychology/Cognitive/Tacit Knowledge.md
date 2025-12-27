@@ -1,6 +1,6 @@
 # 內隱知識=知行合一
 
-俗稱專家的直覺，當一個知識進行無數次的操作之後形成經驗，也就是將系統2訓練成系統1( [[系統1與系統2]](Content/Article/Natural%20Science/Biology/Neuroscience/System%201%20vs%202) )
+俗稱專家的直覺，當一個知識進行無數次的操作之後形成經驗，也就是將系統2訓練成系統1( [[系統1與系統2]](/Content/Article/Natural%20Science/Biology/Neuroscience/System%201%20vs%202) )
 
 在後AI時代，我們可以輕易地使用AI做到很多事情，那麼學習外顯知識(explicit knowledge)就不重要了，重要的是內隱知識(implicit knowledge)，或稱為Tacit Knowledge。
 
